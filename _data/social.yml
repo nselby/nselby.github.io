@@ -1,10 +1,8 @@
-- link: //www.twitter.com/twitter_handle 
+- link: //www.twitter.com/nselby 
   icon: icon-twitter
-- link: //plus.google.com/+googlePlusName 
+- link: //plus.google.com/+NickSelby 
   icon: icon-googleplus
-- link: //github.com/GithubHandle 
+- link: //github.com/nselby
   icon: icon-github
-- link: //www.flickr.com/photos/FlickrUserID 
-  icon: icon-flickr
 - link: /feed 
   icon: icon-feed
