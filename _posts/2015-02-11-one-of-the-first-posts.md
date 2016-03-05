@@ -16,7 +16,7 @@ published: false
 
   <link rel="stylesheet" href="/css/tufte.css">	
   
-
+ 
   <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
   
     <link href='//fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
