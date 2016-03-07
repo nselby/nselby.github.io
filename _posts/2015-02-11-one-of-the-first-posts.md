@@ -3,32 +3,10 @@ published: true
 ---
 
 ## A New Post
-<!DOCTYPE html>
-<html>
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <title>About</title>
-  <meta name="description" content="Law enforcement, data, technology and information security">
 
 
   <link rel="stylesheet" href="/css/tufte.css">
 
-
-  <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
-
-    <link href='//fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
-
-  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
-
-    <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
-
-  <link rel="canonical" href="/about/">
-  <link rel="alternate" type="application/rss+xml" title="" href="/feed.xml" />
-</head>
 
   <body class="full-width">
     <!--- Header and nav template site-wide -->
