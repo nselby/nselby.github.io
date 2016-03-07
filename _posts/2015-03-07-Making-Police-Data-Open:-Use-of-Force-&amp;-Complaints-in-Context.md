@@ -2,6 +2,11 @@
 published: true
 ---
 
+  <link rel="stylesheet" href="/css/tufte.css">
+
+
+  <body class="full-width">
+
 ##Making Police Data Open: Use of Force &amp; Complaints in Context
 <p><img src="https://cdn-images-1.medium.com/max/1200/1*a_B2NTWKJh7p4mIed4ZWpw.png" /></p>
 
