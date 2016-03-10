@@ -30,7 +30,7 @@ published: true
 
 <p>For example, Indy's lowest median household incomes, and highest rates of poverty, are concentrated in neighborhoods up to four miles east and up to three miles southeast of Downtown Indianapolis. So what is it about that eastern district that makes police rude to more white people during the day and more black people at night?</p>
 
-<p><img float: left; margin: 10px; margin-top: 5px;" width="200px" src="https://medium.com/@nselby/making-police-data-open-use-of-force-complaints-in-context-e0a47cf0ea9b#.kgz96h4rp" border="0" />Does its population change from day to night? It sure does in lots of communities, especially in larger cities, in areas where people work on the day shift.</p>
+<p><img style="float: left; margin: 10px; margin-top: 5px;" width="200px" src="https://cdn-images-1.medium.com/max/1200/1*F3mYS23SHPn-hsnDL9HEeg.png" border="0" />Does its population change from day to night? It sure does in lots of communities, especially in larger cities, in areas where people work on the day shift.</p>
 
 <p>Or does race have less to do with these kinds of complaints than other factors, like shift supervision, or the officers on duty, or crime rates, or…</p>
 
