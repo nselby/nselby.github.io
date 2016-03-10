@@ -80,7 +80,7 @@ body { width: 87.5%;
        margin-left: auto;
        margin-right: auto;
        padding-left: 12.5%;
-       font-family: et-bembo, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+       font-family: Georgia, Times New Roman, serif;
        background-color: $bg-color;
        color: $text-color;
        max-width: 1400px;
@@ -121,7 +121,7 @@ p .subtitle { font-style: italic;
 
 p, ol, ul { font-size: 1.4rem; }
 
-p, li { line-height: 2rem;
+p, li { line-height: 2.5rem;
         margin-top: 1.4rem;
         padding-right: 2rem; //removed because,  why?
         vertical-align: baseline; }
