@@ -8,7 +8,7 @@ published: true
   <body class="full-width">
 
 ##Making Police Data Open: Use of Force &amp; Complaints in Context
-<p><img style="float: left; margin: 10px; margin-top: 50px;" width="120px" src="https://cdn-images-1.medium.com/max/1200/1*a_B2NTWKJh7p4mIed4ZWpw.png" /></p>
+<p><img style="float: left; margin: 10px; margin-top: 5px;" width="200px" src="https://cdn-images-1.medium.com/max/1200/1*a_B2NTWKJh7p4mIed4ZWpw.png" /></p>
 
 <p>Last year, Indianapolis Police Department officers working the middle shift in the Eastern District received at least twice as many complaints of rudeness and hostility than officers on almost any other shift, in any other area. And 63% of those complaints came from white people.</p>
 
