@@ -22,7 +22,7 @@ published: true
 
 <p>With Comport, law enforcement agencies can plug in existing internal affairs data, add contextual information about policies and programs, and quickly create an open data site. That fuels conversation, and most important, fosters openness.</p>
 
-<p>Comport doesn't ask or answer all the questions I am talking about here. But it does serve up beautiful and easy to understand visualizations of questions that have been asked by the community, about race, types of force, types of complaints, and outcomes. And it lets you download all the data yourself, free, so that you can do your own research — and double-check Comport's.</p>
+<p><img style="float: right; margin: 10px; margin-top: 5px;" width="200px" src="https://cdn-images-1.medium.com/max/2000/1*-RrqsEuZ3NBPYDjA3MnYzw.png" border="0" />Comport doesn't ask or answer all the questions I am talking about here. But it does serve up beautiful and easy to understand visualizations of questions that have been asked by the community, about race, types of force, types of complaints, and outcomes. And it lets you download all the data yourself, free, so that you can do your own research — and double-check Comport's.</p>
 
 <p>When you have good, open data, your community can ask questions. Like drilling past race, into officer cohorts. On the late shift in Indy's Eastern District, more than half those discourtesy complaints were on officers under age 40, and half of them had been on the job for less than 6 years.</p>
 
@@ -30,7 +30,7 @@ published: true
 
 <p>For example, Indy's lowest median household incomes, and highest rates of poverty, are concentrated in neighborhoods up to four miles east and up to three miles southeast of Downtown Indianapolis. So what is it about that eastern district that makes police rude to more white people during the day and more black people at night?</p>
 
-<p>Does its population change from day to night? It sure does in lots of communities, especially in larger cities, in areas where people work on the day shift.</p>
+<p><img float: left; margin: 10px; margin-top: 5px;" width="200px" src="https://medium.com/@nselby/making-police-data-open-use-of-force-complaints-in-context-e0a47cf0ea9b#.kgz96h4rp" border="0" />Does its population change from day to night? It sure does in lots of communities, especially in larger cities, in areas where people work on the day shift.</p>
 
 <p>Or does race have less to do with these kinds of complaints than other factors, like shift supervision, or the officers on duty, or crime rates, or…</p>
 
