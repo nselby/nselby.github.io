@@ -35,7 +35,7 @@ html, body { height: 100%; }
 
 html{
     text-align: baseline;
-    font-size: 11px;
+    font-size: 11.5px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 
@@ -65,7 +65,8 @@ a {
 p > a { @if $link-style == underline
     {
       color: $text-color;
-      text-decoration: none;
+      text-decoration: underline;
+      font-weight: bold;
       border-bottom: 1px solid #777;
       padding-bottom: 1px;
     }
@@ -73,6 +74,7 @@ p > a { @if $link-style == underline
     {
       color: $contrast-color;
       text-decoration: none;
+      font-weight: bold;
     }
   }
 
