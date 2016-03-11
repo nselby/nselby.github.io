@@ -2,9 +2,7 @@
 published: true
 ---
 <link rel="stylesheet" href="/css/tufte.css">
-{% include head.md %}
   <body class="full-width">
-
 {% include header.html %}
 
 
