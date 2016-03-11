@@ -63,5 +63,3 @@ layout: default
 <p>I urge you to go and get the data — on <a href="https://www.projectcomport.org/department/IMPD/useofforce" target="_blank">use of force</a>, on <a href="https://www.projectcomport.org/department/IMPD/complaints" target="_blank">complaints</a>, and on <a href="https://www.projectcomport.org/department/IMPD/officerinvolvedshootings" target="_blank">officer-involved shootings</a>.</p>
 
 <p>As you use it, consider that the Indianapolis Metropolitan Police Department has taken a risk that should be applauded: they are going the extra step to make it easier to get data that, in careless hands can be used to make the department look bad. This is so important to recognize: when police departments do the right thing, and do it right, we really have to recognize that.</p>
-
-{% include footer.html %}
