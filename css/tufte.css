@@ -273,3 +273,265 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
                             div.table-wrapper, table, table.booktabs { width: 85%; }
                             div.table-wrapper { border-right: 1px solid #efefef; }
                             img { width: 100%; } }
+
+/* -- Jekyll specific styling --*/
+//helper classes
+
+.contrast { color: $contrast-color;}
+.smaller { font-size: 80%;}
+//Nav and Footer styling area
+
+header > nav.group, body footer {
+  width: 95%;
+  padding-top: 2rem;
+}
+
+nav.group a.active:before{ content:"\0003c\000a0";} // escaped unicode for the carats and then a space on active menu links
+nav.group a.active:after{ content:"\000a0\0003e" ;}
+
+header > nav  a{
+  font-size: 1.2rem;
+  font-family: $sans-font;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: $contrast-color;
+  padding-top: 1.5rem;
+  text-decoration: none;
+  display: inline-block;
+  float: left;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-right: 2rem;
+  //margin-left: 1rem;
+  vertical-align: baseline;
+}
+header > nav a img{
+  height: 5rem;
+  position: relative;
+  max-width: 100%;
+  top:-1.5rem;
+}
+ul.footer-links, .credits{
+  list-style: none;
+  text-align: center;
+  margin: 0 auto;
+}
+ul.footer-links li{
+  display: inline;
+  padding: 0.5rem 0.25rem;
+}
+.credits{
+  padding: 1rem 0rem;
+}
+
+//change font color for credit links in footer
+
+.credits{
+  font-family: $sans-font;
+    & a{
+      color: $contrast-color;
+    }
+}
+
+// End of Nav and Footer styling area
+
+//Full width page styling stuff
+
+body.full-width, .content-listing, ul.content-listing li.listing{ width: 90%;
+       margin-left: auto;
+       margin-right: auto;
+       padding: 0% 5%;
+
+}
+.full-width article p{
+  width: 90%;
+}
+
+
+h1.content-listing-header{
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+  font-size: 1.8rem;
+}
+
+li.listing hr{
+  width:100%;
+}
+.listing, .listing h3
+{
+  display: inline-block;
+  margin:0;
+}
+li.listing {
+  margin:0;
+  & p{
+    width: 100%
+  }
+}
+
+
+li.listing:last-of-type{
+  border-bottom: none;
+  margin-bottom: 1.4rem;
+}
+li.listing h3.new {
+  text-transform: uppercase;
+  font-style: normal;
+}
+hr.slender {
+    border: 0;
+    height: 1px;
+    margin-top: 1.4rem;
+    margin-bottom:1.4rem;
+    background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+}
+// End of front listing page stuff
+
+
+// Printing ands screen media queries
+
+// Does not display a print-footer for screen display
+@media screen{
+  .print-footer{
+    display: none;
+  }
+}
+
+//printing stuff
+@media print {
+    *,
+    *:before,
+    *:after {
+        background: transparent !important;
+        color: #000 !important; // Black prints faster:http://www.sanbeiji.com/archives/953
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+    @page {
+        margin: 0.75in 0.5in 0.75in 0.5in;
+        orphans:4; widows:2;
+    }
+
+    body {
+        font-size:  12pt;
+
+    }
+    html body span.print-footer{
+      font-family: $sans-font;
+      font-size: 9pt;
+      margin-top: 22.4pt;
+      padding-top: 4pt;
+      border-top: 1px solid #000;
+    }
+
+    thead {
+        display: table-header-group;
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 4;
+        widows: 4;
+    }
+    article h2, article h2 h3, article h3, article h3 h4, article h4, article h4 h5 {
+        page-break-after: avoid;
+    }
+
+    body header , body footer {
+      display:none;
+    }
+}
+
+
+/* --- Icomoon icon fonts CSS --*/
+@font-face {
+  font-family: 'icomoon';
+  src:url('../fonts/icomoon.eot?rgwlb8');
+  src:url('../fonts/icomoon.eot?#iefixrgwlb8') format('embedded-opentype'),
+    url('../fonts/icomoon.woff?rgwlb8') format('woff'),
+    url('../fonts/icomoon.ttf?rgwlb8') format('truetype'),
+    url('../fonts/icomoon.svg?rgwlb8#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'icomoon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  color: $contrast-color;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-pencil:before {
+  content: "\e600";
+}
+.icon-film:before {
+  content: "\e60f";
+}
+.icon-calendar:before {
+  content: "\e601";
+}
+.icon-link:before {
+  content: "\e602";
+}
+.icon-info:before {
+  content: "\e603";
+}
+.icon-cancel-circle:before {
+  content: "\e604";
+}
+.icon-checkmark-circle:before {
+  content: "\e605";
+}
+.icon-spam:before {
+  content: "\e606";
+}
+.icon-mail:before {
+  content: "\e607";
+}
+.icon-googleplus:before {
+  content: "\e608";
+}
+.icon-facebook:before {
+  content: "\e609";
+}
+.icon-twitter:before {
+  content: "\e60a";
+}
+.icon-feed:before {
+  content: "\e60b";
+}
+.icon-flickr:before {
+  content: "\e60c";
+}
+.icon-github:before {
+  content: "\e60d";
+}
+.icon-box-add:before {
+  content: "\e60e";
+}
+/*-- End of Icomoon icon font section --*/
+Status API Training Shop Blog About Pricing
+© 2016 GitHub, Inc. Terms Privacy Security Contact Help
