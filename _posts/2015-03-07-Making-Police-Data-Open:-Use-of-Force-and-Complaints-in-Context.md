@@ -14,6 +14,8 @@ published: true
 
 <p>The second highest numbers of complaints of rudeness and hostility were leveled against officers on IPD's Eastern District late shift. But 65% of those complaints were made by black people.</p>
 
+<blockquote>This is a test of block quoted text. It is supposed to align right and act like a margin note.</blockquote>
+
 <p>I know this because I was able to download <a href="https://www.projectcomport.org/" target="_blank">Indianapolis Police civilian complaint data from Project Comport</a>, brought to us by <a href="https://www.codeforamerica.org/governments/indianapolis/" target="_blank">Code for America's Team Indy</a>, and the <a href="http://www.indy.gov/eGov/City/DPS/IMPD/Pages/home.aspx" target="_blank">Indianapolis Metropolitan Police Department</a>. Comport is a tool for law enforcement agencies to open their data and be accountable to their citizens.</p>
 
 <p><a href="https://www.washingtonpost.com/posteverything/wp/2016/01/15/just-counting-people-killed-by-police-wont-fix-problems-we-need-better-data/" target="_blank">Professor Peter Moskos and I recently wrote</a> that, "behind the dry statistics and chilling tallies, there are human beings in each of these cases. Our point was that when people look at data about criminal justice — from police-involved killings, to use of force, to complaints of officer rudeness — through ideological goggles, they tend to view it from an extreme. And whether that means they think all cops are racist, or that whatever cops feel they have to do is justified, ideologues have stopped listening to constructive criticism.</p>
