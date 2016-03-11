@@ -14,7 +14,7 @@ published: true
 
 <p>The second highest numbers of complaints of rudeness and hostility were leveled against officers on IPD's Eastern District late shift. But 65% of those complaints were made by black people.</p>
 
- <p class="marginnote">This is a test of block quoted text. It is supposed to align right and act like a margin note.</p>
+ <span class="sidenote">This is a test of block quoted text. It is supposed to align right and act like a margin note.</span>
 
 <p>I know this because I was able to download <a href="https://www.projectcomport.org/" target="_blank">Indianapolis Police civilian complaint data from Project Comport</a>, brought to us by <a href="https://www.codeforamerica.org/governments/indianapolis/" target="_blank">Code for America's Team Indy</a>, and the <a href="http://www.indy.gov/eGov/City/DPS/IMPD/Pages/home.aspx" target="_blank">Indianapolis Metropolitan Police Department</a>. Comport is a tool for law enforcement agencies to open their data and be accountable to their citizens.</p>
 
