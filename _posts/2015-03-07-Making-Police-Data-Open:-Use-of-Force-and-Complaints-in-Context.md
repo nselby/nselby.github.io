@@ -15,7 +15,7 @@ published: true
 <p>The second highest numbers of complaints of rudeness and hostility were leveled against officers on IPD's Eastern District late shift. But 65% of those complaints were made by black people.
 
 <label for="sn-demo" class="margin-toggle sidenote-number"></label>
-<input type="checkbox" id="sn-demo" class="margin-toggle"/> <span class="sidenote">This is a test of block quoted text. It is supposed to align right and act like a margin note.</span></p>
+<input type="checkbox" id="sn-demo" class="margin-toggle"/> <span class="sidenote">These are a combination of complaints for things like, "Rude, demeaning, or affronting gestures," "Rude, discourteous, or insulting language," "Rude, demeaning, or affronting language," "Indecent or lewd language," and similar charges. Complaints are mapped to the regulations that IMPD officers must follow, hence the slightly variant complaint descriptions about basically the same thing: discourtesy.</span></p>
 
 <p>I know this because I was able to download <a href="https://www.projectcomport.org/" target="_blank">Indianapolis Police civilian complaint data from Project Comport</a>, brought to us by <a href="https://www.codeforamerica.org/governments/indianapolis/" target="_blank">Code for America's Team Indy</a>, and the <a href="http://www.indy.gov/eGov/City/DPS/IMPD/Pages/home.aspx" target="_blank">Indianapolis Metropolitan Police Department</a>. Comport is a tool for law enforcement agencies to open their data and be accountable to their citizens.</p>
 
