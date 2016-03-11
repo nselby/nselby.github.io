@@ -3,7 +3,7 @@ published: true
 ---
 
   <link rel="stylesheet" href="/css/tufte.css">
-
+  <link rel="stylesheet" href="/css/tufte.scss">
 
   <body class="full-width">
 
