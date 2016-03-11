@@ -1,5 +1,6 @@
 ---
 published: true
+layout: default
 ---
 <link rel="stylesheet" href="/css/tufte.css">
   <body>
