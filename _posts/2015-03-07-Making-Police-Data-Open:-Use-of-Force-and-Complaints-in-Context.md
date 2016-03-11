@@ -1,9 +1,7 @@
 ---
 published: true
 ---
-
-  <link rel="stylesheet" href="/css/tufte.css">
-  <link rel="stylesheet" href="/css/tufte.scss">
+<link rel="stylesheet" href="/css/tufte.css">
 
   <body class="full-width">
 <header>
