@@ -298,7 +298,7 @@ header > nav  a{
   padding-top: 1.5rem;
   text-decoration: none;
   display: inline-block;
-  float: left;
+  //float: left;
   margin-top: 0;
   margin-bottom: 0;
   padding-right: 2rem;
