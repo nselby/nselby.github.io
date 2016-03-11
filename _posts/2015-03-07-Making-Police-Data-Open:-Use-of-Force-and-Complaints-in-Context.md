@@ -2,15 +2,13 @@
 published: true
 ---
 <link rel="stylesheet" href="/css/tufte.css">
-
+{% include head.html %}
   <body class="full-width">
-<header>
-    <nav class="group">
-	<a href="/"><img class="badge" src="/assets/img/badge_2a.png" alt="CH"></a>
-		      <a class="active" href="/" class="active">blog</a>
-		      <a href="/about/">About</a>
-	</nav>
-</header>
+
+{% include header.html %}
+
+
+
 ##Making Police Data Open: Use of Force &amp; Complaints in Context
 <p><img style="float: left; margin: 10px; margin-top: 5px;" width="400px" src="https://cdn-images-1.medium.com/max/1200/1*a_B2NTWKJh7p4mIed4ZWpw.png" /></p>
 
