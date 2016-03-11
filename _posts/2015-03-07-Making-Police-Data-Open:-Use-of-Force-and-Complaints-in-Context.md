@@ -6,7 +6,6 @@ published: true
   <link rel="stylesheet" href="/css/tufte.scss">
 
   <body class="full-width">
-    <!--- Header and nav template site-wide -->
 <header>
     <nav class="group">
 	<a href="/"><img class="badge" src="/assets/img/badge_2a.png" alt="CH"></a>
