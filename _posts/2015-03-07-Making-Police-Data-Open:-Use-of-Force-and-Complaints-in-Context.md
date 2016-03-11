@@ -1,6 +1,7 @@
 ---
 published: true
 ---
+{% include head.html %}
 <link rel="stylesheet" href="/css/tufte.css">
   <body>
 {% include header.html %}
