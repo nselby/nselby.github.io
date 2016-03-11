@@ -8,7 +8,7 @@ published: true
   <link rel="stylesheet" href="/css/tufte.css">
 
 
-  <body class="full-width">
+  <body>
 
 
 <p>Since we launched the StreetCred Police Killings in Context database last month, the response has been really interesting in the world of law enforcement. The engagement with agencies and administrators, and with industry groups (watch this space) has been truly gratifying. </p>
