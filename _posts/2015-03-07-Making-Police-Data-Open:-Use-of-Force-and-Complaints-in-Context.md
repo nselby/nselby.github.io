@@ -10,12 +10,12 @@ published: true
 ##Making Police Data Open: Use of Force &amp; Complaints in Context
 <p><img style="float: left; margin: 10px; margin-top: 5px;" width="400px" src="https://cdn-images-1.medium.com/max/1200/1*a_B2NTWKJh7p4mIed4ZWpw.png" /></p>
 
-<p>Last year, Indianapolis Police Department officers working the middle shift in the Eastern District received at least twice as many complaints of rudeness and hostility than officers on almost any other shift, in any other area. And 63% of those complaints came from white people.</p>
+<p>Last year, Indianapolis Police Department officers working the middle shift in the Eastern District received at least twice as many complaints of rudeness and hostility than officers on almost any other shift, in any other area. <label for="sn-demo" class="margin-toggle sidenote-number"></label>
+<input type="checkbox" id="sn-demo" class="margin-toggle"/> <span class="sidenote">These are a combination of complaints for things like, "Rude, demeaning, or affronting gestures," "Rude, discourteous, or insulting language," "Rude, demeaning, or affronting language," "Indecent or lewd language," and similar charges. Complaints are mapped to the regulations that IMPD officers must follow, hence the slightly variant complaint descriptions about basically the same thing: discourtesy.</span>And 63% of those complaints came from white people.</p>
 
 <p>The second highest numbers of complaints of rudeness and hostility were leveled against officers on IPD's Eastern District late shift. But 65% of those complaints were made by black people.
 
-<label for="sn-demo" class="margin-toggle sidenote-number"></label>
-<input type="checkbox" id="sn-demo" class="margin-toggle"/> <span class="sidenote">These are a combination of complaints for things like, "Rude, demeaning, or affronting gestures," "Rude, discourteous, or insulting language," "Rude, demeaning, or affronting language," "Indecent or lewd language," and similar charges. Complaints are mapped to the regulations that IMPD officers must follow, hence the slightly variant complaint descriptions about basically the same thing: discourtesy.</span></p>
+</p>
 
 <p>I know this because I was able to download <a href="https://www.projectcomport.org/" target="_blank">Indianapolis Police civilian complaint data from Project Comport</a>, brought to us by <a href="https://www.codeforamerica.org/governments/indianapolis/" target="_blank">Code for America's Team Indy</a>, and the <a href="http://www.indy.gov/eGov/City/DPS/IMPD/Pages/home.aspx" target="_blank">Indianapolis Metropolitan Police Department</a>. Comport is a tool for law enforcement agencies to open their data and be accountable to their citizens.</p>
 
