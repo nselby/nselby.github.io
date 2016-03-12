@@ -396,7 +396,6 @@ li.listing {
   }
 }
 
-
 li.listing:last-of-type{
   border-bottom: none;
   margin-bottom: 1.4rem;
@@ -559,5 +558,11 @@ hr.slender {
   content: "\e60e";
 }
 /*-- End of Icomoon icon font section --*/
-Status API Training Shop Blog About Pricing
-© 2016 GitHub, Inc. Terms Privacy Security Contact Help
+
+img.left {float:left;
+   margin-left: -30;
+   border: 0px;
+}
+
+
+
