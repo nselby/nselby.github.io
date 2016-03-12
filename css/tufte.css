@@ -207,7 +207,7 @@ img { max-width: 100%; }
 .sidenote:before { content: counter(sidenote-counter) " ";
                    top: -0.5rem; }
 
-p, footer, table, div.table-wrapper-small, div.supertable-wrapper > p, div.booktabs-wrapper { width: 55%; }
+p, footer, disqus_thread, table, div.table-wrapper-small, div.supertable-wrapper > p, div.booktabs-wrapper { width: 55%; }
 
 div.fullwidth, table.fullwidth { width: 100%; }
 
