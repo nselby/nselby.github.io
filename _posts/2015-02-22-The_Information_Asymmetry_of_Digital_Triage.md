@@ -5,7 +5,7 @@ title: The Information Asymmetry of Digital Triage
 ---
 
 
-<h2>The Information Asymmetry of Digital Triage</h2>
+<h1>The Information Asymmetry of Digital Triage</h1>
 
 <h3>America Decided the FBI Is Right, Without Understanding What <br />&nbsp;&nbsp;the FBI, or Apple, are saying.</h3>
 
