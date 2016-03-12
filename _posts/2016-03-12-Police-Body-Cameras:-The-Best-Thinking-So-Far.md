@@ -18,7 +18,7 @@ layout: default
 <h3>Who controls the data?</h3>
 Joh focuses her paper on the important questions around the data - how it is created, processed, and stored. As a part of this she refers briefly to the physical form factor of the device, including this brilliant and insightful observation:
 
-<blockquote>The very design of a police body camera can influence the resulting data. Seemingly mundane questions of equipment design and cost can shape the information produced.</blockquote>
+<blockquote>“The very design of a police body camera can influence the resulting data. Seemingly mundane questions of equipment design and cost can shape the information produced.”</blockquote>
 
 <p>This is a huge issue that doesn't get considered that often, and is really at odds with the way American policing tends to buy equipment. US cops like to buy the same equipment for everyone, and that is limiting, especially when, sometimes, the kind of camera that might be right for many officers (the Reveal camera here, developed in the UK with a UK design sensibility based primarily around UK <img class="right" width="400px" src="https://nselby.github.io/assets/img/reveal.png" />societal privacy expectatiions) might be great for a range of activities in which it's fine to let people know you are recording. But in many US use-cases, the sight of oneself on video might very well be provocative to those being policed.</p>
 
