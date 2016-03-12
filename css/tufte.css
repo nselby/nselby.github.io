@@ -375,6 +375,7 @@ h1.content-listing-header{
  ul.content-listing, li.listing { width: 55%;
        float: left;
        padding: 0% 5%;
+       list-style-type: none;
 
 }
 
