@@ -8,7 +8,7 @@ title: The Information Asymmetry of Digital Triage
 
 ![Hospital](https://cdn-images-1.medium.com/max/2000/1*BFeg_P6Xl2McvqLDZ1L_cw.jpeg)
 
-<h2>The Information Asymmetry of Digital Triage</h2>
+<h1>The Information Asymmetry of Digital Triage</h1>
 
 <h3>America Decided the FBI Is Right, Without Understanding What <br />&nbsp;&nbsp;the FBI, or Apple, are saying.</h3>
 
