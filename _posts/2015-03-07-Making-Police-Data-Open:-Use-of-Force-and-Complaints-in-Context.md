@@ -27,7 +27,7 @@ layout: default
 
 <p>With Comport, law enforcement agencies can plug in existing internal affairs data, add contextual information about policies and programs, and quickly create an open data site. That fuels conversation, and most important, fosters openness.</p>
 
-<p><img class="right" src="https://cdn-images-1.medium.com/max/2000/1*-RrqsEuZ3NBPYDjA3MnYzw.png" />Comport doesn't ask or answer all the questions I am talking about here. But it does serve up beautiful and easy to understand visualizations of questions that have been asked by the community, about race, types of force, types of complaints, and outcomes. And it lets you download all the data yourself, free, so that you can do your own research — and double-check Comport's.</p>
+<p><img class="right" src="https://cdn-images-1.medium.com/max/2000/1*-RrqsEuZ3NBPYDjA3MnYzw.png" width="420" />Comport doesn't ask or answer all the questions I am talking about here. But it does serve up beautiful and easy to understand visualizations of questions that have been asked by the community, about race, types of force, types of complaints, and outcomes. And it lets you download all the data yourself, free, so that you can do your own research — and double-check Comport's.</p>
 
 <p>When you have good, open data, your community can ask questions. Like drilling past race, into officer cohorts. On the late shift in Indy's Eastern District, more than half those discourtesy complaints were on officers under age 40, and half of them had been on the job for less than 6 years.</p>
 
