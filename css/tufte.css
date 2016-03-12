@@ -302,7 +302,7 @@ nav.group a.active:after{ content:"\000a0\0003e" ;}
 header > nav  a{
   font-size: 1.2rem;
   font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
-  front-weight: lighter;
+  font-weight: lighter;
   letter-spacing: 0.15em;
   text-transform: uppercase;
   color: $contrast-color;
