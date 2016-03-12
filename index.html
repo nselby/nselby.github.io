@@ -8,7 +8,7 @@ title: blog
     {% for post in site.posts %}      
         <li>
           <hr class="slender">
-          <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="contrast">{{ post.title }}</h3></a>
+          <a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
           <br /><span class="smaller">{{ post.date | date: " %-d %B %Y" }}</span>  <br/>
           <div style="clear: both;"><br />&nbsp;</div>
         </li>
