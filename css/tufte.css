@@ -368,16 +368,19 @@ h1.content-listing-header{
 
 li.listing hr{
   width:100%;
+  clear: both;
 }
 .listing, .listing h3
 {
   display: inline-block;
   margin:0;
+  clear: both;
 }
 li.listing {
   margin:0;
   & p{
     width: 100%
+    clear: both;
   }
 }
 
