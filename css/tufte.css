@@ -440,7 +440,8 @@ hr.slender {
 
     }
     html body span.print-footer{
-      font-family: $sans-font;
+      float: left;
+      font-family: $sans;
       font-size: 9pt;
       margin-top: 22.4pt;
       padding-top: 4pt;
