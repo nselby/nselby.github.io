@@ -14,3 +14,6 @@ layout: default
 <p>About a year and a half ago I <a href="https://medium.com/@nselby/barriers-to-officer-worn-video-the-ten-per-cent-challenge-50391ed9d688#.jlouj8bj4" target="_blank">wrote a fairly long blog post</a> about the main barriers to police video, which I considered to be generally grouped in the areas of Standards & Guidance, Bandwidth & Access Control, Integrity, Storage & Retention, and funding. Now Professor Elizabeth Joh has written the first draft of what will certainly become a truly great paper on the subject<label for="sn-demo" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-demo" class="margin-toggle"/><span class="sidenote">Joh, Elizabeth. "<a href="http://ssrn.com/abstract=2744159" target="_blank">Beyond Surveillance: Data Control and Body Cameras</a>." Surveillance and Society, 9 Mar. 2016.</span>. I figured that, since she did that, I'd riff on some of my thoughts about some of her thoughts. </p>
 
 <p>Whaddaya think?</p> 
+
+<h3>Who controls the data?</h3>
+Joh focuses her paper on the important questions around the data - how it is created, processed, and stored. 
