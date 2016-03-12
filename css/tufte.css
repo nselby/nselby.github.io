@@ -42,7 +42,7 @@ body { width: 87.5%;
        margin-left: auto;
        margin-right: auto;
        padding-left: 12.5%;
-       font-family: et-book, Georgia, Times, serif;
+       font-family: "et-book", Georgia, Times, serif;
        background-color: #ffffff;
        color: #111;
        max-width: 1400px;
