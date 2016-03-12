@@ -10,7 +10,7 @@ layout: default
 
 
 <h1>Making Police Data Open: Use of Force &amp; Complaints in Context</h1>
-<p><img style="float: left; margin: 10px; margin-top: 5px;" width="400px" src="https://cdn-images-1.medium.com/max/1200/1*a_B2NTWKJh7p4mIed4ZWpw.png" /></p>
+<p><img class="left" width="400px" src="https://cdn-images-1.medium.com/max/1200/1*a_B2NTWKJh7p4mIed4ZWpw.png" /></p>
 
 <p>Last year, Indianapolis Police Department officers working the middle shift in the Eastern District received at least twice as many complaints of rudeness and hostility than officers on almost any other shift, in any other area.<label for="sn-demo" class="margin-toggle sidenote-number"></label>
 <input type="checkbox" id="sn-demo" class="margin-toggle"/> <span class="sidenote">These are a combination of complaints for things like, "Rude, demeaning, or affronting gestures," "Rude, discourteous, or insulting language," "Rude, demeaning, or affronting language," "Indecent or lewd language," and similar charges. Complaints are mapped to the regulations that IMPD officers must follow, hence the slightly variant complaint descriptions about basically the same thing: discourtesy.</span>And 63% of those complaints came from white people.</p>
