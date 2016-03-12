@@ -368,8 +368,7 @@ h1.content-listing-header{
 }
 
  ul.content-listing, li.listing { width: 55%;
-        margin-left: auto;
-       margin-right: auto;
+       float: left;
        padding: 0% 5%;
 
 }
