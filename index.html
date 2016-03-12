@@ -6,10 +6,10 @@ title: blog
   <h1 class="content-listing-header sans">Blog Posts by Nick Selby</h1>
   <ul class="content-listing ">
     {% for post in site.posts %}      
-        <li class="listing">
+        <li>
           <hr class="slender">
           <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="contrast">{{ post.title }}</h3></a>
-          <br /><span class="smaller">{{ post.date | date: "%B %-d, %Y" }}</span>  <br/>
+          <br /><span class="smaller">{{ post.date | date: " %-d %B %Y" }}</span>  <br/>
           <div style="clear: both;"><br />&nbsp;</div>
         </li>
     {% endfor %}
