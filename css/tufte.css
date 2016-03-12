@@ -4,6 +4,13 @@
 @charset "UTF-8";
 
 @font-face {
+  font-family: "Euclid";
+  src: url("fonts/Euclid_BP_Bold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal
+}
+
+@font-face {
   font-family: "et-bembo";
   src: url("fonts/et-bembo/et-bembo-roman-line-figures/et-bembo-roman-line-figures.eot");
   src: url("fonts/et-bembo/et-bembo-roman-line-figures/et-bembo-roman-line-figures.eot?#iefix") format("embedded-opentype"), url("fonts/et-bembo/et-bembo-roman-line-figures/et-bembo-roman-line-figures.woff") format("woff"), url("fonts/t-bembo/et-bembo-roman-line-figures/et-bembo-roman-line-figures.ttf") format("truetype"), url("fonts/et-bembo/et-bembo-roman-line-figures/et-bembo-roman-line-figures.svg#etbookromanosf") format("svg");
@@ -47,7 +54,7 @@ body { width: 87.5%;
        max-width: 1400px;
        counter-reset: sidenote-counter; }
 
-h1 { font-family: 'et-bembo';
+h1 { font-family: 'Euclid';
      font-weight: 400;
      margin-top: 4rem;
      margin-bottom: 1.5rem;
