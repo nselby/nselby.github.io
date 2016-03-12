@@ -292,6 +292,7 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
 header > nav.group, body footer {
   width: 95%;
   padding-top: 2rem;
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
 }
 
 nav.group a.active:before{ content:"\0003c\000a0";} // escaped unicode for the carats and then a space on active menu links
@@ -300,7 +301,7 @@ nav.group a.active:after{ content:"\000a0\0003e" ;}
 
 header > nav  a{
   font-size: 1.2rem;
-  font-family: $sans-font;
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
   letter-spacing: 0.15em;
   text-transform: uppercase;
   color: $contrast-color;
