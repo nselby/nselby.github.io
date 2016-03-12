@@ -1,7 +1,6 @@
 ---
 published: true
 layout: default
-title: Police Body Cameras: The Best Thinking So Far
 ---
 
 <h1>Police Body Cameras: The Best Thinking So Far </h1>
