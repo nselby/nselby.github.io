@@ -55,10 +55,10 @@ body { width: 87.5%;
        counter-reset: sidenote-counter; }
 
 h1 { font-family: 'Euclid';
-     font-weight: 400;
+     font-weight: lighter;
      margin-top: 4rem;
      margin-bottom: 1.5rem;
-     font-size: 3.2rem;
+     font-size: 3.0rem;
      line-height: 1; }
 
 h2 { font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif; 
