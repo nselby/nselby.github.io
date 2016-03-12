@@ -37,3 +37,16 @@ layout: default
 <p>So, too, are there legitimate reasons why those who come into contact with the police would expect privacy. Consider the reaction of a confidential informer of a body-camera in the room as he describes criminal activities. Think about the battered person describing, on camera, to the police how their spouse or roommate beats them. Or the witness to a murder. </p>
 
 <p>It's important to realize that, while methods and technologies to turn on the camera are going to be developed, thingsare not as simple as they might appear at first glance.</p>
+
+<h3>How will the data be shared?</h3>
+The questions about data storage have not really changed <a href="https://medium.com/@nselby/barriers-to-officer-worn-video-the-ten-per-cent-challenge-50391ed9d688#.jlouj8bj4" target="_blank">since I last wrote about them</a>, and the question of whether the data must be stored in a <a href="https://www.fbi.gov/about-us/cjis/cjis-security-policy-resource-center" target="_blank">CJIS-secured environment</a> are being resolved with the general consensus that they do. </p>
+
+<p>Processing and sharing of the data - indexing, mining it, running facial recognition and automated licence plate recognition systems against it, audio transcrition and other methods of data dissemination will need to be addressed, because the amount of data resulting from a data surveillance state is both useful and terrifying.</p>
+
+<p>I personally believe that the biggest issue we face is the least discussed: retention periods. I will repeat my last post here, because I believe this is the most important.   
+
+<p>To put the “How long should law enforcement agencies store video” question into the right frame of reference, I’ll rhetorically ask you this: In a murder or rape case, when should we throw away the DNA evidence?</p>
+
+<p>ACLU’s suggestion on retention policy is that, for a number of thoughtful and laudable reasons, police should measure retention period in weeks, not years. They’re doing this to protect privacy of all, including cops — which is fine in theory but it means that many acts of malfeasance by officers or videos that would demonstrate that an officer was not guilty of behavior of which they are accused would be deleted.</p>
+
+<p>ACLU’s retention suggestion won’t work for this simple reason: with retention periods measured in weeks, but statutes of limitations measured in years, that will quickly become an intractable problem. Retention will be unlimited, because, as we have seen happen again and again when DNA is used to exonerate people, sometimes decades pass before evidence is needed for the absolutely critical purpose of determining, or proving, innocence.</p>
