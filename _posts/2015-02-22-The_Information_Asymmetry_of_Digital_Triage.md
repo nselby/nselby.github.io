@@ -14,7 +14,7 @@ layout: default
 The FBI Is Right, Without Understanding What <br />
 the FBI, or Apple, are saying.</h3>
 
-<p>&nbsp:</p>
+<p></p>
 <p>After a horrific accident, your loved-one is lying on a hospital bed, connected to a panoply of gadgets. They will need emergency surgery. The ER doc comes out and talks to you, pulling off his surgical mask, from behind which a stream of jargon-packed jibberish lurches forth, after which he looks at you expectantly: “Do you consent?”</p>
 
 <p>The quizzical feeling you’ve got at that moment — I’ve been there — is the acme of informational asymmetry between physician and patient. You’re being asked to make a decision on something you’re patently unqualified to make.</p>
