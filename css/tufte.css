@@ -348,12 +348,13 @@ ul.footer-links li{
 
 //Full width page styling stuff
 
-body.full-width, .content-listing, ul.content-listing li.listing{ width: 90%;
+body.full-width, .content-listing { width: 90%;
        margin-left: auto;
        margin-right: auto;
        padding: 0% 5%;
 
 }
+
 .full-width article p{
   width: 90%;
 }
@@ -365,6 +366,14 @@ h1.content-listing-header{
   letter-spacing: 0.2rem;
   font-size: 1.8rem;
 }
+
+ ul.content-listing, li.listing { width: 55%;
+        margin-left: auto;
+       margin-right: auto;
+       padding: 0% 5%;
+
+}
+
 
 li.listing hr{
   width:100%;
