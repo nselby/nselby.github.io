@@ -10,7 +10,9 @@ layout: default
 
 ![Hospital](https://cdn-images-1.medium.com/max/2000/1*BFeg_P6Xl2McvqLDZ1L_cw.jpeg)
 
-<h3>Or, In The Battle of FBI v Apple, America Has Decided The FBI Is Right, Without Understanding What the FBI, or Apple, are saying.</h3>
+<h3>Or, In The Battle of FBI v Apple, America Has Decided<br />
+The FBI Is Right, Without Understanding What <br />
+the FBI, or Apple, are saying.</h3>
 
 <p>After a horrific accident, your loved-one is lying on a hospital bed, connected to a panoply of gadgets. They will need emergency surgery. The ER doc comes out and talks to you, pulling off his surgical mask, from behind which a stream of jargon-packed jibberish lurches forth, after which he looks at you expectantly: “Do you consent?”</p>
 
