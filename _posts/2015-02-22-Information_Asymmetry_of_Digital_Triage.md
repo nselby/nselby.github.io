@@ -7,7 +7,6 @@ layout: default
 
 
 <h2>The Information Asymmetry of Digital Triage</h2>
-
 <h3>Or, In The Battle of FBI v Apple, America Has Decided The FBI Is Right, Without Understanding What the FBI, or Apple, are saying.</h3>
 
 <p><em>There is an update to this story, which I will place at the bottom.</em></p>
