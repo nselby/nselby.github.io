@@ -69,4 +69,25 @@ title: The Information Asymmetry of Digital Triage
 
 <p>Which is truly bizarre. I seem to recall literal marching in the streets against the USA PATRIOT ACT provisions that afforded government less intrusive powers. And I of course recall the outrage and shouting and screaming over the revelations that the NSA was viewing call data records that provided the government with metadata about calls made by Americans — to, from, date, time, duration. Oh, the howls of protest. And here now are Americans saying, “Nah, it’s cool.”</p>
 
-<p>Because Terror.
+<p>Because Terror.</p>
+
+	<div id="disqus_thread"></div>
+<script>
+
+
+var disqus_config = function () {
+this.page.url = nselby.github.io; 
+this.page.identifier = {{ page.title }}; 
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+
+s.src = '//nselby.disqus.com/embed.js';
+
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
