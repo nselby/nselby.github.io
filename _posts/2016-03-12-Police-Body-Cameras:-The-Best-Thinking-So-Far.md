@@ -39,7 +39,7 @@ layout: default
 <p>It's important to realize that, while methods and technologies to turn on the camera are going to be developed, things are not as simple as they might appear at first glance.</p>
 
 <h3>How will the data be shared?</h3>
-The questions about data storage have not really changed <a href="https://medium.com/@nselby/barriers-to-officer-worn-video-the-ten-per-cent-challenge-50391ed9d688#.jlouj8bj4" target="_blank">since I last wrote about them</a>, and the question of whether the data must be stored in a <a href="https://www.fbi.gov/about-us/cjis/cjis-security-policy-resource-center" target="_blank">CJIS-secured environment</a> are being resolved with the general consensus that they do. </p>
+<p>The questions about data storage have not really changed <a href="https://medium.com/@nselby/barriers-to-officer-worn-video-the-ten-per-cent-challenge-50391ed9d688#.jlouj8bj4" target="_blank">since I last wrote about them</a>, and the question of whether the data must be stored in a <a href="https://www.fbi.gov/about-us/cjis/cjis-security-policy-resource-center" target="_blank">CJIS-secured environment</a> are being resolved with the general consensus that they do.</p>
 
 <p>Processing and sharing of the data - indexing, mining it, running facial recognition and automated licence plate recognition systems against it, audio transcrition and other methods of data dissemination will need to be addressed, because the amount of data resulting from a data surveillance state is both useful and terrifying.</p>
 
