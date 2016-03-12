@@ -54,8 +54,8 @@ body { width: 87.5%;
        max-width: 1400px;
        counter-reset: sidenote-counter; }
 
-h1 { font-family: 'Euclid';
-     font-weight: lighter;
+h1 { font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+     font-weight: bold;
      margin-top: 4rem;
      margin-bottom: 1.5rem;
      font-size: 3.0rem;
