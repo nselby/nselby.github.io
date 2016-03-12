@@ -99,6 +99,24 @@ p { line-height: 2.6rem;
     margin-bottom: 1.4rem;
     padding-right: 0;
     vertical-align: baseline; }
+    
+article img.left {float:left;
+   margin-left: -50px;
+   padding-right: 20px;
+   padding-bottom: 10px;
+   padding-top: 10px;
+   border: 0px;
+}
+
+article img.right {float:right;
+   margin-right: -50px;
+   padding-left: 20px;
+   padding-left: 10px;
+   padding-left: 10px;
+   border: 0px;
+}
+
+
 
 /* Chapter Epigraphs */
 div.epigraph { margin: 5em 0; }
@@ -558,23 +576,6 @@ hr.slender {
   content: "\e60e";
 }
 /*-- End of Icomoon icon font section --*/
-
-article img.left {float:left;
-   margin-left: -50px;
-   padding-right: 20px;
-   padding-bottom: 10px;
-   padding-top: 10px;
-   border: 0px;
-}
-
-
-article img.right {float:right;
-   margin-right: +50px;
-   padding-left: 20px;
-   padding-left: 10px;
-   padding-left: 10px;
-   border: 0px;
-}
 
 
 
