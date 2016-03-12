@@ -54,7 +54,7 @@ body { width: 87.5%;
        max-width: 1400px;
        counter-reset: sidenote-counter; }
 
-h1 { font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+h1 { font-family: 'et-bembo', Georgia, Times, serif;
      font-weight: normal;
      margin-top: 4rem;
      margin-bottom: 1.5rem;
