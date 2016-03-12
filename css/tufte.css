@@ -559,8 +559,14 @@ hr.slender {
 }
 /*-- End of Icomoon icon font section --*/
 
-img.left {float:left;
-   margin-left: -30;
+article img.left {float:left;
+   margin-left: -50;
+   border: 0px;
+}
+
+
+article img.right {float:right;
+   margin-right: -50;
    border: 0px;
 }
 
