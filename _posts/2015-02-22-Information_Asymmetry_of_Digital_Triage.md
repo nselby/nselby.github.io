@@ -1,6 +1,7 @@
 ---
 published: true
 layout: default
+title: The Information Asymmetry of Digital Triage
 ---
 
 
