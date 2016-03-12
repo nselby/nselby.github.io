@@ -5,12 +5,12 @@ title: The Information Asymmetry of Digital Triage
 ---
 
 
-
-![Hospital](https://cdn-images-1.medium.com/max/2000/1*BFeg_P6Xl2McvqLDZ1L_cw.jpeg)
-
 <h2>The Information Asymmetry of Digital Triage</h2>
 
 <h3>America Decided the FBI Is Right, Without Understanding What <br />&nbsp;&nbsp;the FBI, or Apple, are saying.</h3>
+
+![Hospital](https://cdn-images-1.medium.com/max/2000/1*BFeg_P6Xl2McvqLDZ1L_cw.jpeg)
+
 
 <p> </p>
 <p>After a horrific accident, your loved-one is lying on a hospital bed, connected to a panoply of gadgets. They will need emergency surgery. The ER doc comes out and talks to you, pulling off his surgical mask, from behind which a stream of jargon-packed jibberish lurches forth, after which he looks at you expectantly: “Do you consent?”</p>
