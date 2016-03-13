@@ -27,8 +27,7 @@ layout: default
 <h3>When Should Officers Record?</h3>
 <p>Another really important aspect of this is when officers should record. The fact that so few of the killings by police of the unarmed in 2015 were recorded speaks to this, and as I've written before,</p>
 
-<blockquote class="2">The ‘CSI effect’ on juries informs my prediction that, three years from now, if video is unavailable, the police will be disbelieved on principle.”</blockquote>
-
+<blockquote>“The ‘CSI effect’ on juries informs my prediction that, three years from now, if video is unavailable, the police will be disbelieved on principle.”</blockquote>
 
 <p>Civilians don't often think through the statement that officers should basically be expected to record whenever they are working, or whenever they are interacting with the public. Generally that's true, but there are some really notable and significant exceptions. The first thing to remember is that, once it is recorded, it is publicly discoverable. This means that, generally speaking, give or take, anything that is recorded can be obtained by John Q. Public through a public records request<label for="sn-demo" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-demo" class="margin-toggle"/><span class="sidenote">We can debate this, but it's generally the case. In the northeast and in agencies with powerful officer unions, this is a different and perhaps more difficult problem, as laws and collective-bargaining agreements have set precedents in the manner in which officers may be identified, and this issue plays directly to this. This can be highly relevant to te conversation about adoption of body-worn video because it in some cases can create a substantial change in the work environment, which would mean the union would absolutely not be OK with it.</span>.</p>
 
