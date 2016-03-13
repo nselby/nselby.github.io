@@ -117,8 +117,8 @@ article img.right {float:right;
 }
 
 article blockquote {width: 55%;
-    margin-right: 30px;
-    margin-left: 30px;
+    margin-right: 50px;
+    margin-left: 40px;
     line-height: 2.6rem;
     font-style: italic;
     color: #5A6366;
@@ -178,7 +178,7 @@ figcaption { float: right;
 figure.fullwidth figcaption { margin-right: 24%; }
 
 /* Links: replicate underline that clears descenders */
-a:link, a:visited { color: #003399; font-weight: 450;}
+a:link, a:visited { color: #460BDB; font-weight: 500;}
 
 article a:link { text-decoration: none; 
          background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#333, #333);
