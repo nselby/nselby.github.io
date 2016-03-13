@@ -116,7 +116,7 @@ article img.right {float:right;
    border: 0px;
 }
 
-article blockquote {width: 55%;
+article blockquote {width: 50%;
     margin-right: 50px;
     margin-left: 40px;
     line-height: 2.6rem;
@@ -178,7 +178,7 @@ figcaption { float: right;
 figure.fullwidth figcaption { margin-right: 24%; }
 
 /* Links: replicate underline that clears descenders */
-a:link, a:visited { color: #460BDB; font-weight: 500;}
+a:link, a:visited { color: #1F2DED; font-weight: 500;}
 
 article a:link { text-decoration: none; 
          background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#333, #333);
