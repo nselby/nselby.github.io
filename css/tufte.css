@@ -178,7 +178,7 @@ figcaption { float: right;
 figure.fullwidth figcaption { margin-right: 24%; }
 
 /* Links: replicate underline that clears descenders */
-a:link, a:visited { color: #003399; font-weight: bold;}
+a:link, a:visited { color: #003399; font-weight: 400;}
 
 article a:link { text-decoration: none; 
          background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#333, #333);
