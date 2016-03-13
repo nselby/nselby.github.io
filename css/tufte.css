@@ -131,7 +131,7 @@ article blockquote.2 {
   quotes: "\201C""\201D""\2018""\2019";
 }
 article blockquote.2:before {
-  color: #ccc;
+  color: #80808C;
   content: open-quote;
   font-size: 4em;
   line-height: 0.1em;
