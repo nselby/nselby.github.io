@@ -349,7 +349,6 @@ header > nav a:first-child { float: left; }
 
 
 header > nav a img{
-  height: 150px;
   position: relative;
   max-width: 100%;
   top:-1.5rem;
