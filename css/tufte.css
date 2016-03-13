@@ -117,7 +117,6 @@ article img.right {float:right;
 }
 
 article blockquote {width: 50%;
-    margin-right: 150px;
     margin-left: 40px;
     line-height: 2.6rem;
     font-style: italic;
