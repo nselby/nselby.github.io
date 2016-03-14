@@ -143,13 +143,22 @@ article blockquote.2 p {
   display: inline;
 }
 
-/*Mail form signup*/
+/*Mailchimp form signup*/
+
 #mc_embed_signup h2 { font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
      font-weight: normal;
      margin-top: 0rem;
      margin-bottom: 0.2rem;
      font-size: 1.4rem;
      line-height: 1; }
+
+#mc_embed_signup h3 { font-family: 'et-bembo', Georgia, Times, serif;
+     font-weight: normal;
+     font-style: italic;
+     margin-top: 0rem;
+     margin-bottom: 0.2rem;
+     font-size: 1rem;
+     line-height: 1; }     
 
 #mc_embed_signup p, label {
        margin-left: auto;
@@ -159,6 +168,11 @@ article blockquote.2 p {
        color: #111;
 
 }
+#mc_embed_signup div {margin-top: 0rem;
+     margin-bottom: 0.2rem;
+ }
+
+
 
 
 
