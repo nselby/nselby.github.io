@@ -22,8 +22,36 @@
     {% include header.html %}
     <article class="group">
       {{ content }}
-      <p>
-<a href="https://twitter.com/share" class="twitter-share-button" data-via="nselby">Tweet This Article</a>
+
+<!--Mailchimp-->
+<hr class="slender">
+<div id="mc_embed_signup">
+<form action="//github.us13.list-manage.com/subscribe/post?u=9efc121b27016547737e4404c&amp;id=e42ecc269d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<h2>Get Notified Of New Posts</h2>
+
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" width="100px" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+	<label for="mce-FNAME">First Name </label>
+	<input width="75px" type="text" value="" name="FNAME" class="" id="mce-FNAME">
+	<label for="mce-LNAME">Last Name </label>
+	<input width="75px" type="text" value="" name="LNAME" class="" id="mce-LNAME">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	 <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9efc121b27016547737e4404c_e42ecc269d" tabindex="-1" value=""></div>
+    <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+ </div>
+<h3>(We won't ever sell, rent, or lend your email; nor will we ever spam you)</h3>
+</form>
+</div>
+<hr class="slender">
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End Mailchimp-->
+<!--Twitter & Facebook -->
+      <p><a href="https://twitter.com/share" class="twitter-share-button" data-via="nselby">Tweet This Article</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 <div
   class="fb-like"
@@ -33,6 +61,8 @@
 </div>
 
 </p>
+
+<!--Disqus-->
     {% include disqus.html %}
     </article>
    
