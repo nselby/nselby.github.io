@@ -143,7 +143,22 @@ article blockquote.2 p {
   display: inline;
 }
 
+/*Mail form signup*/
+#mc_embed_signup h2 { font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+     font-weight: normal;
+     margin-top: 0rem;
+     margin-bottom: 0.2rem;
+     font-size: 1.4rem;
+     line-height: 1; }
 
+#mc_embed_signup p, label {
+       margin-left: auto;
+       margin-right: auto;
+       font-family: 'et-bembo', Georgia, Times, serif;
+       background-color: #ffffff;
+       color: #111;
+
+}
 
 
 
