@@ -51,6 +51,8 @@ layout: default
 
 <p>It's important to realize that, while methods and technologies to turn on the camera are going to be developed, things are not as simple as they might appear at first glance.</p>
 
+<p>A <a href="https://www.brennancenter.org/analysis/police-body-camera-policies-recording-circumstances" target="_blank">new Brennan Center study</a> discusses their findings on policies surrounding the decision about when to record in various large agencies around the country. These policies, as a whole, are rather fascinating to me.</a>
+
 <h3>How will the data be shared?</h3>
 <p>The questions about data storage have not really changed <a href="https://medium.com/@nselby/barriers-to-officer-worn-video-the-ten-per-cent-challenge-50391ed9d688#.jlouj8bj4" target="_blank">since I last wrote about them</a>, and the question of whether the data must be stored in a <a href="https://www.fbi.gov/about-us/cjis/cjis-security-policy-resource-center" target="_blank">CJIS-secured environment</a> has generally been resolved with the general consensus that they do.</p>
 
