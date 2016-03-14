@@ -145,20 +145,21 @@ article blockquote.2 p {
 
 /*Mailchimp form signup*/
 
-h2.mc_embed_signup { font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+h5 { font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
      font-weight: normal;
      margin-top: 0rem;
      margin-bottom: 0.2rem;
      font-size: 1.4rem;
      line-height: 1; }
 
-#mc_embed_signup.h3 { font-family: 'et-bembo', Georgia, Times, serif;
+h6 { font-family: 'et-bembo', Georgia, Times, serif;
      font-weight: normal;
      font-style: italic;
      margin-top: 0rem;
      margin-bottom: 0.2rem;
      font-size: 1rem;
      line-height: 1; }     
+
 
 #mc_embed_signup p, label {
        margin-left: auto;
