@@ -56,11 +56,13 @@ layout: default
 
 <p>Processing and sharing of the data - indexing, mining it, running facial recognition and automated license plate recognition systems against it, audio transcription and other methods of data dissemination will need to be addressed, because the amount of data resulting from a data surveillance state is both useful and terrifying.</p>
 
-<p>I personally believe that the biggest issue we face is the least discussed: retention periods. I will repeat my last post here, because I believe this is the most important.   
+<p>I personally believe that the biggest issue we face is the least discussed: retention periods. I will repeat my last post here, because I believe this is the most important.
 
 <p>To put the “How long should law enforcement agencies store video” question into the right frame of reference, I’ll rhetorically ask you this: In a murder or rape case, when should we throw away the DNA evidence?</p>
 
 <p>ACLU’s suggestion on retention policy is that, for a number of thoughtful and laudable reasons, police should measure retention period in weeks, not years. They’re doing this to protect privacy of all, including cops — which is fine in theory but it means that many acts of malfeasance by officers or videos that would demonstrate that an officer was not guilty of behavior of which they are accused would be deleted.</p>
+
+<p>[You can see from a <a href="https://www.brennancenter.org/analysis/police-body-camera-policies-retention-and-release" target="_blank">study by The Brennan Center</a> on some large organizations that this is not the way larger agencies are going.]</p>
 
 <p>ACLU’s retention suggestion won’t work for this simple reason: with retention periods measured in weeks, but statutes of limitations measured in years, that will quickly become an intractable problem. Retention will be unlimited, because, as we have seen happen again and again when DNA is used to exonerate people, sometimes decades pass before evidence is needed for the absolutely critical purpose of determining, or proving, innocence.</p>
 
