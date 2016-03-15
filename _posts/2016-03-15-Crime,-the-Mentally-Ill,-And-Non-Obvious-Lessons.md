@@ -3,7 +3,7 @@ published: true
 layout: default
 ---
 <h1>Crime, the Mentally-Ill, and the Non-Obvious</h1>
-<p><img class="left" width="400px" src="http://worldonline.media.clients.ellingtoncms.com/img/croppedphotos/2010/05/09/Simon-arrested-loading-up_t640.jpg?a6ea3ebd4438a44b86d2e9c39ecf7613005fe067" /></p>
+<p><img class="left" width="500px" src="http://worldonline.media.clients.ellingtoncms.com/img/croppedphotos/2010/05/09/Simon-arrested-loading-up_t640.jpg?a6ea3ebd4438a44b86d2e9c39ecf7613005fe067" /></p>
 
 <p>Of the 153 unarmed civilians killed by police in 2015, 29 (or 19%), had apparent mental illness, of which 16 (11% of the total) had a prior diagnosis of a serious mental illness<label for="sn-demo" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-demo" class="margin-toggle"/><span class="sidenote">This, and the next several statements, from the forthcoming, <em>In Context: Understanding Police Killings of Unarmed Civilians</em></span>. For many people (including me), this was a real and screaming loud cry to ... do something. After thinking about it for a while, though, and speaking with some folks who spend a lot more time than I do staring at these kinds of statistics, it might well be that the urge to do <em>something</em> might be the wrong one.</p>
 
