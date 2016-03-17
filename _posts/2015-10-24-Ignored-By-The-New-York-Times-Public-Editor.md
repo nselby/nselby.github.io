@@ -2,7 +2,8 @@
 published: true
 layout: default
 ---
-<h1>Ignored By The New York Times Public Editor: A Hit Job On Greensboro</h1>
+<h1>Ignored By The New York Times Public Editor:<br />
+    A Hit Job On Greensboro</h1>
 <p><a href="/assets/img/greensboro.jpg" target="_blank"><img class="left" width="400px" src="/assets/img/greensboro.jpg" /></a>
 
 Today’s New York Times article, <a href="http://www.nytimes.com/2015/10/25/us/racial-disparity-traffic-stops-driving-black.html" target="_blank">The Disproportionate Risks of Driving While Black</a>, is either a highly important, 5700-word indictment of a corrupt and racist police department, or it is an irresponsible and scurrilous accusation against an entire department, plastered on the front page of the nation’s most widely circulated newspaper.</p>
