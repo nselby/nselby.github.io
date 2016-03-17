@@ -10,9 +10,8 @@ Today’s New York Times article, <a href="http://www.nytimes.com/2015/10/25/us/
 
 <span class="marginnote">Since this article was written, after ignoring it for three months, the Public Editor claimed never to have received it (despite my possession of an email receipt that she did. A month after that claim, she wrote back:
 
-<blockquote>Dear Mr. Selby, 
-
-<p>Thank you for bringing this to our attention and following up with us about this matter. </p>
+<p>Dear Mr. Selby,<br /> 
+Thank you for bringing this to our attention and following up with us about this matter. </p>
 
 <p>We've been in touch with two editors on the investigative team, as well as the article's reporter. They stand by the accuracy of the reporting, noting that the article did address the issue of out-of-town drivers, and that the race of drivers stopped was only one of a series of measures they analyzed. (All the other measures analyzed what happened after the stop, and in the reporter's view, these are the most significant indicators - and of those, the hit rates for searches are the most important.)</p>
 
@@ -23,7 +22,7 @@ Today’s New York Times article, <a href="http://www.nytimes.com/2015/10/25/us/
 <p>Best regards,<br />
 Joumana Khatib<br />
 Office of the Public Editor<br />
-The New York Times</blockquote></span>
+The New York Times</span>
 <p>The problem is, since the authors don’t share or summarize in any meaningful way the core data on which their report is based, or provide their methodology, we can’t know for sure until an independent analysis is performed. That, at a minimum, is poor journalism.</p>
 
 <p>Fully 1,533 words after the heading, “Analyzing the Stops,” are the 35 words — 0.61% of the article — on which the entire article is based — the only discussion within of the data relevant to the headline charge:</p>
