@@ -11,7 +11,7 @@ Today’s New York Times article, <a href="http://www.nytimes.com/2015/10/25/us/
 
 <p>Fully 1,533 words after the heading, “Analyzing the Stops,” are the 35 words — 0.61% of the article — on which the entire article is based — the only discussion within of the data relevant to the headline charge:</p>
 
-<blockquote>“The Times analyzed tens of thousands of traffic stops made by hundreds of officers since 2010. Although blacks made up 39 percent of Greensboro’s driving-age population, they constituted 54 percent of the drivers pulled over.”<//blockquote>
+<blockquote>“The Times analyzed tens of thousands of traffic stops made by hundreds of officers since 2010. Although blacks made up 39 percent of Greensboro’s driving-age population, they constituted 54 percent of the drivers pulled over.”</blockquote>
 
 <p>To spend only 35 words on the core evidence behind the front-page headline accusation is to place remarkable faith in the power of those words. In other sections of the article, for example, it spent 263 words discussing racial profiling cases from the 1990s in New Jersey, regulations in Connecticut, Illinois, Maryland, Missouri, Nebraska, North Carolina and Rhode Island. It spent 252 words discussing regulations in Connecticut and Rhode Island. It spent 258 words discussing historical racist policies in Greensboro dating to 1960.</p>
 
