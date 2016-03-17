@@ -8,7 +8,7 @@ layout: default
 
 Today’s New York Times article, <a href="http://www.nytimes.com/2015/10/25/us/racial-disparity-traffic-stops-driving-black.html" target="_blank">The Disproportionate Risks of Driving While Black</a>, is either a highly important, 5700-word indictment of a corrupt and racist police department, or it is an irresponsible and scurrilous accusation against an entire department, plastered on the front page of the nation’s most widely circulated newspaper.</p>
 
-<p>The problem{% sidenote '1' 'This is a sidenote and *displays a superscript*'%} is, since the authors don’t share or summarize in any meaningful way the core data on which their report is based, or provide their methodology, we can’t know for sure until an independent analysis is performed. That, at a minimum, is poor journalism.</p>
+<p>The problem is, since the authors don’t share or summarize in any meaningful way the core data on which their report is based, or provide their methodology, we can’t know for sure until an independent analysis is performed. That, at a minimum, is poor journalism.</p>
 
 <p>Fully 1,533 words after the heading, “Analyzing the Stops,” are the 35 words — 0.61% of the article — on which the entire article is based — the only discussion within of the data relevant to the headline charge:</p>
 
