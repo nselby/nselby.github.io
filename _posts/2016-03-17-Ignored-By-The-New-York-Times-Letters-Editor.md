@@ -12,7 +12,7 @@ Sometimes police arrest a black person, and race has nothing to do with it. Such
 
 <p>The available evidence says otherwise. The officers had documented and well-articulated probable cause. <a href="http://graphics8.nytimes.com/video/players/offsite/index.html?videoId=100000004202691" target="_blank">The video shows they were polite and respectful</a>, and rightly took the professor to jail after showing her all manner of courtesy.</p>
 
-<p>The New York Times insinuates that Princeton police stop a disproportionately large number of black people compared to the population. As usual this the insinuation of racism fails, however, because not all drivers in Princeton live in Princeton.</p>
+<p>The New York Times insinuates that Princeton police stop a disproportionately large number of black people compared to the population. This insinuation of racism fails, however, because not all drivers in Princeton live in Princeton.</p>
 
 <p>Forcing legitimate law enforcement acts into a narrative of racism hinders an honest and necessary national dialogue about race.</p>
 
