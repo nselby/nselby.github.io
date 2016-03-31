@@ -3,7 +3,7 @@ published: true
 layout: default
 ---
 <h1>Announcing In Context: Understanding Police Killings of Unarmed Civilians</h1>
-<p><a href="/assets/img/In_Context_Cover.png" target="_blank"><img class="right" width="500px" src="/assets/img/In_Context_Cover.png" /></a>
+<p><a href="/assets/img/In_Context_Cover.png" target="_blank"><img class="right" width="300px" src="/assets/img/In_Context_Cover.png" /></a>
 
 
 <p>Since 2015, the media and the public have paid more attention than ever before to the use of deadly force by American police officers. That’s a great thing. Up until 2015, not many Americans had noticed that the data gathering done by the government on this subject was, to put it mildly, really bad.</p>
