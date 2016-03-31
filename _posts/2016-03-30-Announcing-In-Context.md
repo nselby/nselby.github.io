@@ -3,11 +3,39 @@ published: true
 layout: default
 ---
 <h1>Announcing In Context: Understanding Police Killings of Unarmed Civilians</h1>
-<p><a href="/assets/img/In_Context_Cover.png" target="_blank"><img class="right" width="300px" src="/assets/img/In_Context_Cover.png" /></a>
+
+<!--Mailchimp-->
+
+
+<div id="mc_embed_signup">
+<form action="//github.us13.list-manage.com/subscribe/post?u=9efc121b27016547737e4404c&amp;id=e42ecc269d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<h5>Get Notified When The Book Is Available</h5>
+
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address<strong>*</strong>
+</label>
+	<input type="email" width="100px" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+	<label for="mce-FNAME">First Name </label>
+	<input width="75px" type="text" value="" name="FNAME" class="" id="mce-FNAME">
+	<label for="mce-LNAME">Last Name </label>
+	<input width="75px" type="text" value="" name="LNAME" class="" id="mce-LNAME">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	 <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9efc121b27016547737e4404c_e42ecc269d" tabindex="-1" value=""></div>
+    <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+    </div>
+</form>
+<h6>(We will only use this email to notify you of the book release)</h6>
+</div>
+<script type='text/javascript' src='https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End Mailchimp-->
+
 
 <h2>Available on May 1, 2016</h2>
 
-<p>Since 2015, the media and the public have paid more attention than ever before to the use of deadly force by American police officers. That’s a great thing. Up until 2015, not many Americans had noticed that the data gathering done by the government on this subject was, to put it mildly, really bad.</p>
+<p><a href="/assets/img/In_Context_Cover.png" target="_blank"><img class="right" width="300px" src="/assets/img/In_Context_Cover.png" /></a>Since 2015, the media and the public have paid more attention than ever before to the use of deadly force by American police officers. That’s a great thing. Up until 2015, not many Americans had noticed that the data gathering done by the government on this subject was, to put it mildly, really bad.</p>
 
 <p>In the United States, these incidents are reported on a voluntary basis for many of the important data points that ultimately comprise government statistics. American criminal justice system statistics about deaths related to law enforcement operations (of officers and of suspects/convicts) are compiled mainly by the Federal Bureau of Investigation, a national law enforcement agency with no real power to compel local, county, state and tribal police departments to actually report these numbers, and which provides few if any rigorous standards or definitions around what specifics are reported. Since 2010, The Bureau of Justice Statistics has been trialing an (absolutely excellent) open-source program to capture deaths in custody, but it has not yet been officially unveiled<label for="sn-demo" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-demo" class="margin-toggle"/><span class="sidenote">The utterly excellent Bureau of Justice Statistics (http://www.bjs.gov/), a component of the Office of Justice Programs in the U.S. Department of Justice, has a mission, "to collect, analyze, publish, and disseminate information on crime, criminal offenders, victims of crime, and the operation of justice systems at all levels of government. These data are critical to federal, state, and local policymakers in combating crime and ensuring that justice is both efficient and evenhanded." BJS gathers its primary data from the U.S. Bureau of the Census, the FBI's Uniform Crime Reporting program, and National Incident-Based Reporting System. The BJS Federal Justice Statistics Program collects data from other Federal agencies, including the Executive Office for U.S. Attorneys, the Administrative Office of the U.S. Courts, the U.S. Sentencing Commission, and the Federal Bureau of Prisons.</span>.</p>
 
