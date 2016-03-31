@@ -3,37 +3,8 @@ published: true
 layout: default
 ---
 <h1>Announcing In Context: Understanding Police Killings of Unarmed Civilians</h1>
-
-<!--Mailchimp-->
-
-
-<div id="mc_embed_signup">
-<form action="//github.us13.list-manage.com/subscribe/post?u=9efc121b27016547737e4404c&amp;id=e42ecc269d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	<h5>Get Notified When The Book Is Available</h5>
-
-<div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address<strong>*</strong>
-</label>
-	<input type="email" width="100px" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-	<label for="mce-FNAME">First Name </label>
-	<input width="75px" type="text" value="" name="FNAME" class="" id="mce-FNAME">
-	<label for="mce-LNAME">Last Name </label>
-	<input width="75px" type="text" value="" name="LNAME" class="" id="mce-LNAME">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	 <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9efc121b27016547737e4404c_e42ecc269d" tabindex="-1" value=""></div>
-    <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
-    </div>
-</form>
-<h6>(We will only use this email to notify you of the book release)</h6>
-</div>
-<script type='text/javascript' src='https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-<!--End Mailchimp-->
-
-
 <h2>Available on May 1, 2016</h2>
+<p>Use the form at the bottom of this post to be notified when the book is released!</p>
 
 <p><a href="/assets/img/In_Context_Cover.png" target="_blank"><img class="right" width="300px" src="/assets/img/In_Context_Cover.png" /></a>Since 2015, the media and the public have paid more attention than ever before to the use of deadly force by American police officers. That’s a great thing. Up until 2015, not many Americans had noticed that the data gathering done by the government on this subject was, to put it mildly, really bad.</p>
 
