@@ -21,7 +21,7 @@ layout: default
 
 <p> I have one criticism of the presentation. The work itself is wonderful and necessary, and I believe that the Times covering it the way they did is ultimately great because it brought to a mainstream audience analysis about how much trust we might rightfully put into our viewing of videos. But the presentation might leave lay-people to presume that snippets of video are ever or even often viewed with NO context. In fact, the overwhelming majority of the time, that is simply not the case. </p>
 
-<p>In fact, the only time that would be the case would be when a solo officer was killed and all that remains is the video. In such a case, these clever scenarios would not be remotely relevant (I won't say why, because I want you to <a href="nyti.ms/1EbbTZo" target="_blank">read the article and take the tests</a>). But I will say this: for every video we have, we have an officer's story behind it, and that story is backed up with metadata and other testimony. </p>
+<p>In fact, the only time that would be the case would be when a solo officer was killed and all that remains is the video. In such a case, these clever scenarios would not be remotely relevant (I won't say why, because I want you to <a href="http://nyti.ms/1EbbTZo" target="_blank">read the article and take the tests</a>). But I will say this: for every video we have, we have an officer's story behind it, and that story is backed up with metadata and other testimony. </p>
 
 <p>When I mentioned that on Twitter in a conversion with Stoughton and police citizen-oversight professional <a href="https://twitter.com/katz_oversight" target="_blank">Walter Katz</a>, someone else chimed in an important nuance to that statement:</p>
 
