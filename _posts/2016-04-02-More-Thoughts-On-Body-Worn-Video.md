@@ -5,7 +5,7 @@ layout: default
 <h1>Some More Thoughts On Body-Worn Cameras</h1>
 <p><img class="left" width="400px" src="https://nselby.github.io/assets/img/usa_today_body_video.jpg" /></p>
 
-<p>On April 1, USAToday ran <a href="http://www.usatoday.com/story/opinion/2016/04/01/police-body-cameras-accountability-exoneration-evidence-column/82484112/" target="_blank">an opinion piece Rachel Levinson-Waldman and I wrote</a> about police body cameras. The main point of the article was not necessarily that video can't be relied on as an across-the-board solution to life's problems - that question was beautifully handled in a New York Times interactive feature based on the work by <a href="nyti.ms/1EbbTZo" target="_blank">Seth Stoughton</a>.</p>
+<p>On April 1, USAToday ran <a href="http://www.usatoday.com/story/opinion/2016/04/01/police-body-cameras-accountability-exoneration-evidence-column/82484112/" target="_blank">an opinion piece Rachel Levinson-Waldman and I wrote</a> about police body cameras. The main point of the article was not necessarily that video can't be relied on as an across-the-board solution to life's problems - that question was beautifully handled in a New York Times interactive feature based on the work by <a href="http://nyti.ms/1EbbTZo" target="_blank">Seth Stoughton</a>.</p>
 
 <p>Instead, our piece was about the fact that body-worn cameras can solve many problems, just not at once. That the real issue with cameras wasn't buying them, but rather writing the policies that help officers and prosecutors use the video produced when officers wear the cameras in a manner that can accomplish measurable progress towards a stated goal. </p>  
 
