@@ -23,7 +23,7 @@ layout: default
 
 <p>In fact, the only time that would be the case would be when a solo officer was killed and all that remains is the video. In such a case, these clever scenarios would not be remotely relevant (I won't say why, because I want you to <a href="nyti.ms/1EbbTZo" target="_blank">read the article and take the tests</a>). But I will say this: for every video we have, we have an officer's story behind it, and that story is backed up with metadata and other testimony. </p>
 
-<p>When I mentioned that on Twitter in a conversion with Stoughton and police citizen-oversight professional Walter Katz, someone else chimed in an important nuance to that statement:</p>
+<p>When I mentioned that on Twitter in a conversion with Stoughton and police citizen-oversight professional <a href="https://twitter.com/katz_oversight" target="_blank">Walter Katz</a>, someone else chimed in an important nuance to that statement:</p>
 
 <p><img src="/assets/img/bones.png" width="450" border="0" alt="Bones" /></p>
 
