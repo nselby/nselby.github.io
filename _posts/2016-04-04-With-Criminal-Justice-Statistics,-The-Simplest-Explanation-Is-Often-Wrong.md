@@ -39,7 +39,7 @@ layout: default
 
 <p>The result showed that stops were anything but racist. In fact, as a proportion of those stopped by officers in this city, Blacks and Latinos were slightly under-represented compared with the weighted community representations of those groups. Neither group stood out in terms of non-compliant citations, arrests, or searches at this agency. </p>
 
-<p>Chief often do not conduct the kind of analyses required to recognize these patterns because they spend their scarce resources complying with ill-informed and often unfunded requirements. </p>
+<p>Chiefs often do not conduct the kind of analyses required to recognize these patterns because they spend their scarce resources complying with ill-informed and often unfunded requirements. </p>
 
 <p>This leaves police – the most visible nexus between communities and the government – both unable to effectively lobby for the communities they actually serve and at the business end of accusations that the cops select people to hassle based on their race.</p>
 
