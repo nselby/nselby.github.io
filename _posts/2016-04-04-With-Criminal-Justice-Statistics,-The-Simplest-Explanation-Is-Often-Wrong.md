@@ -3,7 +3,7 @@ published: true
 layout: default
 ---
 <h1>With Justice Statistics, The Simple Explanation Is Often Wrong</h1>
-<p><img class="left" width="400px" src="https://nselby.github.io/assets/img/justice_statistics.png" /></p>
+<p><img class="right" width="400px" src="https://nselby.github.io/assets/img/justice_statistics.png" /></p>
 
 
 
