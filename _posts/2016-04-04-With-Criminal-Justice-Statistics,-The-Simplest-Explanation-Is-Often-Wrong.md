@@ -13,7 +13,7 @@ layout: default
 
 <p>When we looked at traffic stops in one Texas city and the resulting penalties, at first glance it sure looked like racism. In traffic stops during 2015, black females received citations for violations that levied fines, on average, of $204 more than white females, and $101 more per stop than Hispanic females. What’s more, minorities received slightly more violations per stop. Whites on average received 1.4 violations per stop, Blacks 1.55, and Hispanics 1.6.</p>
 
-<p>These numbers seem to indicate that the city’s police were systematically charging minorities. When we looked closer, though, a different picture emerged.</p>
+<p>These numbers seem to indicate that the city’s police were systematically charging minorities more per stop. When we looked closer, though, a different picture emerged.</p>
 
 <p>Our analysis showed that, by a large margin, drivers were stopped for speed. Where whites would get a secondary violation most often for “expired vehicle registration” (corrected for the cost of re-registration, and a $10 fee), black people were most commonly secondarily cited for a suspended driver license. Hispanics were most commonly cited secondarily for “No driver license” – common in a region with high illegal immigration.</p>
 
