@@ -7,7 +7,7 @@ layout: default
 
 
 
-<p>Americans are engaged in an important conversation about how police interact with racial and ethnic minorities. Unfortunately, in the absence of good data, people easily jump to the conclusion that seemingly disproportionate rates of stops and arrests among Blacks and Latinos are the result of racist police. An honest look at the data, however, reveals that the real racism is in our laws, not the men and women who uphold them.</p>
+<p>Americans are engaged in an important conversation about how police interact with racial and ethnic minorities. Unfortunately, in the absence of good data, people easily jump to the conclusion that seemingly disproportionate rates of stops and arrests among Blacks and Latinos are the result of racist police. An honest look at the data, however, reveals that the real racism is in our laws, not necessarily the men and women who uphold them.</p>
 
 <p>Texas serves as an example of the challenge, though it is certainly not unique among states. Well-intentioned policies originally meant to tackle issues of poverty proved regressive. They wound up targeting low-income residents for heightened scrutiny and penalties. Because Black and Latino Texans are disproportionately poor, the policies hit them harder. </p>
 
