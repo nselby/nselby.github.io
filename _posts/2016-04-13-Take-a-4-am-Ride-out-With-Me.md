@@ -11,7 +11,7 @@ layout: default
 
 <p>There have been lots of articles on how there’s no such thing as a “routine” traffic stop. But somehow, it’s hard to explain exactly why they’re not routine. And it’s equally hard to explain to those who don’t have law enforcement experience how, this year alone, 31 unarmed Americans were killed by police in incidents that began on traffic stops.</p>
 
-<h2>I’ll Take You There</h2>
+<h3>I’ll Take You There</h3>
 
 <p>You see a car heading northbound, in the right lane, and it looks fast. The radar gun mounted on your dashboard reads 58 mph and you’re in a 40.</p>
 
@@ -51,7 +51,7 @@ layout: default
 
 <p>This one goes well — her vehicle and license check out, her insurance is current, she has no warrants, and there is a 24-hour vet about four miles north. You give her a warning, ask her to slow down and head back to the squad car. You tell dispatch, shut down the lights and get ready to do it again.</p>
 
-<h2>The Context of It</h2>
+<h3>The Context of It</h3>
 
 <p>For officers around the country each night, the ‘routine’ traffic stop is a lot like that one. A lot of the considerations they take are to defend against things most people haven’t really given much thought to. And on the other side of this transaction, by the time the cop gets to a car window, the driver is put out, a little nervous. They’ve been stopped on their way to someplace, and just they might be mad about it. And the officer is thinking about a lot of dangerous scenarios.</p>
 
