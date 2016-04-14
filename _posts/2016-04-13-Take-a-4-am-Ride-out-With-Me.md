@@ -4,7 +4,7 @@ layout: default
 ---
 <h1>The 4 a.m. Traffic Stop</h1>
 
-<h3>This was written in September, 2015.</h3>
+<p><em>This was written in September, 2015.</em></p>
 
 <p><a href="https://nselby.github.io/assets/img/police-lights-night.jpg" target="_blank"><img src="/assets/img/police-lights-night.jpg" width="450" border="0" class="right" /></a>It’s 3:40 a.m. and you’re driving in the right lane, southbound on Broadway. You’re on patrol alone, and that makes sense — you work at one of the more than 93% of police agencies in America that employ fewer than 100 officers. About half employ fewer than 10. So backup is at least a couple of minutes away.</p>
 
