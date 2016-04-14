@@ -4,7 +4,6 @@ layout: default
 ---
 <h1>The 4 a.m. Traffic Stop</h1>
 
-<p><em>This was written in September, 2015.</em></p>
 
 <p><a href="https://nselby.github.io/assets/img/police-lights-night.jpg" target="_blank"><img src="/assets/img/police-lights-night.jpg" width="450" border="0" class="right" /></a>It’s 3:40 a.m. and you’re driving in the right lane, southbound on Broadway. You’re on patrol alone, and that makes sense — you work at one of the more than 93% of police agencies in America that employ fewer than 100 officers. About half employ fewer than 10. So backup is at least a couple of minutes away.</p>
 
@@ -18,11 +17,11 @@ layout: default
 
 <p>You and that car are the only ones on the road and you slow down, hang a youey, and accelerate. No lights yet. You’d like to gain some intelligence on the car and see what it does. As you close the gap, it changes lanes, no signal, and maintains speed. You drive up behind it and call dispatch to run the plate.</p>
 
-<p>As you wait for the return, the car is weaving. Not enough to be drunk, maybe, but enough to notice. Maybe they’re texting. You’re thinking about this abstractly, and it isn’t just how many cops get killed each year in traffic stops (27 cops have been killed by gunfire this year), it’s also how many traffic stops turn deadly for the civilian.</p>
+<p>As you wait for the return, the car is weaving. Not enough to be drunk, maybe, but enough to notice. Maybe they’re texting. You’re thinking about this abstractly, and it isn’t just how many cops get killed each year in traffic stops (39 cops were shot to death in 2015. Four were killed after being struck by a vehicle. As of April, 2016, 16 officers have been killed by gunfire), it’s also how many traffic stops turn deadly for the civilian.</p>
 
-<p>In 2015, about one in four incidents in which a cop killed an unarmed person began as a traffic stop. Thirty-one times so far this year, the conversation turned to an argument and the argument escalated to a fight and ended as a fatal encounter. Traffic stops are common. Traffic stops that turn violent are much more rare, but incredibly high-impact events.</p>
+<p>In 2015, a bit more than one in four incidents in which a cop killed an unarmed person began as a traffic stop. Forty-one times that year, the conversation turned to an argument and the argument escalated to a fight and ended as a fatal encounter. Traffic stops are common. Traffic stops that turn violent are much more rare, but incredibly high-impact events.</p>
 
-<p>I know the statistics because I lead a peer-reviewed, free, and open data project called the StreetCred Police Killings in Context database. Working with the Fatal Encounters project, and people from police agencies, private commercial and not-for-profit organizations, use-of-force experts, data scientists and analysts, we’ve gathered data that adds unprecedented quantities of objective, contextual information to fatal incidents involving police and unarmed Americans.</p>
+<p>I know the statistics because I lead a peer-reviewed, free, and open data project called the <a href="http://streetcredsoftware.com/pkic" target="_blank">StreetCred Police Killings in Context</a> database. Working with the <a href="http://fatalencounters.org" target="_blank">Fatal Encounters</a> project, and people from police agencies, private commercial and not-for-profit organizations, use-of-force experts, data scientists and analysts, we’ve gathered data that adds unprecedented quantities of objective, contextual information to fatal incidents involving police and unarmed Americans.</p>
 
 <p>We do it to inform debate, policy and training by letting people understand the context behind deadly incidents. It humanizes the numbers. It lets civilians understand that, ‘unarmed’ does not mean, ‘not deadly.’</p>
 
