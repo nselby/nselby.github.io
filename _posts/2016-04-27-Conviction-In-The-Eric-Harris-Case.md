@@ -23,23 +23,23 @@ layout: default
 
 <h3>Analysis</h3>
 
-<p>Bates’ accidental shooting of Harris was just that &emdash; a tragic accident. That Bates was a reserve officer is a significant issue. There have been many questions about Bates’ training and position, which amount to accusations that the sheriff allowed Bates to serve in roles inappropriate for Bates’ training and experience. Bates’ actions (as I have watched on video of the event) and comments he has made since then have convinced me that Bates had absolutely no business on this assignment. He was poorly prepared, not fully trained, and unfamiliar enough with his equipment to the extent that he could confuse a TASER and a pistol &emdash; and then defend that action as if it could happen to anyone. The only case I know of that was similar resulted in a conviction of the officer. A retired LAPD captain named Greg Meyer compiled a list of nine similar instances since 2001<label for="sn-demo" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-demo" class="margin-toggle"/><span class="sidenote">http://www.aele.org/law/2012all06/2012-06MLJ101.pdf</span>, but Bates was the only officer since 2012 to have made this mistake. To be clear, this is also an agency training issue, but for Bates to imply that this was something that “could happen to anyone” is plain dumb, unsupportable and wrong.</p>
+<p>Bates’ accidental shooting of Harris was just that -- a tragic accident. That Bates was a reserve officer is a significant issue. There have been many questions about Bates’ training and position, which amount to accusations that the sheriff allowed Bates to serve in roles inappropriate for Bates’ training and experience. Bates’ actions (as I have watched on video of the event) and comments he has made since then have convinced me that Bates had absolutely no business on this assignment. He was poorly prepared, not fully trained, and unfamiliar enough with his equipment to the extent that he could confuse a TASER and a pistol -- and then defend that action as if it could happen to anyone. The only case I know of that was similar resulted in a conviction of the officer. A retired LAPD captain named Greg Meyer compiled a list of nine similar instances since 2001<label for="sn-demo" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-demo" class="margin-toggle"/><span class="sidenote">http://www.aele.org/law/2012all06/2012-06MLJ101.pdf</span>, but Bates was the only officer since 2012 to have made this mistake. To be clear, this is also an agency training issue, but for Bates to imply that this was something that “could happen to anyone” is plain dumb, unsupportable and wrong.</p>
 
 <p>I believe that Bates was appropriately charged with negligent manslaughter, and that the jury was correct in convicting him. Further, having served as a reserve officer alongside officers on a similar task force, it is now my opinion that reserve officers should never be placed in this position.</p>
 
-<p>&emdash; Nick Selby</p>
+<p>-- Nick Selby</p>
 
 <p>Bates unintentionally shot and killed Eric Harris. He intended to shoot him with a non-deadly TASER, and instead shot him with his revolver. This one is pretty straightforward. The officer screwed up and killed someone. As in any profession, one is expected to be proficient with one’s tools. It is clear that Bates was not qualified or prepared for the use of his TASER or firearm. </p>
 
 <p>The questions about Bates’ qualifications have to be answered by the head of the department, and the liability for any deficiencies in Bates’ qualifications should land on the department head as well.</p>
 
-<p>&emdash; Ben Singleton</p>
+<p>-- Ben Singleton</p>
 
 <p>This is another event where an unarmed man was killed by an officer’s unintentional actions. At least one other officer has been convicted in similar cases of involuntary manslaughter and I feel the same will most likely happen here.</p>
 
 <p>There have been many documented cases of “TASER confusion” ever since the model M26 was revealed. This is not to imply that the shape of the device is the culprit of the confusion as that is not my belief. Most of the cases I have been made aware of were due to inadequate training or poor deployment policies and strategies by the agency. It is important to note that many officers used to carry their TASER on the same side as their firearm. More progressive agencies have developed training and policies that prohibit this practice, and some have begun to train their officers to use the non-firearm hand to draw to fire the TASER.</p>
 
-<p>&emdash; Ed Flosi</p>
+<p>-- Ed Flosi</p>
 
 <p><em><a href="http://www.amazon.com/Context-Understanding-Killings-Unarmed-Civilians-ebook/dp/B01DO9NTAG/ref=sr_1_2" target="_blank">In Context: Understanding Police Killings of Unarmed Civilians</a></em> is available on Kindle and Barnes &amp; Noble e-readers. Paperback will be available from all online sources and exclusive booksellers and independent bookshops on May 15.</p> 
 
