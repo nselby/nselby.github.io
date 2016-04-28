@@ -43,3 +43,5 @@ layout: default
 
 <p><em><a href="http://www.amazon.com/Context-Understanding-Killings-Unarmed-Civilians-ebook/dp/B01DO9NTAG/ref=sr_1_2" target="_blank">In Context: Understanding Police Killings of Unarmed Civilians</a></em> is available on Kindle and Barnes &amp; Noble e-readers. Paperback will be available from all online sources and exclusive booksellers and independent bookshops on May 15.</p> 
 
+<p>...</p>
+
