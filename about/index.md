@@ -4,7 +4,7 @@ title: About
 published: true
 ---
 
-<p>Nick Selby writes on law enforcement, data, technology and information security. He is the author of the forthcoming book, <em>In Context: Understanding Police Killings of Unarmed Civilians</em> (2016), based on his work on the <a href="http://streetcredsoftware.com/pkic" target="_blank">StreetCred Police Killings in Context Data Project</a>.</p>
+<p>Nick Selby writes on law enforcement, data, technology and information security. He is the author of the forthcoming book, <em><a href="http://www.amazon.com/Context-Understanding-Killings-Unarmed-Civilians-ebook/dp/B01DO9NTAG/ref=sr_1_2" target="_blank">In Context: Understanding Police Killings of Unarmed Civilians</a></em> (2016), based on his work on the <a href="http://streetcredsoftware.com/pkic" target="_blank">StreetCred Police Killings in Context Data Project</a>.</p>
 
 <p>He publishes articles regularly in the <em><a href="https://www.washingtonpost.com/posteverything/wp/2016/03/03/how-tracking-police-data-by-race-can-make-unfair-laws-look-like-the-cops-fault/" target="_blank">Washington Post</a></em>, <em><a href="http://calibrepress.com/author/nick-selby-and-aaron-marco/" target="_blank">Calibre Press</a></em>, many newspaper Op-Ed pages, and this blog. He was co-author of <em><a href="http://www.amazon.com/Blackhatonomics-Inside-Look-Economics-Cybercrime/dp/1597497401" target="_blank">Blackhatonomics: An Inside Look at the Economics of Cybercrime</a></em> (2012), and was technical editor of <em><a href="http://www.amazon.com/Investigating-Internet-Crimes-Introduction-Cyberspace/dp/0124078176/ref=asap_bc?ie=UTF8" target="_blank">Investigating Internet Crimes: An Introduction to Solving Crimes in Cyberspace</a></em> (2013).</p>
 
