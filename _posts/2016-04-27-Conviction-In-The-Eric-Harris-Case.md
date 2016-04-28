@@ -3,7 +3,7 @@ published: true
 layout: default
 ---
 <h1>Conviction in the Eric Harris Killing</h1>
-<p><img class="left" width="450px" src="https://nselby.github.io/assets/img/sorry_I_shot_him.png" /></p>
+<p><img class="right" width="450px" src="https://nselby.github.io/assets/img/sorry_I_shot_him.png" /></p>
 
 <p>Excerpt from <em><a href="http://www.amazon.com/Context-Understanding-Killings-Unarmed-Civilians-ebook/dp/B01DO9NTAG/ref=sr_1_2" target="_blank">In Context: Understanding Police Killings of Unarmed Civilians</a></em> </p>
 
