@@ -10,4 +10,4 @@ published: true
 
 <p>Nick is a police detective at a Texas law enforcement agency.  His <a href="https://medium.com/@nselby/" target="_blank">old blog</a> on Medium.com was popular. </p> 
 
-<p>Read more about him at <a href="http://nickselby.com" target="_blank">nickselby.com</a>. His company is <a href="http://streetcredsoftware.com" target="_blank">StreetCred Software, Inc.</a></p>
+<p>Read more about him at <a href="http://nickselby.com" target="_blank">nickselby.com</a>. His company is <a href="http://streetcredsoftware.com" target="_blank">StreetCred Software, Inc.</a>.</p>
