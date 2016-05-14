@@ -3,7 +3,11 @@ published: true
 layout: default
 ---
 <h1>What We Mean By “Unarmed.”</h1>
-<p><img class="right" width="400px" src="https://nselby.github.io/assets/img/mcleod.png" />When we told people we were writing a book on killings by police of unarmed people, the firsy, and most controversial question we got was how we tell if someone is “unarmed.” So to answer it simply, in <a href="http://amzn.to/1q0pkXx" target="_blank"><em>In Context: Understanding Police Killings of Unarmed Civilians</em></a>, we consider a person to be armed if they are holding or displaying in a threatening manner, or moving overtly or covertly to grasp, a gun, knife or deadly weapon. </p>
+
+<p><em>The following is an excerpt from</em> <a href="http://amzn.to/1q0pkXx" target="_blank">In Context: Understanding Police Killings of Unarmed Civilians</a></p>
+
+
+<p><img class="right" width="400px" src="https://nselby.github.io/assets/img/mcleod.png" />When we told people we were writing a book on killings by police of unarmed people, the first, and most controversial, question we got was how we tell if someone is “unarmed.” So to answer it simply: in this book, we consider a person to be armed if they are holding or displaying in a threatening manner, or moving overtly or covertly to grasp, a gun, knife or deadly weapon.</p>
 
 <p>What constitutes a deadly weapon is highly subjective. “I killed the president of Paraguay ... with a fork,” said the fictional Martin Q. Blank, in the movie Grosse Pointe Blank. The fact is, many things can be a deadly weapon in the hands of someone determined to be deadly, and the law is very clear (and most people would agree) that someone who is yelling at you that they want to kill you, while charging at you with a brick raised above their head should be considered “armed,” for the purpose of whether you would be justified to defend yourself from an attack that poses a significant threat of death or serious physical injury.<p>
 
