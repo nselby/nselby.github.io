@@ -23,7 +23,7 @@ layout: default
 
 <p>(You can <a href="https://nselby.github.io/assets/img/Otis_in_jacksonville.mp3" target="_blank">listen to Otis' comment here</a>)</p>
 
-<blockquote>"I think a lot of times the shooting comes from a code of silence, where the policemen almost always never tell on each other, and they allow criminal acts to take place amongst themselves. Also, I think that the data is only good... the input that you put in is only ever as good as the individual doing the typing. Because, they sit together and they get together and they'll get their story together, and now you put in an incident and, 'This is what occurred.' But a lot of times, you look and cops are looking at each other and saying, 'I got your back.' And innocent people get killed. But I do think 90%, most of the police, are great guys."</blockquote>
+<blockquote>"...I think a lot of times the shooting comes from a code of silence, where the policemen  always never tell on each other, and they allow criminal acts to take place amongst themselves. Also, I think that the data is only good ... the input that you put in is only as good as the individual doing the typing. Because, they sit together and they get together and they'll get their story together, and now you put in an incident and, 'This is what occurred.' But a lot of times, you look and cops are looking at each other and saying, 'I got your back.' And innocent people get killed. But I do think 90%, most of the policemen, are great guys."</blockquote>
 
 <p>That, whether Otis knew it, describes America's relationship with their police.</p>
 
