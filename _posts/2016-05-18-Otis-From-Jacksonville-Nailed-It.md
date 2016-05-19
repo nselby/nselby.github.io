@@ -77,5 +77,6 @@ Roberto was transported to Homestead Hospital where his condition continued to w
 
 <p>It's just a waste of time.</p> 
 
+<p>Oh, yeah: to listen to my response to Otis, <a href="https://nselby.github.io/assets/img/Nick_Selby_Responds_To_Otis_In_Jacksonville.mp3" target="_blank">click here</a>.</p>
 
 
