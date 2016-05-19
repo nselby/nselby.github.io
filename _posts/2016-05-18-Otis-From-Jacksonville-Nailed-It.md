@@ -27,7 +27,7 @@ layout: default
 
 <p>That, whether Otis knew it, describes America's relationship with their police.</p>
 
-<p>America believes the police only look out for one another, and will cover for one another and never act against each other. They believe this because it has happened, but I think mainly they believe this because it is a stock feature of every television program and film that has ever been made about police (to listen to my response to Otis, <a href="https://nselby.github.io/assets/img/Nick_Selby_Responds_To_Otis_In_Jacksonville.mp3" target="_blank">click here</a>). </p>
+<p>America believes the police only look out for one another, and will cover for one another and never act against each other. They believe this because it has happened, but I think mainly they believe this because it is a stock feature of every television program and film that has ever been made about police (to listen to my response to Otis, <a href="https://nselby.github.io/assets/img/Nick_Selby_Responds_To_Otis_In_Jacksonville.mp3" target="_blank">click here</a>).</p>
 
 <p>But the factual validity of this is irrelevant; it is a fact that people <em>believe</em> that this is true. </p>
 
@@ -41,7 +41,7 @@ layout: default
 
 <p>In our book, Ed, Ben and I independently came up, out of 153 incidents, with ten (6.5%) that we believed were unjustified. After we went to press, new data in another case came in, and we all agreed that that case then looked unjustified as well - bringing our count to 11, or 7.18%. Ninety-three percent. </p>
 
-<p>Ninety percent, nine-in-ten, is a pretty successful rate. Watch as former data-journalist Nate Silver, in a <a href="https://fivethirtyeight.com/features/how-i-acted-like-a-pundit-and-screwed-up-on-donald-trump/" target="_blank">multi-thousand word apologia</a> that he put forth as an apology for screwing up each and every prediction he made about Donald Trump's chances in the primaries, justifies what he used to do for a living (data journalism)before he became a hack:</p>
+<p>Ninety percent, nine-in-ten, is a pretty successful rate. Watch as former data-journalist Nate Silver, in a <a href="https://fivethirtyeight.com/features/how-i-acted-like-a-pundit-and-screwed-up-on-donald-trump/" target="_blank">multi-thousand word apologia</a> that he put forth as an apology for screwing up each and every prediction he made about Donald Trump's chances in the primaries, justifies what he used to do for a living (data journalism) before he became a hack:</p>
 
 	<blockquote>We could emphasize that track record; the methods of data journalism have been highly successful at forecasting elections. That includes quite a bit of success this year. The FiveThirtyEight “polls-only” model has correctly predicted the winner in 52 of 57 (91 percent) primaries and caucuses so far in 2016, and our related “polls-plus” model has gone 51-for-57 (89 percent). Furthermore, the forecasts have been well-calibrated, meaning that upsets have occurred about as often as they’re supposed to but not more often.</blockquote>
 
