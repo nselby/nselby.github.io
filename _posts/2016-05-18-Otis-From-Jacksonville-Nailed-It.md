@@ -27,15 +27,17 @@ layout: default
 
 <p>That, whether Otis knew it, describes America's relationship with their police.</p>
 
-<p>America believes the police only look out for one another, and will cover for one another and never act against each other.  They believe this because it has happened, but I think mainly they believe this because it is a stock feature of every television program and film that has ever been made about police. but the validity of this is irrelevant; it is a fact that people believe that this is true. </p>
+<p>America believes the police only look out for one another, and will cover for one another and never act against each other. They believe this because it has happened, but I think mainly they believe this because it is a stock feature of every television program and film that has ever been made about police (to listen to my response to Otis, <a href="https://nselby.github.io/assets/img/Nick_Selby_Responds_To_Otis_In_Jacksonville.mp3" target="_blank">click here</a>). </p>
 
-<p>Otis also believed that the data was cooked - or more precisely, that my partners and I cooked the data. Because we are cops. Note that Otis doesn't sound that upset about it, either - it was as if he was just stating a fact like if you swim too far out into the ocean, you may drown. Again, this isn't something that he is particularly made about, and I think that this is really because, despite all this, I think Otis generally supports police. </p>
+<p>But the factual validity of this is irrelevant; it is a fact that people <em>believe</em> that this is true. </p>
 
-<p>That brings me to the mesmerizing third thing that he said: that he believes that ninety per-cent of cops are good guys. And <em>that</em> is a fascinating finding, because in fact the data <em>do</em> support that conclusion. In The Washington Post, Peter Moskos and I <a href="https://www.washingtonpost.com/posteverything/wp/2016/01/15/just-counting-people-killed-by-police-wont-fix-problems-we-need-better-data/" target="_blank">discussed this last January</a>:
+<p>Otis also believed that the data was cooked - or more precisely, that my partners and I cooked the data. Because we are cops. Note that Otis doesn't sound that upset about it, either - I urge you to <a href="https://nselby.github.io/assets/img/Otis_in_jacksonville.mp3" target="_blank">listen to him</a> - it was as if he was just stating a fact, like, if you swim too far out into the ocean, you may drown. Again, this isn't something that he is particularly mad about, and I think that this is really because, despite all this, I think Otis generally supports police. </p>
+
+<p>That brings me to the mesmerizing third thing that he said: that he believes that, "ninety percent, most of the policemen, are great guys." And <em>that</em> is a fascinating finding, because in fact the data <em>do</em> support that conclusion. In The Washington Post, Peter Moskos and I <a href="https://www.washingtonpost.com/posteverything/wp/2016/01/15/just-counting-people-killed-by-police-wont-fix-problems-we-need-better-data/" target="_blank">discussed this last January</a>:
 
 <blockquote>Of the fatal shootings counted by The Post, <a href="http://www.washingtonpost.com/sf/investigative/2015/10/24/on-duty-under-fire/" target="_blank">the majority involved a suspect who had already fired shots, brandished a gun or attacked someone</a>. Several occurred after other potentially dangerous threats. In other words, most shootings involved police acting correctly. Headlines tout the total number of those killed by police as if each is worrisome, but they could very well read, “Police thwart hundreds of potentially deadly attacks in 2015.”</blockquote>  
 
-<p>The number the Washington Post came up with? 90 percent.</p>
+<p>The number the Washington Post came up with? Ninety percent.</p>
 
 <p>In our book, Ed, Ben and I independently came up, out of 153 incidents, with ten (6.5%) that we believed were unjustified. After we went to press, new data in another case came in, and we all agreed that that case then looked unjustified as well - bringing our count to 11, or 7.18%. Ninety-three percent. </p>
 
@@ -77,6 +79,5 @@ Roberto was transported to Homestead Hospital where his condition continued to w
 
 <p>It's just a waste of time.</p> 
 
-<p>Oh, yeah: to listen to my response to Otis, <a href="https://nselby.github.io/assets/img/Nick_Selby_Responds_To_Otis_In_Jacksonville.mp3" target="_blank">click here</a>.</p>
 
 
