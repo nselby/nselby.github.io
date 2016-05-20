@@ -5,11 +5,7 @@ layout: default
 <h1>Otis From Jacksonville Nailed It</h1>
 <p><img class="right" width="400px" src="https://i0.wp.com/madmikesamerica.com/wp-content/uploads/2014/12/police.jpg" /></p>
 
-<p>Today on social media I had an argument with a couple of people over a story that really irked me. When I thought about why it bugged me so much, I finally got it: the article (a hodge-podge of sadly cherry-picked figures from the FBI's widely-disgraced Uniform Crime Reports put forth as "proof" of the "fact" that there is no "war on cops") was another misuse of statistics by a reporter in order to further a narrative. </p>
-
-<p>The last time I got this mad, it resulted in a <a href="http://amzn.to/1q0pkXx" target="_blank">book</a>, so I guess I shouldn't be too unhappy.</p>
-
-<p>But the issue stuck in my craw for a different reason: as cops shout about the "war on cops," and activists try to debunk that any such war exists, we are missing the real point, which is that we are at the low-point of a cycle that repeats itself every ten to 15 years or so.</p>
+<p>As cops shout about the "war on cops," and activists try to debunk that any such war exists, we are missing the real point, which is that we are at the low-point of a cycle that repeats itself every ten to 15 years or so.</p>
 
 <p>That problem is cynicism. </p>
 
