@@ -5,7 +5,7 @@ layout: default
 <h1>Otis From Jacksonville Nailed It</h1>
 <p><img class="right" width="400px" src="https://i0.wp.com/madmikesamerica.com/wp-content/uploads/2014/12/police.jpg" /></p>
 
-<p>As cops shout about the “war on cops," and activists try to debunk that any such war exists, we are missing the real point, which is that we are at the low-point of a cycle that repeats itself every ten to 15 years or so.</p>
+<p>As cops shout about the “war on cops,” and activists try to debunk that any such war exists, we are missing the real point, which is that we are at the low-point of a cycle that repeats itself every ten to 15 years or so.</p>
 
 <p>That problem is cynicism. </p>
 
