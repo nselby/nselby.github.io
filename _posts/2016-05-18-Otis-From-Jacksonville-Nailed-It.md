@@ -17,9 +17,9 @@ layout: default
 
 <p>I think we’re back in the same place. And this week, while I was sitting in the studio in WJCT, taking part in a <a href="https://nselby.github.io/First-Coast-Connect/" target="_blank">call-in show to discuss police killings</a>, a man named Otis called in from Jacksonville. His comment floored me. Not because of the first part. And not because of the second part. And not even because of the third part. But because of all three parts, taken together, describe almost perfectly the whole problem:</p>
 
-<p>(You can <a href="https://nselby.github.io/assets/img/Otis_in_jacksonville.mp3" target="_blank">listen to Otis' comment here</a>)</p>
+<p>(You can <a href="https://nselby.github.io/assets/img/Otis_in_jacksonville.mp3" target="_blank">listen to Otis’ comment here</a>)</p>
 
-<blockquote>"...I think a lot of times the shooting comes from a code of silence, where the policemen  always never tell on each other, and they allow criminal acts to take place amongst themselves. Also, I think that the data is only good ... the input that you put in is only as good as the individual doing the typing. Because, they sit together and they get together and they’ll get their story together, and now you put in an incident and, 'This is what occurred.' But a lot of times, you look and cops are looking at each other and saying, 'I got your back.' And innocent people get killed. But I do think 90%, most of the policemen, are great guys.”</blockquote>
+<blockquote>“...I think a lot of times the shooting comes from a code of silence, where the policemen  always never tell on each other, and they allow criminal acts to take place amongst themselves. Also, I think that the data is only good ... the input that you put in is only as good as the individual doing the typing. Because, they sit together and they get together and they’ll get their story together, and now you put in an incident and, ‘This is what occurred.’ But a lot of times, you look and cops are looking at each other and saying, ‘I got your back.’ And innocent people get killed. But I do think 90%, most of the policemen, are great guys.”</blockquote>
 
 <p>That, whether Otis knew it, describes America’s relationship with their police.</p>
 
