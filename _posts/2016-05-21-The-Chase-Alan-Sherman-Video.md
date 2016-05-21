@@ -17,12 +17,12 @@ layout: default
 
 <p>During the 11-minute 911 call released by the Georgia Bureau of Investigation, Sherman’s mother is heard saying, “He’s going to bite us. He’s going to bite us!” Mrs. Sherman told dispatchers that they had pulled off the interstate with their flashers on, and the dialogue in the car as the family tries to control Sherman <a href="http://www.ajc.com/videos/news/coweta-taser-death-woman-begs-for-help-for-son-in/vDfYJ9/" target="_blank">is heard</a>, with quotes like, “Hit him in the head! Hit him in the head! Or in the stomach! Hit him in the stomach!”<label for="sn-demo" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-demo" class="margin-toggle"/><span class="sidenote">http://bigstory.ap.org/article/c9fbc16c34054e19b1f13a6ffcefb5de/mom- 911-son-trying-bite-people-dies-after-struggl</span> When a dispatcher inquires whether Sherman is in the vehicle, the mother says, “Listen, he did spice and it messed his brain up.”</p>
 
-<p><img class="right" width="400px" src="https://nselby.github.io/assets/img/chase_alan_sherman.jpg" />When the deputies arrived, they attempted to gain control of Sherman. One of the deputies deployed a TASER throughout the struggle in an attempt to control him. Sherman continued resisting the deputies and medical personnel who arrived on the scene. Sherman stopped fighting and went into medical distress, at which point deputies and EMS began performing CPR. Sherman was transported to the hospital where he was pronounced dead.</p>
+<p>When the deputies arrived, they attempted to gain control of Sherman. One of the deputies deployed a TASER throughout the struggle in an attempt to control him. Sherman continued resisting the deputies and medical personnel who arrived on the scene. Sherman stopped fighting and went into medical distress, at which point deputies and EMS began performing CPR. Sherman was transported to the hospital where he was pronounced dead.</p>
 
 <h3>Analysis</h3>
 
 <p>While I haven’t been able to read the toxicology report (it was not available in March, 2016), it’s pretty clear that this was an acute intoxication of synthetic marijuana, and Sherman’s behavior during the incident is a typical reaction to such an event. It is fairly clear that deputies were attempting to control, not kill, Sherman.</p>
-<p class="right">– Nick Selby</p>
+<p style:"align:right;">– Nick Selby</p>
 
 <p>Sherman was intoxicated, to the extent that he attacked his own family before attacking police officers. The officers used the non-deadly tools and techniques available to them in an attempt to gain control of Sherman safely. I believe he died as a result of his recent drug use and physical exertion.
 <p class="right">– Ben Singleton</p>
