@@ -5,7 +5,7 @@ layout: default
 <h1>The Chase Alan Sherman Video</h1>
 <p><a href="http://amzn.to/1q0pkXx" target="_blank"><img class="right" border="0" width="400px" src="https://nselby.github.io/assets/img/page_365.png" /></a></p>
 
-<p>This week, video was released in the case of Chase Alan Sherman, a white male who died after an encounter with deputies in Coweta County, Georgia on November 20, 2015. The incident is covered on pages 365-366 of our book, <a href="http://amzn.to/1q0pkXx" target="_blank">in Context: Understanding police Killings of Unarmed Civilians</a>, however at the time of writing, the video was not available to us. Now that we have viewed the video, we have additinal commentary.</p>
+<p>This week, video was released in the case of Chase Alan Sherman, a white male who died after an encounter with deputies in Coweta County, Georgia on November 20, 2015. The incident is covered on pages 365-366 of our book, <a href="http://amzn.to/1q0pkXx" target="_blank">in Context: Understanding police Killings of Unarmed Civilians</a>, however at the time of writing, the video was not available to us. Now that we have viewed the video, we have additional commentary.</p>
 
 <p>First, the text as written in the book:</p>
 
