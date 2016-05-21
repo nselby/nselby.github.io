@@ -22,13 +22,13 @@ layout: default
 <h3>Analysis</h3>
 
 <p>While I haven’t been able to read the toxicology report (it was not available in March, 2016), it’s pretty clear that this was an acute intoxication of synthetic marijuana, and Sherman’s behavior during the incident is a typical reaction to such an event. It is fairly clear that deputies were attempting to control, not kill, Sherman.</p>
-<p style:"align:right;">– Nick Selby</p>
+<p>– Nick Selby</p>
 
 <p>Sherman was intoxicated, to the extent that he attacked his own family before attacking police officers. The officers used the non-deadly tools and techniques available to them in an attempt to gain control of Sherman safely. I believe he died as a result of his recent drug use and physical exertion.
-<p class="right">– Ben Singleton</p>
+<p>– Ben Singleton</p>
 
 <p>Although we don’t know for certain whether Sherman was under the influence of some illicit drug, his actions were definitely a credible physical threat to the family and to the officers trying to take him into custody. The use of a TASER device on a person who is a credible physical threat is an appropriate force response.
-<p class="right">– Ed Flosi</p>
+<p>– Ed Flosi</p>
 
 <h2>Further Commentary</h2>
 
