@@ -57,7 +57,7 @@ layout: default
 
 <p>After Sherman has stopped fighting, the medic asks whether he should turn off the vehicle’s engine, which had been on the whole time, giving an indication of the speed and dynamism of the incident. It is turned off. </p>
 
-<p>As soon as the deputies realize that Sherman isn’t breathing, they pull him out of the car and begin recuscitation. There was no delay. </p>
+<p>As soon as the deputies realize that Sherman isn’t breathing, they pull him out of the car and begin resuscitation. There was no delay. </p>
 
 <p> With the benefit of 20:20 hindsight I would say that the deputies may have considered turning off the car and leaving Sherman inside, and getting the parents out of the car, until backup arrived before engaging. But there was no indication that Sherman would be able to fight off two deputies and fight through multiple TASER deployments.</p>
 
