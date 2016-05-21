@@ -53,7 +53,7 @@ layout: default
 
 <p>Instead, we hear the officers articulating and see them appropriately attempting to restrain Sherman. Deputies shout “He’s got my TASER” and “Let go of my TASER” at least three times each; “Stop fighting” at least six times; “Stop resisting” at least nine times, “Relax” at least six times; “Calm down,” at least twice, “Don’t kick me,” once, and then versions (once Sherman stops resisting) of, “You okay, buddy?” at least three times.</p>
 
-<p>We do not, once deputies are not actively engaging with restraining Sherman, hear deputies sounding angry or hostile - instead they sound concerned. When the medic first arrives and starts to place weight on Sherman to immobilize him, the same deputy who was fighting with Sherman saus to the medic, “Watch your knee, he’s got some TASER probes there in his back.” The medic responds that, “He’s out of his mind on that shit...Spice.”</p>
+<p>We do not, once deputies are not actively engaging with restraining Sherman, hear deputies sounding angry or hostile - instead they sound concerned. When the medic first arrives and starts to place weight on Sherman to immobilize him, the same deputy who was fighting with Sherman says to the medic, “Watch your knee, he’s got some TASER probes there in his back.” The medic responds that, “He’s out of his mind on that shit...Spice.”</p>
 
 <p>After Sherman has stopped fighting, the medic asks whether he should turn off the vehicle’s engine, which had been on the whole time, giving an indication of the speed and dynamism of the incident. It is turned off. </p>
 
