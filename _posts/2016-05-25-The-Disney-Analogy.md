@@ -19,7 +19,7 @@ layout: default
 
 <p>This means that Disney’s measurements of crowds and wait times have made Disney more money, which makes Disney better able to provide services and products for its constituents, making it better for all. Boy, your little snipe sure did backfire in your face, there, huh? How much stupider could you look? None, I'm guessin’. None more stupider.</p>
 
-<p>No, Mr. Secretary (or, should I call you, “Waiter,” in preparation for your next gig?) what this incident revealed wasn’t just someone clueless about the men and women you have sworn to serve, the men and women who gave freely and bravely of their bodies and minds and volunteered to serve our country. It also revealed that you are uterly clueless about how other people placed in positions of responsibility to handle the logistics of crowds in other sectors approach the problem and find solutions to the problems and challenges faced by their constituents, and implement these solutions to give their constituents a better overall experience. </p>
+<p>No, Mr. Secretary (or, should I call you, “Waiter,” in preparation for your next gig?) what this incident revealed wasn’t just someone clueless about the men and women you have sworn to serve, the men and women who gave freely and bravely of their bodies and minds and volunteered to serve our country. It also revealed that you are utterly clueless about how other people placed in positions of responsibility to handle the logistics of crowds in other sectors approach the problem and find solutions to the problems and challenges faced by their constituents, and implement these solutions to give their constituents a better overall experience. </p>
 
 <p>You’re not just dumb, you’re also a little arrogant about it. </p>
 
