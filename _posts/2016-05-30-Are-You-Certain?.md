@@ -44,7 +44,6 @@ layout: default
   <li>Should officers fire a warning shot, if time allows?</li>
   <li>Do you know what Forrett v Richardson was? And how it affects officers’ use of force?</li>
   <li>Does an officer need to wait until a person has fired at him before the officer may defend himself?</li>
-  <li>Can an officer exercise his right to remain silent during an internal invstigation of his use of deadly force?</li>
   <li>Do you understand your rights when you are stopped and frisked? Have you heard of Terry v. Ohio? Do you understand the limits on officers during a "Terry stop"?</li>
  </ol>
 
