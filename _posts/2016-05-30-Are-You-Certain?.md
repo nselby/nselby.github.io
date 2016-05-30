@@ -3,7 +3,7 @@ published: true
 layout: default
 ---
 <h1>Are You Certain?</h1>
-<p><img class="right" width="400px" src="https://metvnetwork.s3.amazonaws.com/Kyf2O-1453397814-127-lists-telly_1200.jpg" /></p></p>
+<p><img class="right" width="400px" src="https://metvnetwork.s3.amazonaws.com/Kyf2O-1453397814-127-lists-telly_1200.jpg" /></p>
 
 
 <p>Americans may have challenges with the cops, but boy, oh boy, do they watch cop shows. It’s kind of a central theme of American life.</p>
