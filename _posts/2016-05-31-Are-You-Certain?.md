@@ -2,7 +2,7 @@
 published: true
 layout: default
 ---
-<h1>Headline Here </h1>
+<h1>Are You Certain?</h1>
 <p><img class="right" width="400px" src="https://metvnetwork.s3.amazonaws.com/Kyf2O-1453397814-127-lists-telly_1200.jpg" /></p></p>
 
 
