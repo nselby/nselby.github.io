@@ -32,7 +32,7 @@ layout: default
 
 <p>I think if I were to ask anyone over age 30 the name of the detective who was Greek and sucked on lollipops, or when Andy Sipowicz broke his sobriety, or which precinct Frank Furillo worked, or the name of the show on which Ponch and Jon rode motorcycles, we’d get some pretty quick answers. </p>
 
-<p>So now that we’ve walked down memory lane let me ask you whether you know the answers to these 11 very basic questions about police use of deadly force:</p>
+<p>So now that we’ve walked down memory lane, let me ask you whether you know the answers to these 11 very basic questions about police use of deadly force:</p>
 
 <ol>
   <li>Do you know how Tennessee v. Garner applies to law enforcement use of deadly force?</li>
