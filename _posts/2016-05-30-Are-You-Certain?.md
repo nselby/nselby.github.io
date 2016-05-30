@@ -39,7 +39,7 @@ layout: default
   <li>Do you know what Graham v. Connor is?</li>
   <li>Do you know what qualified immunity is? </li>
   <li>Must an officer be able to distinguish between a toy gun and a real gun before firing? </li>
-  <li>Do you know whether the Fourth Amendment have to do with protecting us against being killed by the police? </li>
+  <li>Do you know whether the Fourth Amendment has to do with protecting us against being killed by the police? </li>
   <li>Do you know whether a TASER is non-deadly force, or deadly force? </li>
   <li>Should officers fire a warning shot, if time allows?</li>
   <li>Do you know what Forrett v Richardson was? And how it affects officers’ use of force?</li>
