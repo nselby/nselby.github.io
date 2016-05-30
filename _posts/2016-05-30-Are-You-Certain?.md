@@ -32,19 +32,20 @@ layout: default
 
 <p>I think if I were to ask anyone over age 30 the name of the detective who was Greek and sucked on lollipops, or when Andy Sipowicz broke his sobriety, or which precinct Frank Furillo worked, or the name of the show on which Ponch and Jon rode motorcycles, we’d get some pretty quick answers. </p>
 
-<p>So now that we’ve walked down memory lane let me ask you whether you know the answers to these ten basic questions about police use of deadly force:</p>
+<p>So now that we’ve walked down memory lane let me ask you whether you know the answers to these 11 very basic questions about police use of deadly force:</p>
 
 <ol>
   <li>Do you know how Tennessee v. Garner applies to law enforcement use of deadly force?</li>
   <li>Do you know what Graham v. Connor is?</li>
   <li>Do you know what qualified immunity is? </li>
   <li>Must an officer be able to distinguish between a toy gun and a real gun before firing? </li>
-  <li>Do you know whether the Fourth Amendment has to do with protecting us against being killed by the police? </li>
+  <li>Do you know whether the Fourth Amendment has anything to do with protecting us against being killed by the police? </li>
   <li>Do you know whether a TASER is non-deadly force, or deadly force? </li>
   <li>Should officers fire a warning shot, if time allows?</li>
   <li>Do you know what Forrett v Richardson was? And how it affects officers’ use of force?</li>
   <li>Does an officer need to wait until a person has fired at him before the officer may defend himself?</li>
-  <li>Do you understand your rights when you are stopped and frisked? Have you heard of Terry v. Ohio? Do you understand the limits on officers during a "Terry stop"?</li>
+  <li>Do you understand your rights when you are stopped and frisked? </li>
+  <li>Do you understand the limits on officers during a "Terry stop," which refers to Terry v. Ohio?</li>
  </ol>
 
 <p>How’d you do? Let me ask you to consider this: if you were unsure, or even got fewer than half of those right, how well do you <em>really</em> understand police use of force? Or police use of deadly force? Or police investigations into officer-involved deaths? </p>
