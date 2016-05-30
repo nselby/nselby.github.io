@@ -45,7 +45,7 @@ layout: default
   <li>Do you know what Forrett v Richardson was? And how it affects officers’ use of force?</li>
   <li>Does an officer need to wait until a person has fired at him before the officer may defend himself?</li>
   <li>Do you understand your rights when you are stopped and frisked? </li>
-  <li>Do you understand the limits on officers during a "Terry stop," which refers to Terry v. Ohio?</li>
+  <li>Do you understand the limits on officers during a “Terry stop,” which refers to Terry v. Ohio?</li>
  </ol>
 
 <p>How’d you do? Let me ask you to consider this: if you were unsure, or even got fewer than half of those right, how well do you <em>really</em> understand police use of force? Or police use of deadly force? Or police investigations into officer-involved deaths? </p>
