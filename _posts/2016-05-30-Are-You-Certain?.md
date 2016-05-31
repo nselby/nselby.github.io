@@ -30,9 +30,9 @@ layout: default
 
 <p>Studies have also shown that while TV violence was directly related to fear of crime, there was no significant correlation of TV crime to actual crime<label for="sn-demo" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-demo" class="margin-toggle"/><span class="sidenote">Jamieson, Patrick E., and Daniel Romer. “Violence in popular US prime time TV dramas and the cultivation of fear: A time series analysis.” Media and Communication 2.2 (2014): 31.</span>.</p>
 
-<p>I think if I were to ask anyone over age 30 the name of the detective who was Greek and sucked on lollipops, or when Andy Sipowicz broke his sobriety, or which precinct Frank Furillo worked, or the name of the show on which Ponch and Jon rode motorcycles, we’d get some pretty quick answers. </p>
+<p>There are lots of people out there who could tell me, say, the name of the BAU's quirky and geeky Technical Analyst, or the name of the Naval Criminal Investigative Service's quirky and geeky and Goth forensic scientist, or on what show one could find "Toby" Curtis, the quirky and geeky computer crime expert who is also a medical prodigy. Many older viewers could tell us the name of the detective who was Greek and sucked on lollipops, or which precinct Frank Furillo worked, or the name of the show on which Ponch and Jon rode motorcycles.</p>
 
-<p>So now that we’ve walked down memory lane, let me ask you whether you know the answers to these 11 very basic questions about police use of deadly force:</p>
+<p>So since we know how most people can recall completely useless information that has nothing to do with policing, let me ask you, genuinely, no tricks: do you know the answers to these 10 very basic questions about police use of deadly force?</p>
 
 <ol>
   <li>Do you know how Tennessee v. Garner applies to law enforcement use of deadly force?</li>
@@ -42,7 +42,6 @@ layout: default
   <li>Do you know whether the Fourth Amendment has anything to do with protecting us against being killed by the police? </li>
   <li>Do you know whether a TASER is non-deadly force, or deadly force? </li>
   <li>Should officers fire a warning shot, if time allows?</li>
-  <li>Do you know what Forrett v Richardson was? And how it affects officers’ use of force?</li>
   <li>Does an officer need to wait until a person has fired at him before the officer may defend himself?</li>
   <li>Do you understand your rights when you are stopped and frisked? </li>
   <li>Do you understand the limits on officers during a “Terry stop,” which refers to Terry v. Ohio?</li>
