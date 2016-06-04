@@ -25,7 +25,7 @@ layout: default
 
 <p>To that, I now must add that the officer was exceptionally restrained in his response. The cop was 5’6” tall and weighed 155 pounds, while the man was about 5’10” and 185 pounds - and even while being beaten and bitten, the cop didn’t shoot Lopez, or even beat him with the baton.</p>
 
-<p>Chief Nestel, it turns out, is a true gentleman. He graciously accepted my apology. I’m not sure I would have been that gracious - I like to think I would be, but wow.</p>
+<p>Chief Nestel, it turns out, is a true gentleman. He graciously accepted my apology. I’m not sure I would have been that gracious - I like to think I would be, but wow. I love this <a href="http://www.phillymag.com/news/2014/11/30/can-make-police-like-septas-tom-nestel/" target="_blank">2014 interview piece</a> with the Chief in Philly Magazine.</p>
 
 <p>Note that my co-authors Ben Singleton and Ed Flosi did NOT make the same mistake I did (our analysis was done independently).</p>
 
