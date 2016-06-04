@@ -15,11 +15,15 @@ layout: default
 
 <p>Among my mistakes was my belief that the officer ONLY had a TASER. The chief tells me that in fact, like all SEPTA officers, the officer was also armed with a .40 Sig Sauer handgun, and a baton.</p>
 
-<p>We had already opined that the officer was justified in his use of force. I now must add that he was exceptionally restrained in his response. The cop was 5-6, 155 pounds, while the man was about 5- 10 and 185 pounds, and the cop didn’t shoot him or beat him with the baton. </p>
+<p>We had already opined that the officer was justified in his use of force: Ed Flosi said, “This case seems like a clearly appropriate use of the TASER device against a person who was a credible threat to the officer.” Ben Singleton said, “It is surprising to me that this officer was able to gain control of Lopez, who had a significant size advantage and was under the influence of PCP. It is also a testament to the value of the TASER. Because Lopez overdosed on PCP, I believe the officer’s involvement is coincidental rather than causal.” 
 
 <p>Where I messed up was in my analysis. I said, “I wish to take this opportunity to point out that the SEPTA Police department sending unarmed law enforcement officers out into their transportation system, unable to defend themselves against attacks greater than this, is a stunning failure of imagination and leadership.” </p>
 
 <p>Not only was this factually incorrect, it was factually incorrect because <em>I</em> failed to follow through and check my facts with the public information officer at SEPTA. This was a gross mistake on my part. Rookie error. The result of my sloppy work was that I flagrantly insulted someone for doing a great job. I have personally apologized to Chief Nestel, and we are correcting future editions. </p>
+
+<p>My analysis of the incident (other than the unwarranted criticism) was this: “From the beginning this seemed to be another case sounding very much both like an acute narcotic intoxication incident, and like one in which the officer clearly expressed non-deadly intent, but in which circumstances turned beyond the officer’s control and made the encounter deadly. The officer behaved reasonably.”
+
+<p>To that, I now must add that the officer was exceptionally restrained in his response. The cop was 5'6" tall and weighed 155 pounds, while the man was about 5'10" and 185 pounds - and even while being beaten and bitten, the cop didn’t shoot Lopez, or even beat him with the baton.</p>
 
 <p>Chief Nestel, it turns out, is a true gentleman. He graciously accepted my apology. I’m not sure I would have been that gracious - I like to think I would be, but wow.</p>
 
