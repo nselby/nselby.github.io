@@ -10,7 +10,7 @@ title: blog
   
   <ul class="content-listing ">
     {% for post in site.posts %}      
-        <li>
+        <li class="index">
           <hr class="slender">
           <a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
           <br /><span class="smaller">{{ post.date | date: " %-d %B %Y" }}</span>  <br/>

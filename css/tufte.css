@@ -211,6 +211,8 @@ ol, ul, { width: 45%;
 
 li { width: 45%; padding: 0.5rem 0; }
 
+li.index { width: 75%; padding: 0.5rem 0; }
+
 figure { padding: 0;
          border: 0;
          font-size: 100%;
