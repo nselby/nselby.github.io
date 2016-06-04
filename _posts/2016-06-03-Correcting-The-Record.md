@@ -27,7 +27,7 @@ layout: default
 
 <p>Chief Nestel, it turns out, is a true gentleman. He graciously accepted my apology. I’m not sure I would have been that gracious - I like to think I would be, but wow.</p>
 
-<p>Note that my co-authors Ben Singleton and Ed FlawSea did NOT make the same mistake I did (our analysis was done independently).</p>
+<p>Note that my co-authors Ben Singleton and Ed Flosi did NOT make the same mistake I did (our analysis was done independently).</p>
 
 <p>We have made corrections to the manuscript and all editions printed and available on Kindle or Nook after June 20, 2016 will bear the corrected text:
 
