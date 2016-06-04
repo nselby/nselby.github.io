@@ -23,7 +23,7 @@ layout: default
 
 <p>My analysis of the incident (other than the unwarranted criticism) was this: “From the beginning this seemed to be another case sounding very much both like an acute narcotic intoxication incident, and like one in which the officer clearly expressed non-deadly intent, but in which circumstances turned beyond the officer’s control and made the encounter deadly. The officer behaved reasonably.”
 
-<p>To that, I now must add that the officer was exceptionally restrained in his response. The cop was 5'6" tall and weighed 155 pounds, while the man was about 5'10" and 185 pounds - and even while being beaten and bitten, the cop didn’t shoot Lopez, or even beat him with the baton.</p>
+<p>To that, I now must add that the officer was exceptionally restrained in his response. The cop was 5’6” tall and weighed 155 pounds, while the man was about 5’10” and 185 pounds - and even while being beaten and bitten, the cop didn’t shoot Lopez, or even beat him with the baton.</p>
 
 <p>Chief Nestel, it turns out, is a true gentleman. He graciously accepted my apology. I’m not sure I would have been that gracious - I like to think I would be, but wow.</p>
 
