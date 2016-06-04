@@ -5,7 +5,7 @@ layout: default
 <h1>Correcting The Record</h1>
 <p><img class="right" width="500px" src="http://cdn.phillymag.com/wp-content/uploads/2014/11/nestel.jpg" /></p>
 
-<p>I just had a humbling conversation with SEPTA Police Department <a href="https://twitter.com/TNestel3" target="_blank">Chief Thomas J. Nestel III</a> about the deadly incident on October 27, 2015 between a SEPTA officer and Omar Lopez, 24, an Hispanic Male.</p> 
+<p>I just had a humbling conversation with SEPTA Transit Police Department <a href="https://twitter.com/TNestel3" target="_blank">Chief Thomas J. Nestel III</a> about the deadly incident on October 27, 2015 between a SEPTA officer and Omar Lopez, 24, an Hispanic Male.</p> 
 
 <p>First, Chief Nestel gave me information that made me immediately recognize I’d made a substantial research error and mistaken statement about the death of Mr. Lopez in our book. Second, Chief Nestel was so gracious that it made me, if it’s possible, more ashamed of these mistakes.</p>
 
