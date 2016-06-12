@@ -41,9 +41,13 @@ layout: default
 
 <blockquote>“Specifically, the defendant continuously deployed a Taser against B.M. while B.M. was on the ground and not posing a threat to the defendant or others. The offense involved the use of a dangerous weapon and resulted in bodily injury to B.M. All in violation of Title 18, United States Code, Sections 242.”</blockquote>
 
+<p>What I think I see and hear is that the TASER did not make full contact - the loud clacking noise is one clue, as is Masters' ability to get out of the car. When he hits the ground, it seems the TASER probes make full contact.</p>
+
 <p>What I first see that really disturbs me is a 20-second TASER exposure against a person not fighting or resisting, but rather laying flat on the ground, while Runnels stands over him. </p>
 
 <p>Understand that police TASER devices do not allow the officer to “stack” exposures – that is, I cannot simply pull the trigger four times in rapid succession and allow the TASER to fire for 20-seconds. So in order to give Masters that 20-second “ride,” Runnels was required to wait until the first five-second pre-timed exposure ended, then make a conscious and knowing decision to pull the trigger again; then wait until the second five-second pre-timed exposure ended, then make a conscious and knowing decision to pull the trigger again; then wait until the third five-second pre-timed exposure ended, then make a conscious and knowing decision to pull the trigger again; then wait until the fourth five-second pre-timed exposure ended.</p>
+
+<p>There is another possibility - he held the trigger down. We'd need to see the TASER data. What is clear, though, is that Masters wasn't resisting when he was on the ground, and the TASER application was unnecessary and unwarranted.</p>
 
 <p>During the time in which the Masters is on the ground, Runnels orders Masters – a person in a state of neuromuscular incapacitation, or NMI – to comply with orders not physically possible: “Put your hands behind your back.” Having been in a state of NMI myself during TASER training I can tell you that it was exceptionally difficult for me to move any part of my body other than tapping my feet. For me, it would have been impossible to comply with an order to carry out a movement involving even gross motor skill like placing my hands behind my back. </p>
 
