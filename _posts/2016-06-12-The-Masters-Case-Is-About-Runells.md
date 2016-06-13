@@ -73,9 +73,7 @@ layout: default
 
 <p>That’s why I consider the TASER exposure, in fact, to be the least heinous of Runnels’ acts on this day. As even Masters’ father originally told the Intercept, “As a police officer, his opinion about whether Tasers could kill mirrored the standard explanation he and his fellow officers had heard from the company’s trainers, that Tasers causing cardiac arrest was just a tall tale concocted by attorneys and the media to disparage a useful police weapon. ‘Nah, that can’t even happen,’ he remembered saying.”</p>
 
-<p>As Ed Flosi states in <a href="http://amzn.to/1q0pkXx" target="_blank">our book</a>, “Deadly force is defined as: violent action known to create a substantial risk of causing death or serious bodily harm. (Black’s Law Dictionary 9th Edition (2009), Garner, B., Thompson-Reuters, St. Paul, MN)</p>
-
-<p>“Many circuit courts have a similar definition, for example the 9th Circuit Court of Appeals defines Deadly Force as: Force that creates a substantial risk of causing serious bodily injury or death. Many legal experts agree that ‘substantial risk’ means that it is more likely than not.”</p>
+<p>As Ed Flosi states in <a href="http://amzn.to/1q0pkXx" target="_blank">our book</a>, “Deadly force is defined as: violent action known to create a substantial risk of causing death or serious bodily harm. (Black’s Law Dictionary 9th Edition (2009), Garner, B., Thompson-Reuters, St. Paul, MN).  Many legal experts agree that ‘substantial risk’ means that it is more likely than not.”</p>
 
 <p>I believe, then, that Matt Masters’ statement to The Intercept is a perfect statement about why police using a TASER don’t think that they are going to create any lasting damage: they do not believe that using a TASER has a substantial risk (more likely than not) of causing serious bodily injury or death – and in this, regardless of where you stand on the TASER issue, the officers are simply factually correct.</p>
 
