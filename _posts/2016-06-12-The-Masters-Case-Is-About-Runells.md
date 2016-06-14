@@ -84,6 +84,6 @@ layout: default
 <p>Where I am sickened by Runnels’ actions is when he drags and then throws Masters to the ground. No one can tell me that he did not expect that to cause serious bodily injury. The <a href="http://www.kctv5.com/story/26529511/teen-critically-injured-after-tased-by-police" target="_blank">witness statements about the blood</a>, and the audible moans from Masters on the <a href="http://www.kansascity.com/news/local/crime/article82148017.html" target="_blank">police dashcam recording</a> should have been enough at least for Runnels to call for the ambulance to get to the scene faster. </p>
 
 <p>For police officers and administrators, I think the lessons are clear: the need for training on non-deadly force, suspect handling, and most of all, de-escalation. For citizens, protest is good, but it should not cross the line into disobeying lawful orders. Don’t get me wrong: nothing Bryce Masters did made him deserving of his treatment by Runnels. But Masters’ decisions and behavior during the beginning of this car stop were inappropriate and ultimately served to escalate an escalating situation. I believe that citizens should record their encounters with law enforcement, speak clearly and respectfully, obey lawful orders and complain about each and every perceived violation ... after the incident has ended. </p>
-
+ 
 
 <p>-</p>
