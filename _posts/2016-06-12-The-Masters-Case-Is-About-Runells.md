@@ -9,7 +9,7 @@ layout: default
 
 <p>In this post, I refer repeatedly to information I obtained by watching the raw, but abbreviated <a href="http://www.kansascity.com/news/local/crime/article82148017.html" target="_blank">dashcam video</a>, as well as <a href="http://www.kansascity.com/news/local/crime/article80296897.html" target="_blank">witness video, of the event</a>. </p>
 
-<p>There are lessons here for police and for civilians. Mainly for police.</p>
+<p>There are lessons here for police and for civilians. Mainly for police. I think this case should be studied in every police academy in America.</p>
 
 <p><a href="https://www.justice.gov/opa/pr/former-independence-missouri-police-officer-sentenced-48-months-prison-violating-civil-rights" target="_blank">In a written statement</a>, the US attorney for the Western District of Missouri, Tammy Dickinson, said that Runnels’ “...use of excessive force violated both the public’s trust and his oath to uphold the law. Police officers are not above the law and will be held accountable when they violate the civil rights of the citizens they are sworn to protect and serve.”</p>
 
