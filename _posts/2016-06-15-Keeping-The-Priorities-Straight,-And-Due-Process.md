@@ -32,6 +32,8 @@ layout: default
 
 <p>Meanwhile, Presumptive Republican presidential nominee Donald Trump goes after another basic liberty, banning Washington Post reporters from his events after a headline he didn’t like. The First Amendment protects a free press, but Trump is not interested.</p>
 
+<p>It's interesting to see that the presumptive nominee of both parties has publicly spoken to curtail liberties, and to expand the powers of law enforcement.</p>
+
 <p>The truest expression of civil liberties is protecting the rights with which one disagrees. That goes for the Nazis who demand free speech rights in a public park, and anyone suspected but not convicted of a crime who wants to buy a gun.</p>
 
 <p>If we deny the merely accused or suspected access to their Second Amendment rights, what next? Are suspects also no longer entitled to their Sixth Amendment right to an attorney or their Eighth Amendment right not to be treated cruelly?</p>
