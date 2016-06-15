@@ -3,9 +3,12 @@ published: true
 layout: default
 ---
 <h1>The Masters Case Is About Runells</h1>
-<p><img class="right" width="500px" src="https://nselby.github.io/assets/img/runnels_TASER.png" /></p>
 
-<p>Last week <a href="http://www.kansascity.com/news/local/crime/article81082327.html" target="_blank">we heard about former Independence, MO, police officer Timothy Runnels being sentenced</a> to four years in a federal prison. Runnels had pled guilty to violating the civil rights of 17-year-old Bryce Masters during a traffic stop in 2014. Masters has suffered brain damage and injuries that have by any measure changed his quality of life in horrible ways. </p>
+<p><em>This piece has been edited. I have strengthened my opinion that this is not about the tool, but the operator. I have moved to a sidebar technical detail about TASER function so that it doesn't distract from the flow (such as it is :) ). I have spoken with journalists who have provided me with some additional context, inadmissable at trial, that solidifies my disgust with the officer's behavior. </em></p>
+
+<p><img class="right" width="500px" src="https://nselby.github.io/assets/img/runnels_TASER.png" />
+
+	Last week <a href="http://www.kansascity.com/news/local/crime/article81082327.html" target="_blank">we heard about former Independence, MO, police officer Timothy Runnels being sentenced</a> to four years in a federal prison. Runnels had pled guilty to violating the civil rights of 17-year-old Bryce Masters during a traffic stop in 2014. Masters has suffered brain damage and injuries that have by any measure changed his quality of life in horrible ways. </p>
 
 <p>In this post, I refer repeatedly to information I obtained by watching the raw, but abbreviated <a href="http://www.kansascity.com/news/local/crime/article82148017.html" target="_blank">dashcam video</a>, as well as <a href="http://www.kansascity.com/news/local/crime/article80296897.html" target="_blank">witness video, of the event</a>. </p>
 
