@@ -50,7 +50,7 @@ layout: default
 
 <p>How’d you do? Let me ask you to consider this: if you were unsure, or even got fewer than half of those right, how well do you <em>really</em> understand police use of force? Or police use of deadly force? Or police investigations into officer-involved deaths? </p>
 
-<p>Have you ever seen, personally, a cop stand up for another cop who broke the law? Think to the last time you heard of this - cops illegally standing up for another cop. Was it on the news? Or was it on a television show? Both happen, don't get me wrong, but it happens much more often on TV than in real life. </p>
+<p>Have you ever seen, personally, a cop stand up for another cop who broke the law? Think to the last time you heard of this - cops illegally standing up for another cop. Was it on the news? Or was it on a television show? Both happen, don't get me wrong, but it happens much more often on TV than in <a href="https://www.washingtonpost.com/news/true-crime/wp/2016/06/24/ex-fairfax-police-officer-who-killed-john-geer-returns-to-court-friday-for-sentencing/" target="_blank">real life</a>. </p>
 
 <p>So after all that, I cannot answer this next question - only you can: Do you really understand these issues of use of force, use of deadly force? Or did you just <em>feel</em> as if you had a handle on it, because, perhaps, of the thousands of hours of television police programs you’ve watched?</p>
 
