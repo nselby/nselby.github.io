@@ -35,6 +35,9 @@ layout: default
 <p>Selby, N. (2016, June 6). <a href="http://www.sfexaminer.com/former-police-chief-greg-suhr-got-raw-deal/" target="_blank">Former Police Chief Greg Suhr got a raw deal</a>.  The San Francisco Examiner.
 <br />http://www.sfexaminer.com/former-police-chief-greg-suhr-got-raw-deal/</p>
 
+<p>Selby, N., Singleton, B., and Flosi, E. (2016, May 31). <a href="http://www.realclearpolicy.com/articles/2016/05/31/a_proactive_approach_to_policing_and_mental_health_1631.html" target="_blank">A Proactive Approach to Policing and Mental Health</a>. Real Clear Policy.<br />
+http://www.realclearpolicy.com/articles/2016/05/31/a_proactive_approach_to_policing_and_mental_health_1631.html</p>
+
 <p>Selby, N. (2016, May 30). <a href="https://nselby.github.io/Are-You-Certain/" target="_blank">Are You Certain? Most Americans Know How Police Work Is Done On Police TV Shows</a>. Small Victories: The Data in Law Enforcement Blog.
 <br />https://nselby.github.io/Are-You-Certain/</p>
 
