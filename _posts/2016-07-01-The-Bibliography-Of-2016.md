@@ -38,26 +38,26 @@ layout: default
 <p>Selby, N., Singleton, B., and Flosi, E. (2016, May 31). <a href="http://www.realclearpolicy.com/articles/2016/05/31/a_proactive_approach_to_policing_and_mental_health_1631.html" target="_blank">A Proactive Approach to Policing and Mental Health</a>. Real Clear Policy.<br />
 http://www.realclearpolicy.com/articles/2016/05/31/a_proactive_approach_to_policing_and_mental_health_1631.html</p>
 
-<p>Selby, N. (2016, May 30). <a href="https://nselby.github.io/Are-You-Certain/" target="_blank">Are You Certain? Most Americans Know How Police Work Is Done On Police TV Shows</a>. Small Victories: The Data in Law Enforcement Blog.
+<p>Selby, N. (2016, May 30). <a href="https://nselby.github.io/Are-You-Certain/" target="_blank">Are You Certain? Most Americans Know How Police Work Is Done On Police TV Shows</a>. The Context Blog.
 <br />https://nselby.github.io/Are-You-Certain/</p>
 
-<p>Selby, N. (2016, May 21). <a href="https://nselby.github.io/The-Chase-Alan-Sherman-Video/" target="_blank">The Chase Alan Sherman Video</a>. Small Victories: The Data in Law Enforcement Blog.
+<p>Selby, N. (2016, May 21). <a href="https://nselby.github.io/The-Chase-Alan-Sherman-Video/" target="_blank">The Chase Alan Sherman Video</a>. The Context Blog.
 <br /> https://nselby.github.io/The-Chase-Alan-Sherman-Video/</p>
 
-<p>Selby, N. (2016, May 18). <a href="" target="_blank">Otis From Jacksonville Nailed It</a>. Small Victories: The Data in Law Enforcement Blog.
+<p>Selby, N. (2016, May 18). <a href="" target="_blank">Otis From Jacksonville Nailed It</a>. The Context Blog.
 <br />https://nselby.github.io/Otis-From-Jacksonville-Nailed-It/</p>
 
-<p>Selby, N. (2016, April 4). <a href="https://nselby.github.io/With-Criminal-Justice-Statistics,-The-Simplest-Explanation-Is-Often-Wrong/" target="_blank">With Justice Statistics, The Simple Explanation Is Often Wrong</a>. Small Victories: The Data in Law Enforcement Blog.
+<p>Selby, N. (2016, April 4). <a href="https://nselby.github.io/With-Criminal-Justice-Statistics,-The-Simplest-Explanation-Is-Often-Wrong/" target="_blank">With Justice Statistics, The Simple Explanation Is Often Wrong</a>. The Context Blog.
 <br /> https://nselby.github.io/With-Criminal-Justice-Statistics,-The-Simplest-Explanation-Is-Often-Wrong/</p>
 
 <p>Levinson-Waldman, R., and Selby, N. (2016, April 1). <a href="http://www.usatoday.com/story/opinion/2016/04/01/police-body-cameras-accountability-exoneration-evidence-column/82484112/" target="_blank">Body cameras can't solve all our problems</a>. USA Today.
 <br />http://www.usatoday.com/story/opinion/2016/04/01/police-body-cameras-accountability-exoneration-evidence-column/82484112/</p>
 
-<p>Selby, N. (2016, March 15). <a href="https://nselby.github.io/Crime,-the-Mentally-Ill,-And-Non-Obvious-Lessons/" target="_blank">Crime, the Mentally Ill, and Non Obvious Lessons</a>. Small Victories: The Data in Law Enforcement Blog.
+<p>Selby, N. (2016, March 15). <a href="https://nselby.github.io/Crime,-the-Mentally-Ill,-And-Non-Obvious-Lessons/" target="_blank">Crime, the Mentally Ill, and Non Obvious Lessons</a>. The Context Blog.
 <br />https://nselby.github.io/Crime,-the-Mentally-Ill,-And-Non-Obvious-Lessons/</p>
 
 <p>
-Selby, N. (2016, March 12). <a href="https://nselby.github.io/Police-Body-Cameras-The-Best-Thinking-So-Far/" target="_blank">Police Body Cameras: The Best Thinking So Far</a>. Small Victories: The Data in Law Enforcement Blog.
+Selby, N. (2016, March 12). <a href="https://nselby.github.io/Police-Body-Cameras-The-Best-Thinking-So-Far/" target="_blank">Police Body Cameras: The Best Thinking So Far</a>. The Context Blog.
 <br />https://nselby.github.io/Police-Body-Cameras-The-Best-Thinking-So-Far/</p>
 
 <p>Selby, N. (2016, March 5). <a href="https://medium.com/@nselby/making-police-data-open-use-of-force-complaints-in-context-e0a47cf0ea9b#.4ekeg9sg1" target="_blank">Making Police Data Open: Use of Force & Complaints in Context</a>.  Medium.
