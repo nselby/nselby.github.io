@@ -69,7 +69,7 @@ Selby, N. (2016, March 12). <a href="https://nselby.github.io/Police-Body-Camera
 <p>Selby, N. (2016, February 22). <a href="https://medium.com/@nselby/the-information-asymmetry-of-digital-triage-300c497dca19#.ig7xb5s8a" target="_blank">The Information Asymmetry of Digital Triage</a>. Medium.
 <br />https://medium.com/@nselby/the-information-asymmetry-of-digital-triage-300c497dca19#.ig7xb5s8a</p>
 
-<p>Selby, N. (2016, January 28). <a href="https://medium.com/@nselby/how-much-are-reserve-officers-worth-4d580046e716#.21hg1lmlu" target="_blank">How Much Are Reserve Officers Worth</a>. Medium.
+<p>Selby, N. (2016, January 28). <a href="https://medium.com/@nselby/how-much-are-reserve-officers-worth-4d580046e716#.21hg1lmlu" target="_blank">How Much Are Reserve Officers Worth?</a> Medium.
 <br />https://medium.com/@nselby/how-much-are-reserve-officers-worth-4d580046e716#.21hg1lmlu</p>
 
 <p>Moskos, P., and Selby, N. (2016, January 15). <a href="https://www.washingtonpost.com/posteverything/wp/2016/01/15/just-counting-people-killed-by-police-wont-fix-problems-we-need-better-data/" target="_blank">Just counting people killed by police won’t fix problems. We need better data</a>.  The Washington Post.
