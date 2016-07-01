@@ -15,7 +15,7 @@ layout: default
 
 <h3>Books:</h3>
 
-<p>Selby, N., et al (2017). The Cyber Survival Guide. Popular Science (Weldon-Owen).</p>
+<p>Selby, N., et al (2017). Cyber Survival. Popular Science (Weldon-Owen).</p>
 
 <p>Selby, N., Singleton, B., &amp; Flosi, E. (2016). <a href="http://amzn.to/1q0pkXx" target="_blank">In Context: Understanding Police Killings of Unarmed Civilians</a>. St. Augustine, FL: Contextual Press/Calibre Press.</p>
 
