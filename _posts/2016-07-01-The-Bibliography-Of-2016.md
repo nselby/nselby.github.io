@@ -11,7 +11,7 @@ layout: default
 
 <p>The newest title, The Cyber Survival Guide, will feature the work of some of the most incredible people I've ever been privileged to work with. We will be announcing them soon.</p>
 
-<p>For more on what I have written in the past (including 15 travel books for Lonely Planet Publications) please visit my <a href="http://nickselby.com" target=_blank">personal website</a>.
+<p>For more on what I have written in the past (including 15 travel books for Lonely Planet Publications) please visit my <a href="http://nickselby.com" target="_blank">personal website</a>.
 
 <h3>Books:</h3>
 
