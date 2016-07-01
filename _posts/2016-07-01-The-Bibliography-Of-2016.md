@@ -17,7 +17,7 @@ layout: default
 
 <p>Selby, N., et al (2017). The Cyber Survival Guide. Popular Science (Weldon-Owen).</p>
 
-<p>Selby, N., Singleton, B., & Flosi, E. (2016). <a href="http://amzn.to/1q0pkXx" target="_blank">In Context: Understanding Police Killings of Unarmed Civilians. St. Augustine, FL: Contextual Press/Calibre Press.</p>
+<p>Selby, N., Singleton, B., &amp; Flosi, E. (2016). <a href="http://amzn.to/1q0pkXx" target="_blank">In Context: Understanding Police Killings of Unarmed Civilians. St. Augustine, FL: Contextual Press/Calibre Press.</p>
 
 <p>Shipley, T., Bowker, A., and Selby,  N. (Technical Editor) (2013) <a href="https://www.amazon.com/Investigating-Internet-Crimes-Introduction-Cyberspace/dp/0124078176/ref=sr_1_1?ie=UTF8&qid=1467395218&sr=8-1&keywords=Investigating+Internet+Crimes%3A+An+Introduction+to+Solving+Crimes+in+Cyberspace" target="_blank">Investigating Internet Crimes: An Introduction to Solving Crimes in Cyberspace.</a> Syngress.</p>
 
