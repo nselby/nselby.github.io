@@ -581,6 +581,13 @@ h1.content-listing-header{
   font-size: 1.8rem;
 }
 
+h3.content-listing-header{
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+  font-size: 0.9rem;
+}
+
  ul.content-listing, li.listing { width: 55%;
        float: left;
        padding: 0% 5%;
