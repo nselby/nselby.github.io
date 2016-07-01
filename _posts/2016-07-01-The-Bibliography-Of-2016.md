@@ -29,7 +29,7 @@ layout: default
 <p>Selby, N. (2016, June 20). <a href="https://www.washingtonpost.com/news/the-watch/wp/2016/06/20/guest-post-the-low-hanging-fruit-of-police-reform/" target="_blank">The ‘low-hanging fruit’ of police reform</a>. The Washington Post.
 <br />https://www.washingtonpost.com/news/the-watch/wp/2016/06/20/guest-post-the-low-hanging-fruit-of-police-reform/</p>
 
-<p>Selby, N. (2016, June 12). <a href="https://nselby.github.io/The-Masters-Case-Is-About-Runells/" target="_blank">The Masters Case Is About Runells</a>.
+<p>Selby, N. (2016, June 12). <a href="https://nselby.github.io/The-Masters-Case-Is-About-Runells/" target="_blank">The Masters Case Is About Runells</a>. The Context Blog.
 <br />https://nselby.github.io/The-Masters-Case-Is-About-Runells/</p>
 
 <p>Selby, N. (2016, June 6). <a href="http://www.sfexaminer.com/former-police-chief-greg-suhr-got-raw-deal/" target="_blank">Former Police Chief Greg Suhr got a raw deal</a>.  The San Francisco Examiner.
