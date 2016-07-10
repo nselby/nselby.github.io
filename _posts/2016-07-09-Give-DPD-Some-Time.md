@@ -1,0 +1,24 @@
+---
+published: true
+layout: default
+---
+<h1>DPD Deserves Some Time On The Robot Question</h1>
+<p><img class="right" width="550px" src="https://nselby.github.io/assets/img/dpd_protecting_crowd.jpg" /></p>
+
+<p>In response to the many questions about the “robot” that was used to deliver deadly force in the Dallas ambush:</p>
+
+<p>Because this is a Texas case, the transparency you seek will be forthcoming very rapidly. <a href="https://texasattorneygeneral.gov/og/open-government" target="_blank">Texas Open Records laws</a> when it comes to police records are a shining example to the nation. In Texas, we are proud to make almost every single record related to law enforcement available to the public, and getting exceptions is rightly difficult. They are made, ONLY, by the office of the Texas Attorney General. Unlike many states which speak regularly of democratic principles, Texas’ government walks the walk. We Texans take our governmental transparency more seriously than most states in the union.</p>
+
+<p>I understand that people are referring to this as an “<a href="https://www.schneier.com/blog/archives/2016/07/dallas_police_u.html" target="_blank">execution</a>” by “<a href="http://www.wsj.com/articles/dallas-police-believed-to-be-first-to-use-robot-lethally-1468001810" target="_blank">robot</a>”. I submit you don’t have the facts yet to make that statement. </p>
+
+<p>It certainly was a killing, and like <a href="http://www.washingtonpost.com/sf/investigative/2015/10/24/on-duty-under-fire/?tid=a_inl" target="_blank">at least 90% of police killings</a> (according to the Washington Post) or 94% of police killings (according to <a href="http://amzn.to/1q0pkXx" target="_blank">my book</a>), it was a killing of someone who had been engaging in a deadly attack at the time of his confrontation with police.</p>
+
+<p>As to when you will be getting the facts, it is my firm belief that because of the Texas Open Records regime, within the next 14 days, you will begin to see, if not see entirely, such transparency and oversight data as the timeline, the names of each of the decision makers, such video as exists, dispatch notes, and other documentation about exactly how this decision was approached, argued, and arrived at, who gave the order and when, who carried out the order, and the complete training records of all relevant personnel dating back to the names of their instructors at the police academy.</p>
+
+<p>Until then I believe steadfastly that the Dallas Police Department, its officers and administrators have done more to deserve some time to compile this information and set it forth than most organizations on this planet.</p>
+
+<p>Please remember: this agency’s officers <a href="http://www.cbsnews.com/videos/brave-officers-ran-toward-the-gunfire/" target="_blank">ran towards the gunfire</a> to protect the innocent people who had been attending an anti-police rally that the Dallas Police Department itself had <a href="http://www.msnbc.com/rachel-maddow/watch/dallas-protesters-worked-closely-with-police-721663043801" target="_blank">helped organize</a>.</p>
+
+<p>So I respectfully request that you grant these incredibly honorable and grieving people the benefit of some patience for a short period of time. They need this time in order to <a href="http://www.nbcdfw.com/news/local/Body-of-Fallen-Officer-Escorted-To-Funeral-Home-386147601.html" target="_blank">bury their dead</a>, to <a href="http://www.cbsnews.com/news/dallas-police-shootings-family-of-injured-officers-civilian-speak-out/" target="_blank">care for the families</a> of our slain heroes; to <a href="http://www.dallasnews.com/news/crime/headlines/20160709-dallas-er-docs-recall-organized-chaos-on-night-of-shooting.ece" target="_blank">heal the wounded</a>, all while under an <a href="http://www.zeit.de/gesellschaft/zeitgeschehen/2016-07/rassismus-dallas-polizei-gewalt-schiesserei-reaktionen" target="_blank">international</a> <a href="http://www.lemonde.fr/ameriques/article/2016/07/09/l-amerique-sous-le-choc-apres-la-fusillade-de-dallas_4966718_3222.html" target="_blank">media</a> <a href="http://wiadomosci.radiozet.pl/Wiadomosci/Swiat/USA-Snajperzy-zastrzelili-policjantow-w-Dallas-ZDJECIA-i-WIDEO-00025128" target="_blank">spotlight</a>. During all this, they are also handling a <a hre="http://abcnews.go.com/US/wireStory/police-agencies-edge-guard-amid-heightened-threats-40468818" target="_blank">continuous stream</a> of <a href="http://www.cnn.com/2016/07/09/us/dallas-ambush-investigation/" target="_blank">credible threats</a> of deadly force against them, AND ALL THE WHILE they are protecting the citizens of Dallas.</p>
+
+<p>I would ask you to consider that while we on social media have the time to reflect on these matters and want answers, the men and women of the Dallas Police Department are pretty busy right now.
