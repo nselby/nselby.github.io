@@ -18,7 +18,7 @@ layout: default
 <blockquote>With this aim in mind, policymakers might limit public and press access to videos, while encouraging officers to view videos before writing their reports to incorporate as much detail as possible, an approach that most departments take (but many civil rights groups oppose).</blockquote>
 
 
-<p>Anyway, I hope you like the piece - Rachel and I don't agree on everything, and in fact we approach from opposite ends of the spectrum politically, but I like to think I am as reasonable and pragmatic and she, and I am truly honored that we can collaborate on this and other issues.</p>
+<p>Anyway, I hope you like the piece - Rachel and I don't agree on everything, and in fact we approach from opposite ends of the spectrum politically, but I like to think I am as reasonable and pragmatic as she, and I am truly honored that we can collaborate on this and other issues.</p>
 
 <p>By the way, back to Stoughton's excellent piece. It is a test of sorts: you're shown several videos and asked questions. First, of course, you're asked some of your feelings about police in general. After you answer the questions, you can look at different videos that give you different perspectives of the scene you just saw. then you can see whether your impressions from the first video were correct. And most interestingly, how your impressions map to the answers you gave about your attitudes towards police. </p>
 
