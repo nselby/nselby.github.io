@@ -32,7 +32,7 @@ layout: default
 
 <h2>Further Commentary</h2>
 
-<p><img class="right" width="400px" src="https://nselby.github.io/assets/img/chase_alan_sherman.jpg" />Now that the video is out, we see a lot of the now-standard media coverage: focus on Sherman’s statements of  “I quit,” and particular attention to the use of the word “homicide” in the autopsy, and particularly of a “Sheriff’s deputy” saying, “He’s got all the weight in the world on him now,” as if the deputy was saying something evil. In fact, the person placing the weight to immobilize is apparently a medic, and not a deputy (though this is ultimately irrelevant), and he was assiting with a restraint technique that is both approved and is intended to be less painful and more immobilizing than the repeated drive-stuns with the TASER, while the deputies awaited help to transport Sherman to the hospital. </p>
+<p><img class="right" width="400px" src="https://nselby.github.io/assets/img/chase_alan_sherman.jpg" />Now that the video is out, we see a lot of the now-standard media coverage: focus on Sherman’s statements of  “I quit,” and particular attention to the use of the word “homicide” in the autopsy, and particularly of a “Sheriff’s deputy” saying, “He’s got all the weight in the world on him now,” as if the deputy was saying something evil. In fact, the person placing the weight to immobilize is apparently a medic, and not a deputy (though this is ultimately irrelevant), and he was assisting with a restraint technique that is both approved and is intended to be less painful and more immobilizing than the repeated drive-stuns with the TASER, while the deputies awaited help to transport Sherman to the hospital. </p>
 
 <p>As to the use of “homicide” let me quote from our book on that:</p>
 
