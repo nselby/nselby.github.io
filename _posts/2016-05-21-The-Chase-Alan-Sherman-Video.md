@@ -59,7 +59,7 @@ layout: default
 
 <p>As soon as the deputies realize that Sherman isn’t breathing, they pull him out of the car and begin resuscitation. There was no delay. </p>
 
-<p> With the benefit of 20:20 hindsight I would say that the deputies may have considered turning off the car and leaving Sherman inside, and getting the parents out of the car, until backup arrived before engaging. But there was no indication that Sherman would be able to fight off two deputies and fight through multiple TASER deployments.</p>
+<p> With the benefit of 20:20 hindsight I would say that the deputies may have considered turning off the car and leaving Sherman inside, and getting the parents out of the car, until backup arrived before engaging. But there was no indication prior to engagement that Sherman would be able to fight off two deputies and fight through multiple TASER deployments.</p>
 
 <p>Finally, I must say that I have not yet seen the entire autopsy or toxicology reports. It is worth noting that Sherman was in full fight mode for more than ten minutes before deputies arrived on scene, and then fought full strength with two deputies for at least seven minutes. The taxation this kind of activity takes, and the collapse afterward, is consistent with other drug-related deaths we have covered in the book. I stand by my original analysis as published in the book.</p>
 
