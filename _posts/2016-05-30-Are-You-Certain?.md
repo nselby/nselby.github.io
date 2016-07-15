@@ -2,7 +2,7 @@
 published: true
 layout: default
 ---
-<h1>Are You Certain?</h1>
+<h1>The Starsky &amp; Hutch Effect</h1>
 <h3>Americans Believe They Understand How Police Work Is Done. Actually, What They Really Understand Is How Police Work Is Done On Police TV Shows</h3>
 <p><img class="right" width="400px" src="https://metvnetwork.s3.amazonaws.com/Kyf2O-1453397814-127-lists-telly_1200.jpg" /></p>
 
