@@ -4,7 +4,8 @@ layout: default
 ---
 <h1>The Starsky &amp; Hutch Effect</h1>
 <h3>Americans Believe They Understand How Police Work Is Done. Actually, What They Really Understand Is How Police Work Is Done On Police TV Shows</h3>
-<p><img class="right" width="400px" src="https://metvnetwork.s3.amazonaws.com/Kyf2O-1453397814-127-lists-telly_1200.jpg" /></p>
+<p><img class="right" width="400px" src="https://nselby.github.io/assets/img/starskyandhutch.jpg" /></p>
+
 
 
 <p>Americans may have challenges with the cops, but boy, oh boy, do they watch cop shows. It’s kind of a central theme of American life.</p>
