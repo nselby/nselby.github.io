@@ -5,7 +5,7 @@ layout: default
 <h1>Data, versus Numbers, versus Proof</h1>
 <p><img class="left" width="400px" src="https://jimsulecki.files.wordpress.com/2013/03/favim-com-26303.jpg?w=400&h=253&crop=1" /></p>
 
-<p>In The Atlantic last week I wrote a <a href="http://www.theatlantic.com/notes/2016/07/death-by-police-contd/491216/" target="_blank">fairly detailed dissent</a> to Adrieene LaFrance's article on police killing. This is to add to that.</p>
+<p>In The Atlantic last week I wrote a <a href="http://www.theatlantic.com/notes/2016/07/death-by-police-contd/491216/" target="_blank">fairly detailed dissent</a> to Adrienne LaFrance's article on police killing. This is to add to that.</p>
 
 <p>None of the statements in that dissent (<em>including</em> my mention of the findings of Mr. Fryer, see below) was to suggest that there is a “correct” number, and I think that <em>that</em> is my overall point.</p> 
 
