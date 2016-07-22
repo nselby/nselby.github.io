@@ -2,7 +2,7 @@
 published: true
 layout: default
 ---
-<h1>Attackers’ Plans Were Based on Police Dedication to Community & Duty</h1>
+<h1>Attackers’ Plans Were Based<br />on Police Dedication to Community &amp; Duty</h1>
 <p><img class="right" width="500px" src="http://cdn.bearingarms.com/uploads/2016/07/baton-rouge-e1468768851725.jpg" /></p>
 
  
