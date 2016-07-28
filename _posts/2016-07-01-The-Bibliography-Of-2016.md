@@ -26,6 +26,13 @@ layout: default
 
 <h3>Articles in 2016:</h3>
 
+<p>Selby, N. (2016, July 14) <a href="https://www.washingtonpost.com/posteverything/wp/2016/07/14/forget-new-gun-laws-heres-what-could-really-keep-people-from-shooting-each-other/" target="_blank">Forget new gun laws. Here’s what could really keep people from shooting each other</a>. The Washington Post.<br />
+https://www.washingtonpost.com/posteverything/wp/2016/07/14/forget-new-gun-laws-heres-what-could-really-keep-people-from-shooting-each-other/</p>
+
+<p><p>Selby, N. (2016, July 8) <a href="http://www.nytimes.com/2016/07/09/opinion/bad-guys-win-if-the-police-reject-protests.html?_r=0" target="_blank">Bad Guys Win if the Police Reject Protests</a>. The New York Times<br />
+http://www.nytimes.com/2016/07/09/opinion/bad-guys-win-if-the-police-reject-protests.html</p>
+
+
 <p>Selby, N. (2016, June 20). <a href="https://www.washingtonpost.com/news/the-watch/wp/2016/06/20/guest-post-the-low-hanging-fruit-of-police-reform/" target="_blank">The ‘low-hanging fruit’ of police reform</a>. The Washington Post.
 <br />https://www.washingtonpost.com/news/the-watch/wp/2016/06/20/guest-post-the-low-hanging-fruit-of-police-reform/</p>
 
