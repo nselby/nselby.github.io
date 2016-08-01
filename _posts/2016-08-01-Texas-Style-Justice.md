@@ -31,7 +31,7 @@ layout: default
 
 <p>California had a similar number of deaths in custody (6,837) over the same period (2005-2015). Like Texas, the majority of California's deaths in custody were natural causes (61.4%) or suicide (10.5%), or accidental (8.4%). A slightly higher number were homicides by law enforcement (14.4%) but California also breaks out homicide by other inmates (2.8%), and "other". </p>
 
-<p>Interestingly, California-Style Justice also has (by the criteria of Ms Lantigua-Williams) a "disproportionate" number of deaths of African Americans relative to their statewide proportion - African Americans comprise just 5.8% of Californians, but a whopping 23.7% of inmates. Rather than leaving it there, though, California took it the next step: comparing prison populations to arrests. They found that Blacks comprise 16.7% of arrests, 23.7% of incarcerations, and 24.2% of deaths - meaning that blacks comprise an appropriate number of inmates based on arrests. </p>
+<p>Interestingly, California-Style Justice also has (by the criteria of the article) a "disproportionate" number of deaths of African Americans relative to their statewide proportion - African Americans comprise just 5.8% of Californians, but a whopping 23.7% of inmates. Rather than leaving it there, though, California took it the next step: comparing prison populations to arrests. They found that Blacks comprise 16.7% of arrests, 23.7% of incarcerations, and 24.2% of deaths - meaning that blacks comprise an appropriate number of inmates based on arrests. </p>
 
 <p>White people in California comprise 41% of the population, 34.9% of arrests, 28.8% of inmates, and 41.6% of deaths - a disproportionately high number compared to both arrests and inmate populations. Thoughts?</p>
 
@@ -45,11 +45,11 @@ layout: default
 
 <p>What I will say is, having reviewed the data, Texas is not really much of an outlier in terms of racial composition of prisoner populations, except for the fact that Texas is open enough to provide these data to researchers like the TJI. The TJI didn't uncover this data - it as gathered and provided by the state - what TJI did was make it accessible to scholars and activists and those curious enough to dig in to it. It's a wonderful public service!</p>
 
-<p>To Ms Lantigua-Williams, I would suggest perhaps the issue involves something else <em>other than race</em>?</p>
+<p>I would suggest perhaps the issue involves something else <em>other than race</em>?</p>
 
 <p>As it turns out, poverty, not race, drives and is the best indicator and predictor of criminality in the United States. The racial composition of those living in poverty match almost exactly the racial composition of those incarcerated in the United States. It's really quite uncanny. </p>
 
-<p>What Lantigua-Williams also left out was the fact that, <a href="https://www.washingtonpost.com/posteverything/wp/2016/03/03/how-tracking-police-data-by-race-can-make-unfair-laws-look-like-the-cops-fault/" target="_blank">as I recently wrote in The Washington Post</a>, African Americans in Texas make just under half the money of white Texans (2009 Texas median household income for whites was $59,836; while for blacks it was $35,438, and for Hispanics $35,628). </p>
+<p>What the article also left out was the fact that, <a href="https://www.washingtonpost.com/posteverything/wp/2016/03/03/how-tracking-police-data-by-race-can-make-unfair-laws-look-like-the-cops-fault/" target="_blank">as I recently wrote in The Washington Post</a>, African Americans in Texas make just under half the money of white Texans (2009 Texas median household income for whites was $59,836; while for blacks it was $35,438, and for Hispanics $35,628). </p>
 
 <p>This is surely not the fault of the police, the courts or the corrections department.</p>
 
