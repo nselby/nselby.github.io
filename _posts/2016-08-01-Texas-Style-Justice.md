@@ -11,7 +11,7 @@ layout: default
 
 <p>The article? Well, it's done with a seriously irresponsible, or at the very least uninformed, spin on it. At first, judging by the headline, it really looks as if Texas killed SEVEN THOUSAND PEOPLE. Texas did not.</p>
 
-<p>For example, to say in the lede, "Many died of natural causes" is not <em>quite</em> the same as saying in the lede, "Seventy percent, or 4,870 of the 6913, died of natural causes, and eight percent, or 573, died as the result of a "justifiable homicide" - which most often means that they were killed while attempting to kill a guard or another prisoner. Four percent, or 275 people, voluntarily used alcohol or drugs in such quantities that they died of ingesting these substances, and 772, or 11 percent, committed suicide."</p>
+<p>For example, to say in the lede, "Many died of natural causes" is not <em>quite</em> the same as saying in the lede, "Seventy percent, or 4,870 of the 6913, died of natural causes, and eight percent, or 573, died as the result of a "justifiable homicide" - which most often means that they were killed while attempting to kill a police officer, civilian, guard or another prisoner. Four percent, or 275 people, voluntarily used alcohol or drugs in such quantities that they died of ingesting these substances, and 772, or 11 percent, committed suicide."</p>
 
 <p>It says, "deaths in custody," but doesn't really describe the difference between deaths in prison of prisoners (4,684 of the 6913) and deaths of people in jail or in contacts with police officers. It does not mention that 96% - 4,522 - of the 4,684 prisoner deaths were of natural causes (4,223) or suicide (299).</p>
 
