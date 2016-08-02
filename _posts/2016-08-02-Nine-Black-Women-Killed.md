@@ -3,7 +3,7 @@ published: true
 layout: default
 ---
 <h1>The Indelible Narrative Of Hate</h1>
-<p><img class="left" width="400px" src="https://nselby.github.io/assets/img/korryn_gaines.pdf" /></p>
+<p><img class="left" width="500px" src="https://nselby.github.io/assets/img/korryn_gaines.png" /></p>
 
 
 <p>If you've ever wondered about my complaints of "Narrative," in the media, here is a perfect example, from Wesley Lowery at the Post. The HED of the story (and he may not have written it) is "<a href="https://www.washingtonpost.com/news/post-nation/wp/2016/08/02/korryn-gaines-is-the-ninth-black-woman-shot-and-killed-by-police-this-year/" target="_blank">Korryn Gaines is the ninth black woman shot and killed by police this year</a>." The article continues after a description of the incident, "The recent shootings of Alton Sterling and Philando Castile, followed by targeted slayings of police officers in Dallas and Baton Rouge, renewed the national discussion of police use of force and community distrust that has for two years been propelled by the national Movement for Black Lives (often referred to as the Black Lives Matter movement).</p>
