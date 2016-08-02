@@ -20,4 +20,4 @@ layout: default
 
 <p>I'm pretty certain from this that Wesley intends us to believe that the police shot poor Ms. Haines because she was black. Not because of the shotgun she pointed at them or the threats to kill them that she made while keeping her child in a hostage situation.</p>
 
-<p><img width="900px" src="https://nselby.github.io/assets/img/korryn_gaines.pdf" /></p>
+<p><img width="900px" src="https://nselby.github.io/assets/img/tweets.png" /></p>
