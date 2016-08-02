@@ -9,7 +9,7 @@ layout: default
 
 <p>The TJI <a href="http://texasjusticeinitiative.org/wp-content/themes/tji/api/v1/download.php?page=&" target="_blank">data</a> is great research, on the part of Amanda Woog, Jennifer Laurin, Kali Nicole Gross, Michele Deitch and those who collected this data via the Texas Office of the Attorney General from law enforcement agencies, local jails, and the Texas Department of Criminal Justice (TDCJ). The project is important and excellent.</p>
 
-<p>The article? Well, it's done with a seriously irresponsible, or at the very least uninformed, spin on it. At first, judging by the headline, it really looks as if Texas killed SEVEN THOUSAND PEOPLE. Texas did not.</p>
+<p>The article? Well, it's done with an irresponsible, or at the very least uninformed, spin. At first, judging by the headline, it really looks as if Texas killed SEVEN THOUSAND PEOPLE. Texas did not.</p>
 
 <p>For example, to say in the lede, "Many died of natural causes" is not <em>quite</em> the same as saying in the lede, "Seventy percent, or 4,870 of the 6913, died of natural causes, and eight percent, or 573, died as the result of a "justifiable homicide" - which most often means that they were killed while attempting to kill a police officer, civilian, guard or another prisoner. Four percent, or 275 people, voluntarily used alcohol or drugs in such quantities that they died of ingesting these substances, and 772, or 11 percent, committed suicide."</p>
 
@@ -73,4 +73,6 @@ layout: default
 
 <p>--<br /> </p>
 
+
+James, Lois, Stephen M. James, and Bryan J. Vila. "The Reverse Racism Effect." Criminology & Public Policy (2016).
 
