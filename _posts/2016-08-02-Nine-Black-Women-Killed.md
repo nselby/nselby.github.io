@@ -10,7 +10,13 @@ layout: default
 
 <p>"Protests have also organized the “Say Her Name” banner, a subsidiary that seeks to bring attention to women of color who have been killed by police, who activists say less likely to receive the national media attention of men who have been killed."</p>
 
-<p>After reading that, if you are getting the sense that poor Ms. Gaines was singled out because she was black, you'd be sane. Yet Ms. Gaines held, pointed a shotgun at officers, who sought her and her boyfriend on warrants (him for assault, her for failing to appear in court after a traffic violation in March) and tried to talk with her for some time. She threatened to kill them. After HOURS of negotiation, and she pointed the shotgun and threatened to shoot, the officers fired one shot, and she fired at them. Officers fired back, killing her and injuring her child. Young Wesley laments this injury: "The shooting of Gaines and her son — who police say had non-life-threatening injuries — quickly prompted national outrage among activists who have protested police killings in recent years." </p>
+<p>After reading that, if you are getting the sense that poor Ms. Gaines was singled out because she was black, you'd be sane. Yet Ms. Gaines held, pointed a shotgun at officers, who sought her and her boyfriend on warrants (him for assault, her for failing to appear in court after a traffic violation in March) and tried to talk with her for some time.</p>
+
+<p>She threatened to kill them. </p>
+
+<p>After HOURS of negotiation, and she pointed the shotgun and threatened to shoot, the officers fired one shot, and she fired at them. </p>
+
+<p>Officers fired back, killing her and injuring her child. Young Wesley laments this injury: "The shooting of Gaines and her son — who police say had non-life-threatening injuries — quickly prompted national outrage among activists who have protested police killings in recent years." </p>
 
 <p>I'm pretty certain from this that Wesley intends us to believe that the police shot poor Ms. Haines because she was black. Not because of the shotgun she pointed at them or the threats to kill them that she made while keeping her child in a hostage situation.</p>
 
