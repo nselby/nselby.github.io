@@ -21,3 +21,11 @@ layout: default
 <p>I'm pretty certain from this that Wesley intends us to believe that the police shot poor Ms. Haines because she was black. Not because of the shotgun she pointed at them or the threats to kill them that she made while keeping her child in a hostage situation.</p>
 
 <p>This turned in to a Tweet storm of sorts between Wesley and me, and rended with Wesley changing the headline. The new one reads, <a href="https://www.washingtonpost.com/news/post-nation/wp/2016/08/02/korryn-gaines-is-the-ninth-black-woman-shot-and-killed-by-police-this-year/" target=-"_blank">Korryn Gaines, cradling child and shotgun, is fatally shot by police</a>.</p>
+
+<p>It is not over. Lowery included in his article an entire paragraph lifted from a ridiculous indictment from last year, unrelated to this. "“Although Black women are routinely killed, raped, and beaten by the police, their experiences are rarely foregrounded in popular understandings of police brutality,” said Kimberlé Crenshaw, director of Columbia Law School’s Center for Intersectionality and Social Policy Studies, in her “Say Her Name” report on black women killed by the police issued last year. “Yet, inclusion of Black women’s experiences in social movements, media narratives, and policy demands around policing and police brutality is critical to effectively combating racialized state violence for Black communities and other communities of color.”"</p>
+
+<p>Routinely raped? Lowery's justification for this propaganda: "Wesley Lowery ‏@WesleyLowery:  @MMarxkors @nselby well, we have numbers on sexual assaults by cops...(and it's a quotation from someone identified as an activist)</p>
+
+<p>To which Matt (@MMarxkors) stated, "@WesleyLowery @nselby 1) I don't think you know what routinely means 2) Are you seriously attempting to justify that quote?"</p>
+
+<p>He was. In an email to me, Lowery said in part, "-the quote from Crenshaw is not, technically, factually inaccurate. Why include her remarks? The set up graph was about the Say Her Name protests, which would lead the curious reader to want to hear more about what drives them. This quote captures the ideology behind those protests."</p>
