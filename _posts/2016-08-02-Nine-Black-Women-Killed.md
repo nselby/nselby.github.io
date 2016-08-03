@@ -20,4 +20,4 @@ layout: default
 
 <p>I'm pretty certain from this that Wesley intends us to believe that the police shot poor Ms. Haines because she was black. Not because of the shotgun she pointed at them or the threats to kill them that she made while keeping her child in a hostage situation.</p>
 
-<p><img width="900px" src="https://nselby.github.io/assets/img/tweets.png" /></p>
+<p>This turned in to a Tweet storm of sorts between Wesley and me, and rended with Wesley changing the headline. The new one reads, <a href="https://www.washingtonpost.com/news/post-nation/wp/2016/08/02/korryn-gaines-is-the-ninth-black-woman-shot-and-killed-by-police-this-year/" target=-"_blank">Korryn Gaines, cradling child and shotgun, is fatally shot by police</a>.</p>
