@@ -5,7 +5,9 @@ layout: default
 <h1>Technically Accurate and Useless</h1>
 <p><img class="right" width="400px" src="http://eeiengineers.com/images/Image/projects/office/microsoft-office-bldg.jpg" /></p>
 
-<p>The other day during an argument on Twitter, a reporter told me that his exceptionally misleading headline was "technically accurate." I retorted that that was true, but it was also useless*. </p>
+<p>The other day during an argument on Twitter, a reporter told me that his exceptionally misleading headline was "technically accurate." I retorted that that was true, but it was also useless.</p>
+
+<p>Note that, it's almost certain that the reporter himself did not write the headline. He merely defended it.</p>
 
 <p>"Headlines," according to the journalism school at North Dakota State University, "need to be accurate, first, and to fairly reflect the theme of the story." A headline that lures you in by promising something and failing to deliver is called, "Clickbait" - and it is a cheesy trick of those without ethics.</p>
 
@@ -24,5 +26,5 @@ layout: default
 <p>Amen. </p>
 
 <p>---</p>
-<p>* Note - it's almost certain that the reporter himself did not write the headline. He merely defended it. </p>
+<p> </p>
 
