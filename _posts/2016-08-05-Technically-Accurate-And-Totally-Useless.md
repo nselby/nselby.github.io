@@ -15,7 +15,7 @@ layout: default
 
 <p>While accurate, the story was about a long standoff between the police and Gaines, who had a shotgun and was threatening to kill police. The story then discussed unjustified killings by police of black women in general. The impliction that Gaines' killing by police was unjustified seems to be at the very least a stretch - as evidence is revealed, her behavior was consistent with someone who adopted a criminal lifestyle and anti-government philosophy common among <a href="https://en.wikipedia.org/wiki/Sovereign_citizen_movement" target="_blank">soveriegn citizens</a>.</p>
 
-<p>After the argument, Wesley changed the headline to this: "Korryn Gaines, cradling child and shotgun, is fatally shot by police." That's a headline. </p>
+<p>After the argument, the reporter changed the headline to this: "Korryn Gaines, cradling child and shotgun, is fatally shot by police." That's a headline. </p>
 
 <p>Here's my point about technically correct but useless in the form of a joke. </p>
 
