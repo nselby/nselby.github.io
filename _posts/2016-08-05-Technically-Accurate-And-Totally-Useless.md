@@ -13,9 +13,9 @@ layout: default
 
 <p>A helicopter pilot is flying one passenger around Seattle, and suddenly they get fogged in. The GPS isn't working. The pilot sees a big, flashy office building nearby so he goes over and hovers very close to the windows. A crowd gathers inside the building, with workers looking at the chopper.</p>
 
-<p>The pilot takes a big piece of paper and writes, "Where am I?", then presses it against the cockpit glass so the people inside can wee it. Some workers squint to read it, then they discuss it, get a piece of paper, write something on it and press it against the glass. It reads, 'You are in a helicopter!'</p>
+<p>The pilot takes a big piece of paper and writes, "Where am I?", then presses it against the cockpit glass so the people inside can see it. Some workers squint to read it, then they discuss it, get a piece of paper, write something on it and press it against the glass. It reads, 'You are in a helicopter!'</p>
 
-<p>The pilot gives them a smile and a jaunty salute, turns 223 degrees and heads straight for Boeing Field, where he lands. </p>
+<p>The pilot gives them a smile and a jaunty salute, turns to a heading of 223 degrees, and heads straight for Boeing Field, where he lands, uneventfully, two minutes later. </p>
 
 <p>"But," says the astonished passenger, "How did you suddenly know where we were?"</p>
 
