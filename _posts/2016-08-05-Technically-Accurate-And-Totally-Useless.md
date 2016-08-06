@@ -3,19 +3,11 @@ published: true
 layout: default
 ---
 <h1>Technically Accurate and Useless</h1>
-<p><img class="left" width="400px" src="http://eeiengineers.com/images/Image/projects/office/microsoft-office-bldg.jpg" /></p>
+<p><img class="right" width="400px" src="http://eeiengineers.com/images/Image/projects/office/microsoft-office-bldg.jpg" /></p>
 
-<p>The other day during an argument on Twitter, a journalist told me that his exceptionally misleading headline was "technically accurate." I retorted that that was true, but it was also useless. </p>
+<p>The other day during an argument on Twitter, a reporter told me that his exceptionally misleading headline was "technically accurate." I retorted that that was true, but it was also useless. </p>
 
 <p>"Headlines," according to the journalism school at North Dakota State University, "need to be accurate, first, and to fairly reflect the theme of the story." A headline that lures you in by promising something and failing to deliver is called, "Clickbait" - and it is a cheesy trick of those without ethics.</p>
-
-<p>During the argument, the reporter said that this headline was accurate:</p>
-
-<p>"Korryn Gaines is the ninth black woman shot and killed by police this year."</p>
-
-<p>While accurate, the story was about a long standoff between the police and Gaines, who had a shotgun and was threatening to kill police. The story then discussed unjustified killings by police of black women in general. The impliction that Gaines' killing by police was unjustified seems to be at the very least a stretch - as evidence is revealed, her behavior was consistent with someone who adopted a criminal lifestyle and anti-government philosophy common among <a href="https://en.wikipedia.org/wiki/Sovereign_citizen_movement" target="_blank">soveriegn citizens</a>.</p>
-
-<p>After the argument, the reporter changed the headline to this: "Korryn Gaines, cradling child and shotgun, is fatally shot by police." That's a headline. </p>
 
 <p>Here's my point about technically correct but useless in the form of a joke. </p>
 
