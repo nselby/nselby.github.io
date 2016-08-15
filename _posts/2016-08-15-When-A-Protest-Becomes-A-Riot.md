@@ -8,11 +8,15 @@ layout: default
 
 <p>There are lots of people saying some of the things I have to say, but I have data. So here goes.</p>
 
-<p>Over the weekend in Milwaukee, a 24-year-old <a href="http://fox6now.com/2016/08/14/chief-flynn-officer-who-fatally-shot-sylville-smith-is-african-american-there-are-concerns-for-his-safety/" target="_blank">African American police officer</a> shot and killed a 23-year-old African American resident who was at the time of his death feeling officers and in possession of a loaded handgun containing 23 rounds of ammunition and refusing to drop the weapon. The incident, according to official accounts, began during a traffic stop in the afternoon. Sylville K. Smith fled the traffic stop. Smith was carrying a handgun taken in a March burglary in Waukesha. The owner reported that 500 rounds of ammunition also were stolen. According to Chief Ed Flynn, Smith refused to drop his weapon when so ordered by a 24-year old African American officer, who shot Smith when Smith made movements sufficient to that officer to fear that Smith was about to fire upon the officer.</p>
+<p>Over the weekend in Milwaukee, a 24-year-old <a href="http://fox6now.com/2016/08/14/chief-flynn-officer-who-fatally-shot-sylville-smith-is-african-american-there-are-concerns-for-his-safety/" target="_blank">African American police officer</a> shot and killed Sylville K. Smith, a 23-year-old African American resident who was at the time of his death feeling officers and in possession of a loaded handgun containing 23 rounds of ammunition and refusing to drop the weapon.</p>
+
+<p>The incident, according to official accounts, began during a traffic stop in the afternoon. Smith fled the traffic stop. Smith was carrying a handgun taken in a March burglary in Waukesha. The owner reported that 500 rounds of ammunition also were stolen. According to Chief Ed Flynn, Smith refused to drop his weapon when so ordered by a 24-year old African American officer, who shot Smith when Smith made movements sufficient to that officer to fear that Smith was about to fire upon the officer.</p>
 
 <p>Flynn and MPD claim that the body-worn video of the incident clearly exonerates the officer’s actions. </p>
 
 <p>At this point, I would normally lose interest. An armed thief? Pointing a gun at a cop? In America, more than 90 percent of police killings are on their face justified use of deadly force, and another three to five percent are ultimately found to be so. Any other reading of the data is dangerously unhelpful. I do this for a living. </p>
+
+<p>Do I have questions? Of course I do: the burglary of the gun was in March - when did the officer know Smith had it? What was the probable cause for the stop? When did the officer learn Smith was armed? Was there a hit on the vehicle? On Smith? These are straightforward questions, and I anticipate clear and direct and absolutely consistent answers to them.</p>
 
 <p>What’s more, in addition to the MPD investigation, Wisconsin state law requires at least two investigators from an outside agency to lead any fatal officer-involved shooting investigations. In this case, the Wisconsin Department of Justice’s Division of Criminal Investigation will lead the investigation. </p>
 
