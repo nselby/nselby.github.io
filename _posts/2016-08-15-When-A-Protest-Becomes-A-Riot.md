@@ -8,7 +8,7 @@ layout: default
 
 <p>There are lots of people saying some of the things I have to say, but I have data. So here goes.</p>
 
-<p>Over the weekend in Milwaukee, a 24-year-old <a href="http://fox6now.com/2016/08/14/chief-flynn-officer-who-fatally-shot-sylville-smith-is-african-american-there-are-concerns-for-his-safety/" target="_blank">African American police officer</a> shot and killed Sylville K. Smith, a 23-year-old African American resident who was at the time of his death feeling officers and in possession of a loaded handgun containing 23 rounds of ammunition and refusing to drop the weapon.</p>
+<p>Over the weekend in Milwaukee, a 24-year-old <a href="http://fox6now.com/2016/08/14/chief-flynn-officer-who-fatally-shot-sylville-smith-is-african-american-there-are-concerns-for-his-safety/" target="_blank">African American police officer</a> shot and killed Sylville K. Smith, a 23-year-old African American resident who was at the time of his death fleeing officers and in possession of a loaded handgun containing 23 rounds of ammunition and refusing to drop the weapon.</p>
 
 <p>The incident, according to official accounts, began during a traffic stop in the afternoon. Smith fled the traffic stop. Smith was carrying a handgun taken in a March burglary in Waukesha. The owner reported that 500 rounds of ammunition also were stolen. According to Chief Ed Flynn, Smith refused to drop his weapon when so ordered by a 24-year old African American officer, who shot Smith when Smith made movements sufficient to that officer to fear that Smith was about to fire upon the officer.</p>
 
