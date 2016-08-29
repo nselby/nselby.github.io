@@ -26,7 +26,7 @@ layout: default
 
 <p>After an hour of being transferred to people, the person who understood how the box worked told us all the reasons he should not look at his box to answer the question. “You have a monitoring account,” he said, “What you are describing now sounds like an incident response. I would be happy to get our IR team on the line for you...”</p>
 
-<p>My crazy friend Tim was always broke and under investigation, and he used to do an impersonation of an arrogant banker telling him why he couldn’t take any money out. “You see, sir,” the snooty manager would tell Tim, “You have what we call a, “You-can’t-have-any-of-your-money-account,” and what that means is that you can’t have any of your money.”
+<p>My crazy friend Tim was always broke and under investigation, and he used to do an impersonation of an arrogant banker telling him why he couldn’t take any money out. “You see, sir,” the snooty manager would tell Tim, “You have what we call a, “<em>You-can’t-have-any-of-your-money-account</em>,” and what that means is that you can’t have any of your money.”
 
 <p>The MSSP guy was sounding like Tim’s branch manager.</p>
 
@@ -67,7 +67,7 @@ layout: default
 
 <p>Now, in my opinion, a reasonable person might believe that this meant that, in exchange for their money, they would be getting a team of certified security analysts to compile and sift through voluminous network data, 24 hours a day, seeking and finding threats that could disrupt their business. </p>
 
-<p>I think that security professionals should help customers review these kinds of contracts. I think we should make it easier for customers to understand what they should expect. I think we owe it to our customers to provide some kind of contract review, some Service-Level-Agreement coaching as part of larger security gigs, so that they don't get snookered. Sure, caveat emptor holds true. But every time we complain that people don't care about security, or when we comment that dumb users and dumb customers are behind breaches, let's ask ourselves whether we as an industry are earning the trust of our customers, those who we serve.</p>
+<p>I think that security professionals should help customers review these kinds of contracts. I think we should make it easier for customers to understand what they should expect. I think we owe it to our customers to provide some kind of contract review, some Service-Level-Agreement coaching as part of larger security gigs, so that they don't get snookered. Sure, <em>caveat emptor</em> holds true. But every time we complain that people don't care about security, or when we comment that dumb users and dumb customers are behind breaches, let's ask ourselves whether we as an industry are earning the trust of our customers, those who we serve.</p>
 
 <p>I sure hope we are. </p>
 
