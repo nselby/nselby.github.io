@@ -52,7 +52,7 @@ layout: default
 
 <p>Using certified security analysts to compile and sift through voluminous network data to find threats that could disrupt your organization can provide faster, in-depth analysis, cost effectively. Our intelligence-driven technology platform provides our certified security analysts with the context needed to eliminate false positives and alert you to true threats. You’ll also get access to on-demand reporting via the Client Portal to simplify compliance and streamline audits.” </p>
 
-<p>So something must have gone really wrong? The first two of their certified security analysts sounded as competent and helpful as the folks who take your order when you call AT&amp;T to complain that your bill is for too much money. And while the last guy sounded as if he understood what he was doing, it was apparent that what he was doing was not what the customer felt they’d paid for. </p>
+<p>So something must have gone really wrong? The first two of their certified security analysts sounded as competent and helpful as the folks you get to speak with when you call AT&amp;T to complain that your bill is for too much money. And while the last guy sounded as if he understood what he was doing, it was apparent that what he was doing was not what the customer felt they’d paid for. </p>
 
 <p>I’ve been in the business quite a long time. In my mind, this was the single worst example of security customer service I have ever witnessed.  </p>
 
