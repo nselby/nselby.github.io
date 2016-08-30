@@ -52,7 +52,7 @@ layout: default
 
 <p>I’ve been in the business quite a long time. In my mind, this was the single worst example of security customer service I have ever witnessed.  </p>
 
-<p>Here's one possibility we discussed on the <a href="http://sfspodcast.libsyn.com" target="_blank">Southern Fried Security Podcast</a> tonight: The MSSP could have told the previous team that they weren't seeing the alerts or the traffic, and that team could have blown them off. Sure, that could have happened. Is it incumbent upon the MSSP to review this and try again every year at contract signing? I say that it is.</p> 
+<p>Here's one possibility we discussed on the <a href="https://secure-hwcdn.libsyn.com/p/6/6/c/66cbce510556c443/SFS_Podcast_-_Episode_184.mp3?c_id=12605697&expiration=1472522109&hwt=cb4bbfd345a75a9c436ad9a00253e710" target="_blank">Southern Fried Security Podcast</a> tonight: The MSSP could have told the previous team that they weren't seeing the alerts or the traffic, and that team could have blown them off. Sure, that could have happened. Is it incumbent upon the MSSP to review this and try again every year at contract signing? I say that it is.</p> 
 
 <p>So what can we do? We can tell people the truth. We can make it so that even commoditized security services are performed with integrity, and with pride. We can make sure that whenever we sign contracts with people, we live up to their letter and their spirit. </p>
 
