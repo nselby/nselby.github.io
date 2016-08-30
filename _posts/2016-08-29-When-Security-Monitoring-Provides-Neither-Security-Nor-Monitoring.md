@@ -46,26 +46,24 @@ layout: default
 
 <p>At that point, people on my end of the conversation started being rude. </p>
 
-<p>What I am trying to figure out is how it is possible that this company could have been so taken advantage of by a well-known MSSP. Its propaganda reads thusly:</p>
-
-<blockquote>“A flood of events cross your network hourly, but most are not threats to security. The daunting task for you is to identify the significant events that pose a security risk before a compromise occurs...Organizations need a team of security experts to review security logs and alerts 24x7 to identify any malicious activity.<br /><br />
-
-“Using certified security analysts to compile and sift through voluminous network data to find threats that could disrupt your organization can provide faster, in-depth analysis, cost effectively. Our intelligence-driven technology platform provides our certified security analysts with the context needed to eliminate false positives and alert you to true threats. You’ll also get access to on-demand reporting via the Client Portal to simplify compliance and streamline audits.” </blockquote>
+<p>What I am trying to figure out is how it is possible that this company could have been so taken advantage of by a well-known MSSP. Its propaganda refers to events flying through your network, and the need for experts to review your data and give you in-depth analysis. It speaks of on-demand reporting from a client dashboard, on which colorful yet incisive metrics as to your true state can be revealed.</p>
 
 <p>So something must have gone really wrong? The first two of their certified security analysts sounded as competent and helpful as the folks you get to speak with when you call AT&amp;T to complain that your bill is for too much money. And while the last guy sounded as if he understood what he was doing, it was apparent that what he was doing was not what the customer felt they’d paid for. </p>
 
 <p>I’ve been in the business quite a long time. In my mind, this was the single worst example of security customer service I have ever witnessed.  </p>
+
+<p>Here's one possibility we discussed on the <a href="http://sfspodcast.libsyn.com" target="_blank">Southern Fried Security Podcast</a> tonight: The MSSP could have told the previous team that they weren't seeing the alerts or the traffic, and that team could have blown them off. Sure, that could have happened. Is it incumbent upon the MSSP to review this and try again every year at contract signing? I say that it is.</p> 
 
 <p>So what can we do? We can tell people the truth. We can make it so that even commoditized security services are performed with integrity, and with pride. We can make sure that whenever we sign contracts with people, we live up to their letter and their spirit. </p>
 
 <p>Because this customer is seriously angry. They feel that they were ripped off, and left holding the bag. In my professional opinion, they are not wrong. I saw the moment at which they realized that their expectations as to what type and level of service they had subscribed to ultimately didn't match the service they actually received. It was a bad moment to watch. I've seen this moment a lot in the world of cyber security in the private sector and as a police officer investigating cyber crimes. The customer feels betrayed. They feel tricked. They feel ripped off by those who took their money in exchange for a promise to be there for them.</p>
 
 
-<p>Is it possible they misunderstood what they were buying for somewhere around $4,000 a quarter? Sure, we professionals understand (the question, 'What did you expect for $16,000 a year?' pops immediately to mind). So take a moment to re-read the breathless marketing prose - which, let's face it, isn't exactly out of the ordinary in terms of the words or the sense of promises being made by someone selling managed security services.</p>
+<p>Is it possible they misunderstood what they were buying for somewhere around $4,000 a quarter? Sure, we professionals understand (the question, 'What did you expect for $16,000 a year?' pops immediately to mind). So take a moment to re-consider the impact of the breathless marketing prose - which, let's face it, isn't exactly out of the ordinary in terms of the words or the sense of promises being made by someone selling managed security services.</p>
 
-<blockquote>...Organizations need a team of security experts to review security logs and alerts 24x7 to identify any malicious activity....Using certified security analysts to compile and sift through voluminous network data to find threats that could disrupt your organization can provide faster, in-depth analysis, cost effectively....</blockquote>
+<p>It speaks of security experts, standing by to analyze your logs and alerts, 24x7x365. It speaks of locating malicious traffic, and digging through piles of data to find the threats that can shut down your business. And it talks of rapidly providing you with in-depth analysis, inexpensively. </p>
 
-<p>Now, in my opinion, a reasonable person might believe that this meant that, in exchange for their money, they would be getting a team of certified security analysts to compile and sift through voluminous network data, 24 hours a day, seeking and finding threats that could disrupt their business. </p>
+<p>Now, in my opinion, a reasonable person might believe that this meant that, in exchange for their money, they would be getting a team of certified security analysts to compile and sift through their network data, 24 hours a day, hunting for and capturing evil threats that might disrupt their business. </p>
 
 <p>I think that security professionals should help customers review these kinds of contracts. I think we should make it easier for customers to understand what they should expect. I think we owe it to our customers to provide some kind of contract review, some Service-Level-Agreement coaching as part of larger security gigs, so that they don't get snookered. Sure, <em>caveat emptor</em> holds true. But every time we complain that people don't care about security, or when we comment that dumb users and dumb customers are behind breaches, let's ask ourselves whether we as an industry are earning the trust of our customers, those who we serve.</p>
 
