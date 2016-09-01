@@ -12,7 +12,7 @@ layout: default
 
 <p>But then they went downstairs and discovered that, when the security provider had installed the box, the customer saw immediately that the MSSP had placed it on the wrong side of the customer's firewall, and it wasn’t seeing any of the traffic it was supposed to be looking at.</p>
 
-<p>The box had been installed <em>three years earlier</em>. And it wasn't the MSSP that discovered it, but rather the customer, and only after their hair was on fire.</p>
+<p>The box, the client told me, had been installed <em>three years earlier</em>. And it wasn't the MSSP that discovered it, but rather the customer, and only after their hair was on fire.</p>
 
 <p>This meant that, for the past three years, the box would have been seeing vastly less traffic than was described to the MSSP when they sold the product, and what traffic the MSSP did see would be at a substantially lower volume than expected, and missing some key traffic types, such as DNS requests and logs.</p>
 
