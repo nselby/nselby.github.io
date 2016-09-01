@@ -10,7 +10,7 @@ layout: default
 
 <p>At first, the issue was just a little funny: when they claimed that they had some issues on their network that sounded like rather classic symptoms of a botnet, I asked what they had for visibility. They told me that their provider had put a box of sensors on their network so that they could continually monitor logs and traffic. Great!</p>
 
-<p>But then they went downstairs and discovered that, when the security provider had installed the box, the customer saw immediately that the MSSP had placed it on the wrong side of the customer's firewall, and it wasn’t seeing any of the traffic it was supposed to be looking at.</p>
+<p>But when they went downstairs to examine it, they immediately discovered that the MSSP had instructed them to place it on the wrong side of the firewall and it wasn't seeing any of the traffic it was supposed to be looking at.</p>
 
 <p>The box, the client told me, had been installed <em>three years earlier</em>. And it wasn't the MSSP that discovered it, but rather the customer, and only after their hair was on fire.</p>
 
