@@ -3,7 +3,7 @@ published: true
 layout: default
 ---
 <h1>Looking Smart In Meetings</h1>
-<p><img class="right" width="300px" src="https://nselby.github.io/assets/img/face.png" /></p>
+<p><img class="right" width="300px" src="https://nselby.github.io/assets/img/face.jpg" /></p>
 
 
 <p>Business communication has always been fascinating to me. People saying things like, "Why don't we make that an action item, to circle-back and sync-up on that offline?" and similarly tortured euphemisms for, "Ask me later" do leave me awe-struck. In her new book, <a href="https://www.amazon.com/dp/1449476058/ref=rdr_ext_tmb?&tag=incontext07-20" target="_blank">100 Tricks to Appear Smart in Meetings: How to Get By Without Even Trying</a>, Sarah Cooper brings clarity and insight into the behavior of the world's least attractive people: those who strive to advance themselves in business through calculated meeting tactics.</p>
