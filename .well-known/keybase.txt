@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/nselby
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nselby.github.io
+  * I am nselby (https://keybase.io/nselby) on keybase.
+  * I have a public key with fingerprint ED3F ED45 DA1F 78D2 3229  4F3B 6DC0 4159 63E6 CE92
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010102d9cffd4d015f6bae3eccf03dc590e2badeb65d62c43046a54e850e38deade90a",
+            "fingerprint": "ed3fed45da1f78d232294f3b6dc0415963e6ce92",
+            "host": "keybase.io",
+            "key_id": "6dc0415963e6ce92",
+            "kid": "010102d9cffd4d015f6bae3eccf03dc590e2badeb65d62c43046a54e850e38deade90a",
+            "uid": "42f94af02978962fdddcc44552e06119",
+            "username": "nselby"
+        },
+        "service": {
+            "hostname": "nselby.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1473383171,
+    "expire_in": 157680000,
+    "prev": "891722858e15392728a33d40434e9e5e74eadabf40db615be6735fe4f91c4bfa",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMIrAnicrVJbSBVBGD5WVipB2uVB02qLCBPd3Zm9nfQhjSJ8KLqQXU+7O/8eV23P
+8exqmVgWBRWUlqZ0OZES2D3ICKK7mVKhRVDQDcoKLSJB6DyoabNWD0GPzTwM8//f
+9833f0zrhNGe2KiBcNm2xXv7m6Ie3zta4ln9LG50OaMFSBnjLWcKYeSAIgK24ys0
+CeNlWI5unii6YRBMWE4wRE0FBLpusIjogsICr6kENFEgIq9jxGJRFTDIAgtIJkBb
+CqsyaYxhWn4IBUOm5VBZIMgAggWicoYkEx7xvIINpIlEZzEnKCICUQeFp8T8gO0y
+qDlNtSHdDNAavfhG7P0D/599l4zIYd5QsGqwvCLJisgbhBBdx1gQeGBFjlNcoA0h
+S90MFG3ZUKSVMRVpDK2Vmjq4sbpz/NVP95tOfon2a6JgKOAE9EAR7eY7TtD2umyn
+LOjCt4Dm+y3k00yL0CQpoxRCthmwGC9HkbpjusoclhCSESdxaQxsDZoh8JkuQpBE
+maXLfQdKqaSscBLPy4IMnIAUXuJlFSGCWYwwKCCAhGkCqmZglmgiJ2ggSkgwABsK
+p2PNcIOxodgKMF5Mbap+Kmmbfkt1SkLAVLTcXT/GExXrGRs9yv1hntiYiX/+Xe2D
+cT8mRY6lv8tNHfrycWHvhPfD8W+fn61rNOrbk3a8fnIglBtJWJt6uX77lJy6pgOR
+uAy0f07K/QTm9fiueeLtNZ97j0+qvKIuiZnV/qrwTtXdyrSV833MrvCCl1Z/X89g
+XNvpzkuJ1dEFGd/quKts1+SsdUl78goX3ghP1YYuM4e+rtpt+TO/B2vWXktYNuPF
+p+aojKYpzdXTj73JGuBbLhYfqT184mHf3Jx94Y2t4cxI9oaZWnnVYOPJM801ZP7O
+vfLVlrbk5Z1Ld/UkX+9LbIfMD0senOjIfLRh6Om5wzF56853WE15Ba0Hp2XfqqiP
+pLaFvcHufrP/wvsVKQ0NN+fM7o4/tWjT8E/KXkrB
+=x5x5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nselby
+
+==================================================================
+
