@@ -14,7 +14,9 @@ layout: default
 
 <p>"Oh. I hadn't read the description yet. I was concerned for a moment, because I've seen that guy in a meeting, and I was not amused."</p>
 
-<p>Like Will, I recognize each character she portays. "Start the conversation," she advises, "with a hard stop." She refers to the person who announces at the start of a meeting that he has "a hard stop at 2 pm."</p>
+<p>Like Will, I recognize each character Cooper portays. She's had lots of time to observe - Cooper is a veteran of Silicon Valley smarm factories, having spent time at both Yahoo! and Google.</p>
+
+<p>"Start the conversation," she advises, "with a hard stop." She refers to the person who announces at the start of a meeting that he has "a hard stop at 2 pm."</p>
 
 <p>"This," Cooper says, "will make your co-worker think that every minute of your day is smartly accounted for."</p>
 
