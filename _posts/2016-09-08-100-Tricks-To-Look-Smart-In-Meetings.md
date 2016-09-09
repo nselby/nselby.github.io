@@ -16,7 +16,7 @@ layout: default
 
 <p>Like Will, I recognize each character Cooper portays. She's had lots of time to observe - Cooper is a veteran of Silicon Valley smarm factories, having spent time at both Yahoo! and Google.</p>
 
-<p>"Start the conversation," she advises, "with a hard stop." She refers to the person who announces at the start of a meeting that he has "a hard stop at 2 pm."</p>
+<p>"Start the conversation," she counsels, "with a hard stop." She refers, of course, to the guy who announces at the start of a meeting that he has, "a hard stop at 2 pm."</p>
 
 <p>"This," Cooper says, "will make your co-worker think that every minute of your day is smartly accounted for."</p>
 
