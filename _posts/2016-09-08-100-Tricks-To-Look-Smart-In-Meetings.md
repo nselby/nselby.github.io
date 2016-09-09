@@ -20,7 +20,7 @@ layout: default
 
 <p>"This," Cooper says, "will make your co-worker think that every minute of your day is smartly accounted for."</p>
 
-<p>I once knew an IT professional whose job was user technical support at a very large firm. He hated people - truly. I think he may have been genuinely agoraphobic, because he did everything he could to avoid inter-personal contact. But his job depended on some level of it. I asked him how he did it, and he said, "Well, I've found that is I smoke a large amount of marijuana directly before any meeting, and then babble incomprehensible technical bullshit at anyone who tries to speak with me, they get tired and go away."</p>
+<p>I once knew an IT professional whose job was user technical support at a very large firm. He hated people - truly. I think he may have been genuinely agoraphobic, because he did everything he could to avoid inter-personal contact. But his job depended on some level of it. I asked him how he did it, and he said, "Well, I've found that if I smoke a large amount of marijuana directly before any meeting, and then babble incomprehensible technical bullshit at anyone who tries to speak with me, they get tired and go away."</p>
 
 <p>Cooper eschews this approach for one that is more subtle, and which she states has the benefit of making you look smarter: beginning a meeting with a shocking fact, such as, 'I never knew my father.'</p>
 
