@@ -11,7 +11,7 @@ published: true
 
 <h3>Books</h3>
 
-<p>Nick is the lead author of <em><a href="http://www.amazon.com/Context-Understanding-Killings-Unarmed-Civilians-ebook/dp/B01DO9NTAG/ref=sr_1_2" target="_blank">In Context: Understanding Police Killings of Unarmed Civilians</a></em> (2016), along with Ben Singleton and Ed Flosi, based on Nick's work on the <a href="http://streetcredsoftware.com/pkic" target="_blank">StreetCred Police Killings in Context Data Project</a>. Nick is also lead author of the forthcoming, <a href-="https://www.amazon.com/Cyber-Survival-Manual-Identity-Cyberterrorist/dp/1681881756/ref=sr_1_1" target="_blank"><em>Cyber Survival Manual: From Identity Theft to Cyberterrorist Attacks</em></a> (February 28, 2017), from Weldon Owen. CSM is co-authored by Eric Olson, Moeed Siddiqui, Chris Valasek, and Heather Vascent.</p>
+<p>Nick is the lead author of <em><a href="http://www.amazon.com/Context-Understanding-Killings-Unarmed-Civilians-ebook/dp/B01DO9NTAG/ref=sr_1_2" target="_blank">In Context: Understanding Police Killings of Unarmed Civilians</a></em> (2016), along with Ben Singleton and Ed Flosi, based on Nick's work on the <a href="http://streetcredsoftware.com/pkic" target="_blank">StreetCred Police Killings in Context Data Project</a>. Nick is also lead author of the forthcoming, <a href="https://www.amazon.com/Cyber-Survival-Manual-Identity-Cyberterrorist/dp/1681881756/ref=sr_1_1" target="_blank"><em>Cyber Survival Manual: From Identity Theft to Cyberterrorist Attacks</em></a> (February 28, 2017), from Weldon Owen. CSM is co-authored by Eric Olson, Moeed Siddiqui, Chris Valasek, and Heather Vascent.</p>
 
 <h3>Articles &amp; Media</h3>
 
