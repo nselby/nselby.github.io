@@ -11,7 +11,7 @@ layout: default
 
 <p>"Headlines," according to the journalism school at North Dakota State University, "need to be accurate, first, and to fairly reflect the theme of the story." A headline that lures you in by promising something and failing to deliver is called, "Clickbait" - and it is a cheesy trick of those without ethics.</p>
 
-<p>Here's my point about technically correct but useless in the form of a joke. </p>
+<p>Here's my point about technically correct but useless in the form of an old joke. </p>
 
 <p>A helicopter pilot is flying one passenger around Seattle, and suddenly they get fogged in. The GPS isn't working. The pilot sees a big, flashy office building nearby so he goes over and hovers very close to the windows. A crowd gathers inside the building, with workers looking at the chopper.</p>
 
