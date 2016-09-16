@@ -29,21 +29,21 @@ layout: default
 
 <p>According to the <a href="http://www.post-gazette.com/local/region/2016/09/11/Weirton-fired-officer-who-did-not-fire-at-man-with-gun/stories/201609090080" target="_blank">Pittsburgh Post Gazette</a>, </p>
 
-<blockquote>After responding to a report of a domestic incident on May 6 in Weirton, W. Va., then-Weirton police officer Stephen Mader found himself confronting an armed man.</p>
+<blockquote>After responding to a report of a domestic incident on May 6 in Weirton, W. Va., then-Weirton police officer Stephen Mader found himself confronting an armed man.
 
-<p>Immediately, the training he had undergone as a Marine to look at “the whole person” in deciding if someone was a terrorist, as well as his situational police academy training, kicked in and he did not shoot.</p>
+Immediately, the training he had undergone as a Marine to look at “the whole person” in deciding if someone was a terrorist, as well as his situational police academy training, kicked in and he did not shoot.
 
-<p>“I saw then he had a gun, but it was not pointed at me,” Mr. Mader recalled, noting the silver handgun was in the man’s right hand, hanging at his side and pointed at the ground.</p>
+“I saw then he had a gun, but it was not pointed at me,” Mr. Mader recalled, noting the silver handgun was in the man’s right hand, hanging at his side and pointed at the ground.
 
-<p>The man was Ronald D. “R.J.” Williams Jr., 23, of Pittsburgh, and what happened in the seconds after Mr. Mader’s initial decision is still being investigated by Mr. Williams’ family as well as the West Virginia Civil Liberties Union. </p>
+The man was Ronald D. “R.J.” Williams Jr., 23, of Pittsburgh, and what happened in the seconds after Mr. Mader’s initial decision is still being investigated by Mr. Williams’ family as well as the West Virginia Civil Liberties Union. 
 
-<p>Mr. Mader, who was standing behind Mr. Williams’ car parked on the street, said he then “began to use my calm voice.”</p>
+Mr. Mader, who was standing behind Mr. Williams’ car parked on the street, said he then “began to use my calm voice.”
 
-<p>“I told him, ‘Put down the gun,’ and he’s like, ‘Just shoot me.’ And I told him, ‘I’m not going to shoot you brother.’ Then he starts flicking his wrist to get me to react to it.</p>
+“I told him, ‘Put down the gun,’ and he’s like, ‘Just shoot me.’ And I told him, ‘I’m not going to shoot you brother.’ Then he starts flicking his wrist to get me to react to it.
 
-<p>“I thought I was going to be able to talk to him and deescalate it. I knew it was a suicide-by-cop” situation.</p>
+“I thought I was going to be able to talk to him and deescalate it. I knew it was a suicide-by-cop” situation.
 
-<p>But just then, two other Weirton officers arrived on the scene, Mr. Williams walked toward them waving his gun — later found to be unloaded — between them and Mr. Mader, and one of them shot Mr. Williams’ in the back of the head just behind his right ear, killing him.</blockquote>
+But just then, two other Weirton officers arrived on the scene, Mr. Williams walked toward them waving his gun — later found to be unloaded — between them and Mr. Mader, and one of them shot Mr. Williams’ in the back of the head just behind his right ear, killing him.</blockquote>
 
 <h3>I Don’t Know What Happened. Neither Do You.</h3>
 
