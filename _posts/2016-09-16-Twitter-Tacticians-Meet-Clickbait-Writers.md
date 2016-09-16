@@ -7,7 +7,7 @@ layout: default
 
 <p>I have a friend who is an NYPD detective, posted to an elite unit. A couple years back, my friend, let’s call him, “Eddie,” was walking down a street in Manhattan’s Chelsea neighborhood when he felt a hard object in the small of his back. Eddie turned, and saw a pole-skinny black kid, about 19, who requested that Eddie hand over his wallet. Eddie didn’t panic. </p>
 
-<p>Eddie didn’t quote Jules (“Hate to shatter your ego, but this is not the first time I’ve had a gun pointed at me.”) but he did slowly turn and face the young man and, as he did so, recognized that the “gun” was not even a BB gun, but rather a piece of wood. At that point, the young man’s powers of observation noticed the gold shield hanging around Eddie’s neck; his eyes widened, and he skedaddled. </p>
+<p>Eddie didn’t quote Jules (“Hate to shatter your ego, but this is not the first time I’ve had a gun pointed at me.”) but he did slowly turn and face the young man and, as he did so, recognized that the “gun” was not even a BB gun, but rather a piece of wood. At that point, the young man’s powers of observation allowed him to notice the gold shield hanging around Eddie’s neck; his eyes widened, and he skedaddled. </p>
 
 <p>After a brief chase, Eddie captured, cuffed and booked his assailant. </p>
 
