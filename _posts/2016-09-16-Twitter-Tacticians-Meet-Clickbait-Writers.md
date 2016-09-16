@@ -68,7 +68,7 @@ But just then, two other Weirton officers arrived on the scene, Mr. Williams wal
 <p>And as someone with actual experience, I can tell you flatly that you don’t have enough information to make any determinations about the appropriateness of Mader’s actions. You don’t. </p>
 
 <p>In fact, in the words of one legal expert, with years of experience as a police officer and as a lawyer, told me this: 
-“I lack sufficient information about the incident to render an informed opinion. I could see the termination being entirety justified. I could also see the termination being complete BS and as cover for the officer who actually shot. Which one of those is correct depends on which set of facts you believe, and I don’t think there’s good reason for anyone to be comfortable with the conclusion that their set of facts is accurate.”</p>
+“I lack sufficient information about the incident to render an informed opinion. I could see the termination being entirely justified. I could also see the termination being complete BS and as cover for the officer who actually shot. Which one of those is correct depends on which set of facts you believe, and I don’t think there’s good reason for anyone to be comfortable with the conclusion that their set of facts is accurate.”</p>
 
 <p>If you have concluded anything different from what he and I have concluded, and what he stated so well, you’re letting your bias show. Because the truth of the matter is that I don’t know what happened there, and neither do you. </p>
 
