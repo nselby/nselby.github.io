@@ -49,7 +49,7 @@ But just then, two other Weirton officers arrived on the scene, Mr. Williams wal
 
 <p>After the incident, astonishingly, Mader was fired. Weirton Police Chief Rob Alexander told Mader, “You put two other officers in danger,” and on June 7, fired Mader. </p>
 
-<p><img class="left" width="400px" src="https://nselby.github.io/assets/img/confirmation.png" />For his part, Mader says that the officers who shot Williams were justified. </p>
+<p><img class="right" width="600px" src="https://nselby.github.io/assets/img/confirmation.png" />For his part, Mader says that the officers who shot Williams were justified. </p>
 
 <p>While this case has been used on the Internet by those who are almost always anti-police as another reason to be upset at police – perennial complainer-about-police Shaun King at the New York Daily News, suddenly and for the first time in almost 1000 columns a <a href="http://www.nydailynews.com/news/national/king-ex-marine-fired-w-va-officer-failing-shoot-article-1.2790284" target="_blank">member of the police booster club, said</a>, “…Stephen Mader was a find, a gem, a blessing for that little department.”</p>
 
@@ -73,3 +73,5 @@ But just then, two other Weirton officers arrived on the scene, Mr. Williams wal
 <p>If you have concluded anything different from what he and I have concluded, and what he stated so well, you're letting your bias show. Because the truth of the matter is that I don't know what happened there, and neither do you. </p>
 
 <p>One good thing: the <a href="http://www.post-gazette.com/local/region/2016/07/25/ACLU-looking-into-Weirton-police-shooting/stories/201607250164" target="_blank">ACLU and the families are investigating</a>. Maybe, if the department is reasonable, we'll get some facts about the investigation. One thing cops suck at? Telling people exactly what happened.</p> 
+
+
