@@ -17,7 +17,7 @@ layout: default
 
 <p>They weren’t in Chelsea, they were in Spanish Harlem, and I didn’t tell you his race, but I’m betting you assumed Eddie is white; he’s actually a relatively dark-skinned Middle Eastern male. Oh, and he’s a Muslim. NYPD is incredibly diverse. </p>
 
-<p>The young man was, in fact, black, but what he had actually was an airsoft gun – just one with the red safety tip still embedded in the muzzle.</p>
+<p>The young man was, in fact, black, but what he had actually was an airsoft gun – just one with the red safety tip still embedded in the muzzle<label for="sn-demo" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-demo" class="margin-toggle"/><span class="sidenote">While I have changed details, this is absolutely based on the true story of an NYPD detective I know.</span>.</p>
 
 <p>Or maybe they were in Brooklyn. You get the point. </p>
 
