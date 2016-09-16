@@ -55,7 +55,7 @@ But just then, two other Weirton officers arrived on the scene, Mr. Williams wal
 
 <p>Which brings me to my point: how on earth would Shaun King know the difference between a good cop, a bad cop, and a “gem”? He can't of course. Neither King, nor Uygur, nor Balko, have any law enforcement experience. They have zero experience facing a person with a gun. None. True, Balko meticulously researched his excellent book, <em><a href="https://www.amazon.com/dp/B00B3M3UFQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1" target="_blank">Rise of the Warrior Cop: The Militarization of America's Police Forces</a></em>, and is a truly good reporter doing great work.</p>
 
-<p>But we are now speaking about things that none of these people know anything about: the dynamics of <em>this</em> situation.</p>
+<p>But we are now speaking about things that none of these people, nor myself or any of my friends, know anything about: the dynamics of <em>this</em> situation.</p>
 
 <p>I can speak authoritatively that they know nothing, because neither I, nor any cop and use of force expert I know has enough information based on what has been released publicly (and I've read it all) about what actually happened other than the story above. We have seen statements that Williams' hands were moving and that he was jiggling the gun in an effort to provoke a police response - not enough. </p>
 
