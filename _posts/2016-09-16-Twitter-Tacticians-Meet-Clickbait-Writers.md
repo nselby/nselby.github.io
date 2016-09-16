@@ -71,7 +71,7 @@ But just then, two other Weirton officers arrived on the scene, Mr. Williams wal
 
 <p>In fact, in the words of <a href="https://twitter.com/policelawprof" target="_blank">Seth Stoughton</a>, who has years of experience as a police officer and as a lawyer: </p>
 
-	<blockquote>“I lack sufficient information about the incident to render an informed opinion. I could see the termination being entirely justified. I could also see the termination being complete BS and as cover for the officer who actually shot. Which one of those is correct depends on which set of facts you believe, and I don’t think there’s good reason for anyone to be comfortable with the conclusion that their set of facts is accurate.”</blockquote>
+<blockquote>“I lack sufficient information about the incident to render an informed opinion. I could see the termination being entirely justified. I could also see the termination being complete BS and as cover for the officer who actually shot. Which one of those is correct depends on which set of facts you believe, and I don’t think there’s good reason for anyone to be comfortable with the conclusion that their set of facts is accurate.”</blockquote>
 
 <p>If you have concluded anything different from what he and I have concluded, and what he stated so well, you’re letting your bias show. Because the truth of the matter is that I don’t know what happened there, and neither do you. </p>
 
