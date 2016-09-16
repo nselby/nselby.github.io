@@ -69,11 +69,25 @@ But just then, two other Weirton officers arrived on the scene, Mr. Williams wal
 
 <p>And as someone with actual experience, I can tell you flatly that you don’t have enough information to make any determinations about the appropriateness of Mader’s actions. You don’t. </p>
 
-<p>In fact, in the words of one legal expert, with years of experience as a police officer and as a lawyer, told me this: 
-“I lack sufficient information about the incident to render an informed opinion. I could see the termination being entirely justified. I could also see the termination being complete BS and as cover for the officer who actually shot. Which one of those is correct depends on which set of facts you believe, and I don’t think there’s good reason for anyone to be comfortable with the conclusion that their set of facts is accurate.”</p>
+<p>In fact, in the words of <a href="https://twitter.com/policelawprof" target="_blank">Seth Stoughton</a>, who has years of experience as a police officer and as a lawyer: </p>
+
+	<blockquote>“I lack sufficient information about the incident to render an informed opinion. I could see the termination being entirely justified. I could also see the termination being complete BS and as cover for the officer who actually shot. Which one of those is correct depends on which set of facts you believe, and I don’t think there’s good reason for anyone to be comfortable with the conclusion that their set of facts is accurate.”</blockquote>
 
 <p>If you have concluded anything different from what he and I have concluded, and what he stated so well, you’re letting your bias show. Because the truth of the matter is that I don’t know what happened there, and neither do you. </p>
 
+<p>There’s a great example a retired cop tells to make the point that any story we hear is a combination of 1) new information we’re learning and 2) other information that our brains “plug in” to fill in gaps: </p>
+
+<blockquote>Imagine an older woman who gets on a bus and walks unsteadily over to the seat reserved for handicapped and elderly patrons. But when she gets there, a young man is already sitting in that seat. He’s listening to headphones, doesn’t meet her eyes, and he doesn’t allow her to sit in the seat. <br /><br />
+
+Now, I want you to tell me how you feel about that scene. <br /><br />
+
+Most people condemn the young man, because their brains have constructed a story <em>around</em> the facts that I’ve given them. I didn’t tell you whether the young man is handicapped, his legs blown off by an IED while he was serving in Iraq. I didn’t tell you that the older woman was on her way to run a marathon. Those facts might radically change our opinion about the story, but here’s the crazy part - we didn’t have contrary facts when I first told you the story! <br /><br />
+
+I’m not changing the facts, I’m <em>adding</em> to the facts. When we imagine the older woman was infirm and the young man was being an ass, we’re adding our own facts – facts that we add because of our cognitive biases. Oh, and by the way – the reason the woman was walking unsteadily? The bus started moving. </blockquote>
+
+<p>How sure are you now?</p>
+
 <p>One good thing: the <a href="http://www.post-gazette.com/local/region/2016/07/25/ACLU-looking-into-Weirton-police-shooting/stories/201607250164" target="_blank">ACLU and the families are investigating</a>. Maybe, if the department is reasonable, we’ll get some facts about the investigation. One thing cops suck at? Telling people exactly what happened.</p> 
 
+<p>--<br /> </p>
 
