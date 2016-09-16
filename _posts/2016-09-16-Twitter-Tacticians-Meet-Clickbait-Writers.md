@@ -3,7 +3,7 @@ published: true
 layout: default
 ---
 <h1>Twitter Tacticians: Belief Polarization Meets Clickbait</h1>
-<p><img class="right" width="400px" src="https://nselby.github.io/assets/img/tyt.png" /></p>
+<p><a href="https://twitter.com/TheYoungTurks/status/776118448388575232" target="_blank"><img class="right" width="400px" src="https://nselby.github.io/assets/img/tyt.png" border="0" /></a></p>
 
 <p>I have a friend who is an NYPD detective, posted to an elite unit. A couple years back, my friend, let’s call him, “Eddie,” was walking down a street in Manhattan’s Chelsea neighborhood when he felt a hard object in the small of his back. Eddie turned, and saw a pole-skinny black kid, about 19, who requested that Eddie hand over his wallet. Eddie didn’t panic. </p>
 
@@ -13,7 +13,7 @@ layout: default
 
 <p>I’m giving you a narrative, and it’s compelling, and it’s even a little funny (more so if you are a cop), but here’s what it isn’t: it isn’t the facts of the case. It’s 140 words of narrative: a story. But after reading it, many of you have already made up your mind about how you feel about this case, and what you would tell your friends or loved ones about it if asked. </p>
 
-<p>Based on this 140 words of, in fact, really irresponsible storytelling on my part, any opinion you have formed is almost entirely a product of your confirmation bias and a little bit based on your general trust of me as a storyteller. Because I got several details wrong. </p>
+<p>Based on this 140 words of, in fact, really irresponsible storytelling on my part, any opinion you have formed is almost entirely a product of your confirmation bias, and a little bit based on your general trust of me as a storyteller. Because I got several details wrong. </p>
 
 <p>They weren’t in Chelsea, they were in Spanish Harlem, and I didn’t tell you his race, but I’m betting you assumed Eddie is white; he’s actually a relatively dark-skinned Middle Eastern male. Oh, and he’s a Muslim. NYPD is incredibly diverse. </p>
 
