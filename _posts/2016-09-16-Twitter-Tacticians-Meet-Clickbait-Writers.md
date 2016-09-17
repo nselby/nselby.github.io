@@ -75,6 +75,19 @@ But just then, two other Weirton officers arrived on the scene, Mr. Williams wal
 
 <p>If you have concluded anything different from what he and I have concluded, and what he stated so well, you’re letting your bias show. Because the truth of the matter is that I don’t know what happened there, and neither do you. </p>
 
+<p>To people who actully work in law enforcement - to those who must show up and handle it - suicide calls are highly dangerous. The are also unpredictable, because they inherently involve someone unstable enough to wish they were dead, and often they look at the police as a force to abet or assit them. On the day this article ran, two Fort Worth officers were shot and badly injured responding to a call that sounds exactly like that to which Mader responded: <a href="http://www.nbcdfw.com/news/local/Two-Fort-Worth-Officers-Shot-393793381.html" target="_blank">a suicidal man with a gun</a>. </p>
+
+<p>According to NBC DFW:</p>
+
+<blockquote>Officers Xavier Serrano and Ray Azucena, found a person in a back bedroom unresponsive from a gunshot wound. They were informed that a witness to the shooting was located in a shed in the backyard, so they went to make contact with that person.<br/><br/>
+When they reached the shed, someone began shooting at the officers from inside the shed.</blockquote>
+
+<p>Azucena had graduated from the police academy in July - a buck rookie, shot with his training officer.</p>
+
+<p>So as you make pronouncements about officer behavior, ask yourself: do you know what dangers they face? Do you understand the dynamics of such cases? Do you know how officers seek to address suicidal people with weapons? If the answer is no, then your positive response to Mader just might be you judging that the ends actually do justify the means - something I'm certain you shout about when the cops do it. I'm not saying you're hypocritical.</p>
+
+<p>I <em>am</em> saying that you probably <a href="https://nselby.github.io/Are-You-Certain/" target="_blank">know a lot less about policing than you might think</a>.</p>
+
 <p>There’s a great example a retired cop tells to make the point that any story we hear is a combination of 1) new information we’re learning and 2) other information that our brains “plug in” to fill in gaps: </p>
 
 <blockquote>Imagine an older woman who gets on a bus and walks unsteadily over to the seat reserved for handicapped and elderly patrons. But when she gets there, a young man is already sitting in that seat. He’s listening to headphones, doesn’t meet her eyes, and he doesn’t allow her to sit in the seat. <br /><br />
