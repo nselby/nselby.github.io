@@ -65,37 +65,9 @@ Azucena had graduated from the police academy in July - a buck rookie, shot with
 
 So as you make pronouncements about officer behavior, ask yourself: do you know what dangers they face? Do you understand the dynamics of such cases? Do you know how officers seek to address suicidal people with weapons? If the answer is no, then your positive response to Mader just might be you judging that the ends actually do justify the means - something I'm certain you shout about when the cops do it. I'm not saying you're hypocritical.
 
-I am saying that you probably know a lot less about policing than you might think.
+I am saying that you probably know a lot <a href="https://nselby.github.io/Are-You-Certain/" target="_blank">less about policing than you might think</a>.
 
-
-
-
-
- 
-
-
-
- The Huffington Post
-
-
-
-
-
-
-
-
-<p></p>
-
-
-
-
-Note that I have absolutely no reason to believe that the 
-
-
-
-
-
-
+<p>--<br /></p>
 
 
 
