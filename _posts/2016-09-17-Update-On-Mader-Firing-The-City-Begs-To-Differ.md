@@ -7,7 +7,7 @@ layout: default
 
 Yesterday <a href="https://nselby.github.io/Twitter-Tacticians-Meet-Clickbait-Writers/" target="_blank">I wrote about a case</a> that has raised a fired West Virginia police officer to darling status. 
 
-Darling status, that is, in the eyes of usually-anti-police mainstream media - especially including the Washington Post, the New York Daily News, The Young Turks, and other outlets that employ columnists and reporters with literally no training in use of force or law enforcement tactics, techniques and procedures. They ask these stenographers to produce incendiary columns in which they analyze in great detail use of force and law enforcement tactics, techniques and procedures. They do this because they make lots of money doing it.
+Darling status, that is, in the eyes of usually-anti-police mainstream media - especially including the Washington Post, the New York Daily News, The Young Turks, and other outlets that employ columnists and reporters with literally no training in use of force or law enforcement tactics, techniques and procedures. They ask these stenographers to produce incendiary columns in which they analyze in great detail use of force and law enforcement tactics, techniques and procedures. They do this because these kinds of columns and online-features make lots of money.
 
 To those who <a href="https://nselby.github.io/Twitter-Tacticians-Meet-Clickbait-Writers/" target="_blank">don’t want to read the long post</a>, Stephen Mader, a West Virginia cop and former US Marine was responding to a call of a suicidal man with a gun, and the officer tried to talk the man down, rather (according to the media) than shooting. When other officers arrived on the scene, they shot fatally RJ Williams (the allegedly suicidal man), and that after the investigation, Mader was fired. 
 
@@ -76,5 +76,5 @@ I am saying that you probably know a lot <a href="https://nselby.github.io/Are-Y
 <p>--<br /></p>
 
 
-
+$52,810 patrol officer
 
