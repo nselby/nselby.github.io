@@ -25,7 +25,7 @@ What’s that, you say? Multiple incorrect and untrue statements? Do tell!
 
 “We find that, every once in a while, news agencies get ahead of themselves, but that is no excuse for this newspaper running with uncorroborated statements…”
 
-How true that is. Shame on all of you stenographers, who simply copied, cribbed and then pronounced to the world your verdict.
+How true that is. Shame on all of you stenographers, who simply copied, cribbed and then pronounced to the world your verdict. Except...What <em>exactly</em> did they get wrong?
 
 <img border="1" width="800px" src="https://nselby.github.io/assets/img/thumb-2.png" />
 
@@ -33,7 +33,7 @@ The statement specifically refers to escalation – not the de-escalation parrot
 
 The city states that the Post-Gazette, and all those who cut-and-pasted from that article, stated that the officers shot Mr. Williams in the back of the head just behind his right ear. 
 
-<img class="left" width="400px" src="https://nselby.github.io/assets/img/right_temporal.jpg" />This, the city states emphatically, is specifically incorrect: the Medical Examiner’s report and the details from a press conference about the ME’s report showed the bullet entered through the right temporal lobe. OK, so that is really wishy-washy on the part of the city: the right temporal lobe can be the same as getting shot "behind the right ear." 
+<img class="left" width="400px" src="https://nselby.github.io/assets/img/right_temporal.jpg" />This, the city states emphatically, is specifically incorrect: the Medical Examiner’s report and the details from a press conference about the ME’s report showed the bullet entered through the right temporal lobe. OK, so that is really wishy-washy on the part of the city: the right temporal lobe can be the same as getting shot "behind the right ear." I'm gonna go ahead and call bullshit right here.
 
 The detail is not that important, except it’s the city playing with words to combat some subtle editorializing on the part of the stenographers, who implied through this that, as good as Mader was, the other guys were cowardly doodyheads who shot a man from behind. Not only am I not a doctor, neither was the person who wrote this press release. I'm not saying, I'm just saying. 
 
