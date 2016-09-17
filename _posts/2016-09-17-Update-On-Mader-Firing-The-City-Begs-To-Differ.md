@@ -45,11 +45,15 @@ The <a href="http://www.weirtondailytimes.com/news/local-news/2016/09/weirton-po
 “Blosser noted Tuesday the city offered Mader retraining, including placement with different training officers, following these incidents. Officials also noted Mader was provided opportunities to appeal all disciplinary actions through West Virginia’s civil service regulations.”<br /><br />
 “This officer was afforded every opportunity,” Alexander said.</blockquote>
 
-Is the city lying? Is everyone in a room full of cops and city officials including the city manager making this up? Maybe. I don’t know. Neither do you. Shaun King, who has never to my knowledge left New York City, claims Mader is a Gem; Chief Alexander and a room full of cops who worked with him, say he was sloppy, that he escalated several incidents, got things wrong, and froze, endangering other officers.
+Is the city lying? Is everyone in a room full of cops and city officials including the city manager making this up? 
+
+Maybe. I don’t know. Neither do you. 
+
+Shaun King, who has never to my knowledge left New York City, claims Mader is a Gem; Chief Alexander and a room full of cops who worked with him, say he was sloppy, that he escalated several incidents, got things wrong, and froze, endangering other officers.
 
 I don't know. You don't either. 
 
-I will say that the firing makes a lot more sense hearing them tell it (and I mean professionally, having an understanding of the kinds of dynamics that attend this kind of event and investigation unique to those who have been writing about this incident) than it did hearing Mader tell his side. I don't necessarily believe one side over the other, but one story does make more sense to me than the other. And, too, I've said many times that cops are like eighth-graders, and five of them getting together to tell a bad story about a sicth? Not unheard of. 
+I don't necessarily believe one side over the other. And, too, I've said many times that cops are like eighth-graders, and five of them getting together to tell a bad story about a sixth? Not unheard of. 
 
 I. Don't. Know. 
 
