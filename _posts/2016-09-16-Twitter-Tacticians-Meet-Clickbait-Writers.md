@@ -79,7 +79,7 @@ But just then, two other Weirton officers arrived on the scene, Mr. Williams wal
 
 <p>According to NBC DFW:</p>
 
-<blockquote>Officers Xavier Serrano and Ray Azucena, found a person in a back bedroom unresponsive from a gunshot wound. They were informed that a witness to the shooting was located in a shed in the backyard, so they went to make contact with that person.<br/><br/>
+<blockquote>Officers Xavier Serrano and Ray Azucena, found a person in a back bedroom unresponsive from a gunshot wound. They were informed that a witness to the shooting was located in a shed in the backyard, so they went to make contact with that person.<br/>
 When they reached the shed, someone began shooting at the officers from inside the shed.</blockquote>
 
 <p>Azucena had graduated from the police academy in July - a buck rookie, shot with his training officer.</p>
