@@ -51,7 +51,7 @@ But just then, two other Weirton officers arrived on the scene, Mr. Williams wal
 
 <p><img class="right" width="600px" src="https://nselby.github.io/assets/img/confirmation.png" />For his part, Mader says that the officers who shot Williams were justified. </p>
 
-<p>While this case has been used on the Internet by those who are almost always anti-police as another reason to be upset at police – perennial complainer-about-police Shaun King at the New York Daily News, suddenly and for the first time in almost 1000 columns a <a href="http://www.nydailynews.com/news/national/king-ex-marine-fired-w-va-officer-failing-shoot-article-1.2790284" target="_blank">member of the police booster club, said</a>, “…Stephen Mader was a find, a gem, a blessing for that little department.”</p>
+<p>This case has been used on the Internet by those who are almost always anti-police as another reason to be upset at police – perennial complainer-about-police Shaun King at the New York Daily News, suddenly and for the first time in almost 1000 columns a <a href="http://www.nydailynews.com/news/national/king-ex-marine-fired-w-va-officer-failing-shoot-article-1.2790284" target="_blank">member of the police booster club, said</a>, “…Stephen Mader was a find, a gem, a blessing for that little department.”</p>
 
 <p>How on earth would Shaun King know the difference between a good cop, a bad cop, and a “gem”? He can’t of course. Shaun King wouldn't know a good cop if the cop brought home King's stolen car, and also gave him cash to pay for damage caused by the thieves. But King writes regularly about things about which he <a href="http://mimesislaw.com/fault-lines/gregory-frazier-what-we-dont-know-is-everything/12719#comment-29133" target="_blank">knows nothing</a>.</p>
 
