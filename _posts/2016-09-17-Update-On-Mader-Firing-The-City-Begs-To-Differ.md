@@ -7,7 +7,7 @@ layout: default
 
 Yesterday I wrote about a case that has raised a fired West Virginia police officer to darling status. Darling status, that is, in the eyes of usually-anti-police mainstream media - especially including the Washington Post, the New York Daily News, The Young Turks, and other outlets who employ columnists and reporters with literally no training in use of force or law enforcement tactics, techniques and procedures to produce incendiary columns in which they analyze in great detail use of force and law enforcement tactics, techniques and procedures.
 
-To those who don’t want to read the long post, Stephen Mader, a West Virginia cop and former US Marine was responding to a call of a suicidal man with a gun, and the officer tried to talk the man down, rather (according to the media) than shooting. When other officers arrived on the scene, they shot fatally RJ Williams (the allegedly suicidal man), and that after the investigation, Mader was fired. 
+To those who <a href="https://nselby.github.io/Twitter-Tacticians-Meet-Clickbait-Writers/" target="_blank">don’t want to read the long post</a>, Stephen Mader, a West Virginia cop and former US Marine was responding to a call of a suicidal man with a gun, and the officer tried to talk the man down, rather (according to the media) than shooting. When other officers arrived on the scene, they shot fatally RJ Williams (the allegedly suicidal man), and that after the investigation, Mader was fired. 
 
 The media immediately took the position that Mader was a hero of de-escalation and a wonderful police officer (aspiring journalist Shaun King called Mader a “Gem”; and video blogger Cenk Uygar called Mader “A good cop fired for doing the right thing.”). 
 
