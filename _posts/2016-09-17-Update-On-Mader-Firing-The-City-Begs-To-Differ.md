@@ -27,7 +27,7 @@ What’s that, you say? Multiple incorrect and untrue statements? Do tell!
 
 How true that is. Shame on all of you stenographers, who simply copied, cribbed and then pronounced to the world your verdict.
 
-<img width="800px" src="https://nselby.github.io/assets/img/thumb-2.png" />
+<img border="1" width="800px" src="https://nselby.github.io/assets/img/thumb-2.png" />
 
 The statement specifically refers to escalation – not the de-escalation parroted by King and Uygur – by Officer Mader in the Williams case. The city claims that Mader froze and was uncommunicative when the other officers approached (the possibility of this was blazingly obvious to anyone in law enforcement given the pacing and dynamics of the event, but again, we don’t know, so we didn’t comment). 
 
