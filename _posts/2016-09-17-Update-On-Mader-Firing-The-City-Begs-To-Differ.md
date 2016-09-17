@@ -51,7 +51,7 @@ Is the city lying? Is everyone in a room full of cops and city officials includi
 
 Maybe. I don’t know. Neither do you. 
 
-Shaun King, who has never to my knowledge left New York City, claims Mader is a Gem; Chief Alexander and a room full of cops who worked with him, say he was sloppy, that he escalated several incidents, got things wrong, and froze, endangering other officers.
+Shaun King, who has never to my knowledge left his DeKalb Avenue condo, claims Mader is a Gem; Chief Alexander and a room full of cops who worked with him, say he was sloppy, that he escalated several incidents, got things wrong, and froze, endangering other officers.
 
 I don't know. You don't either. 
 
