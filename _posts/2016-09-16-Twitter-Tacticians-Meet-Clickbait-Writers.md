@@ -27,7 +27,7 @@ layout: default
 
 <p>Cenk Uygur, host of The Young Turks, recently stated that Stephen Mader, the officer involved in a West Virginia case that is garnering a lot of attention this week, is a <a href="https://twitter.com/TheYoungTurks/status/776118448388575232" target="_blank">great cop</a> and a great American. <a href="https://www.washingtonpost.com/news/the-watch/wp/2016/09/12/west-virginia-cop-fired-for-not-killing-a-man-with-an-unloaded-gun/?utm_term=.4029f715a27f" target="_blank">Radley Balko says</a> that “What Mader did is in fact exactly what we want cops to do when someone is in crisis. It’s also precisely what law enforcement officers say they do on a daily basis — put themselves at risk in order to save lives.”</p>
 
-<p>According to the <a href="http://www.post-gazette.com/local/region/2016/09/11/Weirton-fired-officer-who-did-not-fire-at-man-with-gun/stories/201609090080" target="_blank">Pittsburgh Post Gazette</a>, </p>
+<p>As it turns out, almost every single one of these stories was based on the <em>same</em> article, in the <a href="http://www.post-gazette.com/local/region/2016/09/11/Weirton-fired-officer-who-did-not-fire-at-man-with-gun/stories/201609090080" target="_blank">Pittsburgh Post Gazette</a>, which I quote here:</p>
 
 <blockquote>After responding to a report of a domestic incident on May 6 in Weirton, W. Va., then-Weirton police officer Stephen Mader found himself confronting an armed man.<br /><br />
 
