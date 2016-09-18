@@ -76,5 +76,4 @@ I am saying that you probably know a lot <a href="https://nselby.github.io/Are-Y
 <p>--<br /></p>
 
 
-$52,810 patrol officer
 
