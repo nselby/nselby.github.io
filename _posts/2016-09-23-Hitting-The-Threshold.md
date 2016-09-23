@@ -8,9 +8,11 @@ layout: default
 
 When Akamai decided that it was <a href="http://www.zdnet.com/article/krebs-on-security-booted-off-akamai-network-after-ddos-attack-proves-pricey/" target="_blank">no longer worth it</a> from a business standpoint to sponsor (through pro-bono service) the highly popular and highly targeted security website <a href="http://krebsonsecurity.com/" target="_blank">KrebsOnSecurity.com</a>, it unceremoniously dumped Brian, with the result that Brian's site has been taken off the Internet. 
 
-This sets two bad precedents. First, it’s a real shame to see that Brian’s site has been forced to capitulate to the criminals. That’s terrible. For his part, Brian says he holds no ill will towards Akamai. 
+This sets two bad precedents. First, it’s a real shame to see that Brian’s site has been forced to capitulate to the criminals. That’s terrible. For his part, Brian says he holds no ill will towards Akamai. There are many professionals right now working to solve Brian's problem and I would not be surprised if it were back online soon - one thing I know about Brian is that he <a href="https://www.youtube.com/watch?v=nvlTJrNJ5lA" target="_blank">does not give up easily</a>.  
 
-The substantially much larger precedent it has set has been that Akamai – a company that has bragged that it handles about 30% of the Internet’s traffic every day; delivering more than <a href="https://www.akamai.com/us/en/about/facts-figures.jsp" target="_blank">30 Terabits per second</a>, and delivering the pipe through which users conduct nearly 3 trillion Internet interactions each day, enabling, it claims, more than $250 billion in annual e-commerce for its online retail customers – Akamai has now announced to the world that if your site is getting attacked at a rate of 620 gigabits per second of traffic, then you’re on your own. 
+The substantially larger precedent set has been that of Akamai – a company that has bragged that it handles about 30% of the Internet’s traffic every day; delivering more than <a href="https://www.akamai.com/us/en/about/facts-figures.jsp" target="_blank">30 Terabits per second</a>, and delivering the pipe through which users conduct nearly 3 trillion Internet interactions each day, enabling, it claims, more than $250 billion in annual e-commerce for its online retail customers. 
+
+By taking this decision, it would appear to even a non-casual observer that Akamai announced to the world that, if your site is getting attacked at a rate of 620 gigabits per second of traffic, you’re on your own. 
 
 I don’t care what justification they are offering, nor do I care what their media machine is kicking out. Akamai won’t comment on customers. 
 
