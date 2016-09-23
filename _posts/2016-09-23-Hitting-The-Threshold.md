@@ -30,7 +30,7 @@ Don't get me wrong: I am specifically saying that this is a business decision. W
 
 That's legit. But there are reputational consequences. 
 
-In my opinion, if I have Akamai hosting me, it’s because Akamai is using my reputation to bolster its own. I note that Akamai has not yet called me to offer to protect this website, but I will check my voicemail later just to make sure. The point is, fighting DDOS attacks is very complex and difficult.
+In my opinion, if I have Akamai running my traffic or denying my denials-of-service, it’s because Akamai is using my reputation to bolster its own. I note that Akamai has not yet called me to offer to protect this website, but I will check my voicemail later just to make sure. The point is, fighting DDOS attacks is very complex and difficult.
 
 That means it’s expensive. 
 
