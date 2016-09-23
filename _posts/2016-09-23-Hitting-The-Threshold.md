@@ -6,7 +6,7 @@ layout: default
 <p><img class="right" width="500px" src="https://nselby.github.io/assets/img/brian-krebs.jpg" /></p>
 
 
-When Akamai decided that it was <a href="http://www.zdnet.com/article/krebs-on-security-booted-off-akamai-network-after-ddos-attack-proves-pricey/" target="_blank">no longer worth it</a> from a business standpoint to sponsor (through pro-bono service) the highly popular and highly targeted security website <a href="http://krebsonsecurity.com/" target="_blank">KrebsOnSecurity.com</a>, it unceremoniously dumped Brian, who took his site off the Internet. 
+When Akamai decided that it was <a href="http://www.zdnet.com/article/krebs-on-security-booted-off-akamai-network-after-ddos-attack-proves-pricey/" target="_blank">no longer worth it</a> from a business standpoint to sponsor (through pro-bono service) the highly popular and highly targeted security website <a href="http://krebsonsecurity.com/" target="_blank">KrebsOnSecurity.com</a>, it unceremoniously dumped Brian, with the result that Brian's site has been taken off the Internet. 
 
 This sets two bad precedents. First, it’s a real shame to see that Brian’s site has been forced to capitulate to the criminals. That’s terrible. For his part, Brian says he holds no ill will towards Akamai. 
 
