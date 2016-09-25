@@ -6,7 +6,9 @@ layout: default
 <p><img class="right" width="500px" src="https://nselby.github.io/assets/img/charlotte-presser.jpg" /></p>
 
 
-I am thrilled that Charlotte-Mecklenburg Police Chief Kerr Putney has decided to release police video of the officer-involved shooting of Keith Scott. It is absolutely essential - even if it leads temporarily to more unrest. 
+I am thrilled that Charlotte-Mecklenburg Police Chief Kerr Putney decided to release police video of the officer-involved shooting of Keith Scott. It was absolutely essential - even if it leads temporarily to more unrest. 
+
+He should have done it much, much sooner. He's not alone: police agencies all around the country need to get more body cameras, make <a href="http://usatoday.com/story/opinion/2016/04/01/police-body-cameras-accountability-exoneration-evidence-column/82484112/" target="_blank">better policies governing their use</a>, and they need to do it now.
 
 The very first key finding from our book, <a href="http://amzn.to/1q0pkXx" target="_blank">In Context: Understanding Police Killings of Unarmed Civilians</a> spoke as much to the whole country as to Charlotte:
 
