@@ -32,7 +32,13 @@ Cops sharing information about officer involved shootings is the single most imp
 
 Withholding the video was a really bad idea. 
 
-Chief Putney has done a good job describing the incident, but he is facing an entrenched narrative that contradicts him directly. I believe him completely, but lots of people don’t. 
+Ironically, had this event occured next month, the video wouldn't have been released. 
+
+North Carolina House Bill 972, signed into law in July, and taking effect on October 1, changes the rules in the state. From then on, recordings made by police will not be <a href="http://www.nytimes.com/2016/09/27/us/keith-scott-shooting-video-charlotte.html" target="_blank">public record</a>. The only people who can see the video without a formal, written request (which sounds like a court order). If the idea is transparency, this is a really crappy way to <a href="http://www.usatoday.com/story/opinion/2016/04/01/police-body-cameras-accountability-exoneration-evidence-column/82484112/" target="_blank">go about achieving it</a>.
+
+And while Chief Putney has done a good job describing the incident, he is facing an entrenched narrative that contradicts him directly. I personally believe him. 
+
+Lots of people don’t. 
 
 On Wednesday, I spoke at the <a href="http://www.iaca.net/conference.asp" target="_blank">International Association of Crime Analyst</a> conference in Louisville and had the conversation about this finding. I mentioned the prime example of how to do it right: Las Vegas. 
 
