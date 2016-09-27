@@ -2,7 +2,7 @@
 published: true
 layout: default
 ---
-<h1>No Matter What Happens, Releasing The Video Is The Right Thing To Do</h1>
+<h1>No Matter What It Shows, Releasing The Video Is The Right Thing To Do</h1>
 <p><img class="right" width="500px" src="https://nselby.github.io/assets/img/charlotte-presser.jpg" /></p>
 
 
