@@ -6,9 +6,15 @@ layout: default
 <p><img class="right" width="500px" src="https://nselby.github.io/assets/img/charlotte-presser.jpg" /></p>
 
 
-I am thrilled that Charlotte-Mecklenburg Police Chief Kerr Putney decided to release police video of the officer-involved shooting of Keith Scott. It was absolutely essential - even if it leads temporarily to more unrest. 
+Over the weekend, Charlotte-Mecklenburg Police Chief Kerr Putney decided to release police video of the officer-involved shooting of Keith Scott. As we saw, the video was inconclusive. It in fact raised many other questions about what happened: why the police fired when they did, and the continuing question of whether Scott had a gun – neither of which was answered by the video. 
 
-He should have done it much, much sooner. He's not alone: police agencies all around the country need to get more body cameras, make <a href="http://usatoday.com/story/opinion/2016/04/01/police-body-cameras-accountability-exoneration-evidence-column/82484112/" target="_blank">better policies governing their use</a>, and they need to do it now.
+It is important to recognize that this was likely the reason that Chief Putney didn’t want to release the videos in the first place. That was a terrible mistake. Releasing the videos and all information about the shooting is essential for the community. Releasing the video and other evidence is absolutely essential - even if it leads temporarily to more unrest. 
+
+The public used to trust the police to handle these investigations – even though it is true that activists have called for decades for outside investigators, the public accepted that the police were uniquely qualified to investigate these incidents.
+
+Unfortunately, for reasons that are both true and false, the relationship between the police and the communities they serve has in some cases deteriorated. This is inarguable. The police, therefore, must adopt data release policies and strategies designed to demonstrate their trustworthiness.
+
+I applaud Chief Putney, but I maintain he should have done it much, much sooner. He's not alone: police agencies all around the country need to get more body cameras, make <a href="http://usatoday.com/story/opinion/2016/04/01/police-body-cameras-accountability-exoneration-evidence-column/82484112/" target="_blank">better policies governing their use</a>, and they need to do it now.
 
 The very first key finding from our book, <a href="http://amzn.to/1q0pkXx" target="_blank">In Context: Understanding Police Killings of Unarmed Civilians</a> spoke as much to the whole country as to Charlotte:
 
