@@ -5,7 +5,7 @@ layout: default
 <h1>Starsky & Hutch: The Panama Edition</h1>
 <p><img class="right" width="500px" src="https://nselby.github.io/assets/img/data_for_starsky.png" /></p>
 
-The other day, my friend <a href="https://twitter.com/cpswan" target="_blank">Chris</a> sent me a good read on data, policing, and the future. Since Chris lives five years in the future, I tend to listen to what he's on about; even if we ultimately disagree, I'm bound to find it interesting. The article, <a href="https://medium.com/@acroll/first-we-had-suspects-40ebdb4d5fd#.9m7wyxxhf" target="_blank">First, we Had Suspects</a>, is a good example. it is full of fascinating insights into the limitations and capabilities of data processing in new and surprising ways. 
+The other day, my friend <a href="https://twitter.com/cpswan" target="_blank">Chris</a> sent me a good read on data, policing, and the future. Since Chris lives five years in the future, I tend to listen to what he's on about; even if we ultimately disagree, I'm bound to find it interesting. The article, <a href="https://medium.com/@acroll/first-we-had-suspects-40ebdb4d5fd#.9m7wyxxhf" target="_blank">First, We Had Suspects</a>, is a good example. It is full of fascinating insights into the limitations and capabilities of data processing in new and surprising ways. 
 
 And, unfortunately, the article is itself a prototypical example of some of our society's biggest challenges of imagining better ways to use these capabilities to help with challenges of enforcing the law: it makes presumptions about many operational details of law enforcement that are both fundamental to the thesis, and plain, dead, wrong. 
 
