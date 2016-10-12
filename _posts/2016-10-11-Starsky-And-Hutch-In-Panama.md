@@ -15,7 +15,7 @@ I mean flat, completely, gobsmackingly, wrong, like, "Gravity has a negative eff
 
 I'm not criticizing Alistair Croll's thoughts on the technology in general. Quite the contrary - it's crucial that people like Croll continue to think like this, and to engage with others, to help get our arms around this incredible societal challenge. 
 
-Croll is launching a conference on business technology disruption called <a href="https://pandemon.io" target="_blank">Pandemon.io</a>, and I hope I can get down to Panama next February to take part in it. These are the kinds of meetings that make us break throgh misunderstandings, and harness the power of technology. 
+Croll is launching a conference on business technology disruption called <a href="https://pandemon.io" target="_blank">Pandemon.io</a>, and I hope I can get down to Panama next February to take part in it. These are the kinds of meetings that make us break through misunderstandings, and harness the power of technology. 
 
 I've written about how many people in society base presumptions about how law enforcement works on the movies and television programs they've watched, the books they've read and the media they consume. I call it <a href="https://nselby.github.io/Are-You-Certain/" target="_blank">The Starsky & Hutch Effect</a>: the phenomenon that people who believe that they understand, deep down, how police work is done, actually understand is how police work is done on police television shows and in police movies.
 
@@ -23,7 +23,7 @@ Croll's first presumption is that the culture of predictive analytics has so per
 
 Crime investigation - whether of a murder or a stolen pint of milk - begins with the search for evidence and bits of data or information, which lead (with some luck) sometimes to a suspect, but more often to a group of suspects, or a category of suspects. This leads to the gathering of still more data and information that, when combined with context, help to <em>disqualify</em> some suspects, continually narrowing down the remainder until a case can be assembled, an arrest can be made, charges can be filed, and a trial can occur. This takes a lot of time, a lot of dynamic interaction between the investigator and the data and information and I'm sorry, man, but "The point is, you did the easy stuff first," is just incredibly wrong in any meaningful way.
 
-Sure, cops try to save energy as much as the next fella, but there's nothing easy about investigating; it is, arguably, <em>simple</em>, but easy? No.
+Sure, cops try to save energy as much as the next fella, but there's nothing easy about investigating; it is, arguably,  <em>simple</em>, but easy? No.
 
 
 
@@ -39,7 +39,7 @@ If you'd like to do some research into, say, the San Bernardino or Pulse murdere
 
 In one section of your article, you complain that the government is forcing poor Yahoo! to allow it to search for specific things, and in another part, you complain that, surely, the government would <em>really</em> only look for people who presumably take steps to hide their actions. I'm going to let you work out the rest, since I think I've made my point. If I seem irritated, it's, again, not because I am mad at you for raising these challenges. It's because in doing it you've adopted a tone that is at once wrong and also dismissive of those who don't see the value of the "truths" you present. 
 
-If you truly desire to engage with law enforcmement and those who influence and make policy governing it, you will be welcomed with open arms. I just would beg you to learn a little something about that which you seek to influence. Your technical comments are, I'm sure, spot on. Technologists are like sand on the beach. 
+If you truly desire to engage with law enforcement and those who influence and make policy governing it, you will be welcomed with open arms. I just would beg you to learn a little something about that which you seek to influence. Your technical comments are, I'm sure, spot on. Technologists are like sand on the beach. 
 
 What our society needs is critical thinkers who understand the limits and applications of technologies, and who appreciate enough to understand the problems these technologies seek to solve. To accomplish that, you must (and I really insist that this is a requirement) gain as full an understanding of the problem (its workstreams, processes, conditions, desires, and actual challenges) as you have of the technological approaches to solving them. 
 
