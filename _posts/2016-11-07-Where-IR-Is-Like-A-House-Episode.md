@@ -3,7 +3,7 @@ published: true
 layout: default
 ---
 <h1>Where Incident Response Is Like An Episode Of House</h1>
-<p><img class="right" width="400px" src="https://nselby.github.io/assets/img/house.jpg" /></p>
+<p><img class="right" width="400px" src="https://nselby.github.io/assets/img/house.png" /></p>
 
 I’ve decided that cyber incident response is very much like the TV show House, MD. 
 
