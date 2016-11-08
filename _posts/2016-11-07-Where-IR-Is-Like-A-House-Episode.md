@@ -27,7 +27,7 @@ After the commercial, after we’ve postulated and diagnosed, and now we start t
 
 At which point, something else happens and it turns out they’ve been lying to us since the beginning – half the people we’ve spoken with withheld information (some, because they wanted to see if we would uncover it, some because they didn’t think it was “important” and some because they don’t care), and as it turns out, they do have the ability to give us access to the evidence that will get us the answer, but no one wanted to tell us, because they didn’t think it was relevant. 
 
-Of course, throughout the episode, there’s always, interwoven, a number of characters who are wild characters, liars, assholes, and colorful friends, who second-guess us, and ask aloud whether they really shouldn’t call someone better – after all, how many years of experience at this do you have, anyway? 
+Of course, throughout the episode, there’s always, interwoven, a number of people who are wild characters, liars, assholes, and colorful friends, who second-guess us, and ask aloud whether they really shouldn’t call someone better – after all, how many years of experience at this do you have, anyway? 
 
 And when the correct diagnosis comes, the very thing that will solve the problem can also kill the customer, so we’d better be right. 
 
