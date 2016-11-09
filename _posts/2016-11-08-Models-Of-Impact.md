@@ -2,7 +2,7 @@
 published: true
 layout: default
 ---
-<h1>HWith Models of Impact, verynice Makes A Difference</h1>
+<h1>With Models of Impact, verynice Makes A Difference</h1>
 <p><img class="right" width="400px" src="https://nselby.github.io/assets/img/verynice.png" /></p>
 
 
