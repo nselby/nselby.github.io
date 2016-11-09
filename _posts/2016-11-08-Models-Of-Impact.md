@@ -3,7 +3,7 @@ published: true
 layout: default
 ---
 <h1>With Models of Impact, verynice Makes A Difference</h1>
-<p><img class="right" width="400px" src="https://nselby.github.io/assets/img/verynice.png" /></p>
+<p><img class="right" width="500px" src="https://nselby.github.io/assets/img/verynice.png" /></p>
 
 
 When I was chosen to participate in the <a href="http://codeforamerica.org" target="_blank">Code For America</a> Accelerator, it was a pretty good five months. Sure, there was the honor, the money, the great breakfasts in the CfA kitchen, and the networking opportunities. Of course the very best thing was the opportunity I got to work alongside and be mentored by the technology industry’s brightest minds, and most creative people. 
