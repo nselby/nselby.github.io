@@ -12,7 +12,7 @@ Matthew Manos, from <a href="http://verynice.co/" target="_blank">verynice</a>, 
 
 The first thing that he said stuck with me. “Half of the work I do,” he said, “I give away.” 
 
-He’s done that since he was 16 years old. He actually wrote a book on the subject, cleverly titled, <a href="http://givehalf.co/" target="_blank"><em>How to Give Half of Your Work Away for Free</a></em>, which you can <a href="http://givehalf.co/" target="_blank">read free or buy</a> (Manos wrote another book, <a href="https://www.amazon.com/Toward-Preemptive-Social-Enterprise-Matthew-ebook/dp/B01IWVBPYI/ref=sr_1_1" target="_blank">Toward a Preemptive Social Enterprise</a> which sells for $5 on Amazon).
+He’s done that since he was 16 years old. He actually wrote a book on the subject, cleverly titled, <a href="http://givehalf.co/" target="_blank"><em>How to Give Half of Your Work Away for Free</em></a>, which you can <a href="http://givehalf.co/" target="_blank">read free or buy</a> (Manos wrote another book, <a href="https://www.amazon.com/Toward-Preemptive-Social-Enterprise-Matthew-ebook/dp/B01IWVBPYI/ref=sr_1_1" target="_blank">Toward a Preemptive Social Enterprise</a> which sells for $5 on Amazon).
 
 And Manos keeps doing it – apparently, a lot: so far <a href="http://verynice.co/" target="_blank">verynice</a>, Matthew’s company,  <a href="http://verynice.co/impact/" target="_blank">has given away $6.27 million in pro bono services</a> – in almost a thousand projects for about 450 beneficiaries.
 
