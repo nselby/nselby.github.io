@@ -24,7 +24,7 @@ They provide a glossary of 101 business models, and tools to help entrepreneurs 
 
 You pay what you want. 
 
-For anyone seeking to start a social impact business (I did one that was “social-impacty”), the models can be confusing, and getting it wrong can cost you all your work and all your money. Models of Impact defines and teaches about the models so you can really think about the one that is best for what you’re trying to accomplish.
+For anyone seeking to start a social impact business (I did one that was “social-impacty”), the models can be confusing, and getting it wrong can cost you all your work and all your money. <a href="http://www.modelsofimpact.co/" target="_blank">Models of Impact</a> defines and teaches about the models so you can really think about the one that is best for what you’re trying to accomplish.
 
 If you like what you see, download it – and don’t be a piker: great projects - and people - like these are worthy of our support. 
 
