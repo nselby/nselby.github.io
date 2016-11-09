@@ -26,5 +26,7 @@ You pay what you want.
 
 For anyone seeking to start a social impact business (I did one that was “social-impacty”), the models can be confusing, and getting it wrong can cost you all your work and all your money. <a href="http://www.modelsofimpact.co/" target="_blank">Models of Impact</a> defines and teaches about the models so you can really think about the one that is best for what you’re trying to accomplish.
 
+And launching on election day, the new <a href="http://www.modelsofimpact.co/public" target="_blank">Public Sector Expansion Pack</a> is a new addition targeting those who seek to innovate in government programs: civic innovation practitioners, local and federal government innovation teams, and anyone else who is interested in imagining news ways for government to collaborate with the private sector to be more successful and help more people. 
+
 If you like what you see, download it – and don’t be a piker: great projects - and people - like these are worthy of our support. 
 
