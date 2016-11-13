@@ -47,7 +47,7 @@ This cuts both ways. As the prosecutor mentioned, the stop could be referred to 
 
 More important, though, and rarely commented upon by the media, was the fact that early in the stop, Officer Tensing discovered an opened bottle labeled as alcohol on the driver-side floor of the vehicle. What we still do not know – even after reading the critical Kroll report, which is silent on the topic - is whether officer Tensing used the pretext of the front license plate to effect the stop in an effort to investigate what he suspected was a driver under the influence of alcohol.
 
-The media has condemned Tensing for a murder before the trial18, but many facts of the case have not yet emerged. The Kroll report was largely critical of Officer Tensing’s actions and failure to de-escalate, but it did not refer to the autopsy or toxicology report of Mr. DuBose, other than to mention it was unavailable at the time of the report’s drafting by Kroll.
+The media has condemned Tensing for a murder before the trial (see, e.g., <a href="http://www.theguardian.com/us-news/2016/jan/18/samuel-dubose-police-settlement-university-of-cincinnati" target="_blank">here</a>) but many facts of the case have not yet emerged. The Kroll report was largely critical of Officer Tensing’s actions and failure to de-escalate, but it did not refer to the autopsy or toxicology report of Mr. DuBose, other than to mention it was unavailable at the time of the report’s drafting by Kroll.
 
 Ultimately, the co-authors agree that, given the evidence in the public domain, the shooting by Tensing of Samuel DuBose was an unreasonable and unjustified use of deadly force. Whether he should be charged or convicted is a separate matter. This case is just not as simple as was cast in the press.
 
