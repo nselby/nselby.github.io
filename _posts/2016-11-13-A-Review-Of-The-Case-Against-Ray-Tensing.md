@@ -7,7 +7,7 @@ layout: default
 
 When a judge declared a mistrial in the trial of former officer Ray Tensing, charged with the 2015 murder of Samuel DuBose, it prolonged the anguish of the families of both Tensing and DuBose. According to the <a href="http://www.csmonitor.com/USA/Justice/2016/1112/Ray-Tensing-trial-Ohio-judge-declares-mistrial-in-police-shooting-case" target="_blank">Christian Science Monitor</a>, “…the Hamilton County prosecutor said jurors were leaning toward a lesser conviction of voluntary manslaughter and acquittal on the murder charge, but they could not reach agreement.”
 
-Here is the original text from the book, “In Context: Understanding Police Killings of Unarmed Civilians”. 
+Here is the original text from the book, “<a href="http://amzn.to/1q0pkXx" target="_blank">In Context: Understanding Police Killings of Unarmed Civilians</a>”. 
 
 <hr />
 
