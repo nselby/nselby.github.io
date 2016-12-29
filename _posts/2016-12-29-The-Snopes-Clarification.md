@@ -18,7 +18,7 @@ Dear Mr Selby,
 I am a fact checker for the web site Snopes.com. I have been in consistent contact with D. Brian Burghart who has a police shooting database, but for this question, he referred me to you.
 
 A reader sent us an inquiry about a study that seems to indicate that black people are more likely to be killed by black police officers. From the information I am aware of, there isn't enough data about the race of police officers involved in shootings, because there isn't a lot of data available in the absence of comprehensive federal data. I could be wrong of course, but I was curious whether this is a topic you could help with. The study abstract is here, and you can get a PDF of it here as well:
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2870189&download=yes
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2870189&download=yes" target="_blank">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2870189&download=yes</a>
 
 Thank you in advance for your help.
 
@@ -42,11 +42,11 @@ To illustrate the difference, consider this: if a computer selected at random ca
 
 To address both these questions, we must separate them and study the available data. Our study, and some others including that by Lott and Moody, have tried to start this, but the data are very difficult to come by ON THE SECOND question. I note that independently, Lott and Moody and my group came to the same conclusion, that to accomplish this, we must clean and code a large range of data from a large range of sources, and make it publicly available. Ours is available here:
 
-https://github.com/StreetCredSoftware/PKIC
+<a href="https://github.com/StreetCredSoftware/PKIC" target="_blank">https://github.com/StreetCredSoftware/PKIC</a>
 
 Lott and Moody’s is available here:
 
-http://crimeresearch.org/wp-content/uploads/2013/06/police.shoot_.zip
+<a href="http://crimeresearch.org/wp-content/uploads/2013/06/police.shoot_.zip" target="_blank">http://crimeresearch.org/wp-content/uploads/2013/06/police.shoot_.zip</a>
 
 Quoting from my book, In Context: Understanding Police Killings of Unarmed Civilians:
 
