@@ -12,6 +12,10 @@ Neither of those two statements are related in any way to the question at hand, 
 
 Since I am quoted as one of the experts relied upon by the journalist, and since the journalist used one aspect but not the central focus of my response, I thought I would post her original question and my original answer, both unedited (except for one capitalization, in the title of my book). 
 
+I'm pretty angry. I answered carefully the writer's question as to whether police target black men by race with detailed analysis and links to open, available, published, and reviewed data. She ignored it entirely in the final story. And our data jibed generally with that of Lott and Moody. 
+
+Here's the exchange (we spoke on the phone as well, during which I gave color, but the written quotes are what I provided):
+
 
 Dear Mr Selby,
 
