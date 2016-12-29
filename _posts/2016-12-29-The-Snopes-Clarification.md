@@ -1,13 +1,16 @@
- ---
+---
  published: true
  layout: default
- ---
+---
+ 
  <h1>The Snopes Clarification</h1>
  <p><img class="right" width="500px" src="http://static.snopes.com/wordpress/wp-content/uploads/2016/12/police_fb.jpg" /></p>
 
-Having read the Snopes response to the claim “Black police officers are more likely to kill black people,” I was surprised to find that there were references in there to the “unarmed black teenager Michael Brown”  and the assertion that “National statistics show that black people are statistically three times more likely to die at the hands of police officers than white people.”
+Having read the Snopes response to the claim “Black police officers are more likely to kill black people,” I was surprised to find that there were references in there to the “unarmed black teenager” Michael Brown and the assertion that “National statistics show that black people are statistically three times more likely to die at the hands of police officers than white people.”
 
-Neither of those two statements are related in any way to the question at hand, and since I am quoted as one of the experts relied upon by the journalist, and since the journalist used one aspect but not the central focus of my response, I thought I would post her original question and my original answer, both unedited (except for one capitalization, in the title of my book). 
+Neither of those two statements are related in any way to the question at hand, both are editorialization about orthogonal issues - it's almost as if the author didn't want to be able to prove something positive (or disprove something negative) and so took the time to remind us how there are so many other problems, lest we forget.  
+
+Since I am quoted as one of the experts relied upon by the journalist, and since the journalist used one aspect but not the central focus of my response, I thought I would post her original question and my original answer, both unedited (except for one capitalization, in the title of my book). 
 
 
 Dear Mr Selby,
