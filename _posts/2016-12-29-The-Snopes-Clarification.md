@@ -14,6 +14,8 @@ Since I am quoted as one of the experts relied upon by the journalist, and since
 
 I'm pretty angry. I answered carefully the writer's question as to whether police target black men by race with detailed analysis and links to open, available, published, and reviewed data. She ignored it entirely in the final story. And our data jibed generally with that of Lott and Moody. 
 
+UPDATE: The post has been updated. Read this and I will update at the bottom.
+
 Here's the exchange (we spoke on the phone as well, during which I gave color, but the written quotes are what I provided):
 
 
@@ -67,4 +69,8 @@ We DO note, however, that part of the reason for the spotty coverage was extreme
 From my reading of the Lott and Moody report, they encountered similar inconsistencies in media coverage and data availability, but I do not presume to speak for them.
 
 I hope this answers your question. 
+
+UPDATE: On 29 December the post was updated. It removed the "teenager" comment, added much more of my original quote from this email, and then added, baffingly, a USAToday story about how black people are more likely to be killed in <em>car chases</em> than white people. Why this was added I have no idea. It then repeated the "black people are three times more likely to die than white people" thatistic, again, for what reason I cannot imagine. We had one job: to answer the question, "are Black police officers more likely to kill black people?"
+
+Anything that answers anything else from a fact-checking site seems...Well, it just seems strange and out of place. 
 
