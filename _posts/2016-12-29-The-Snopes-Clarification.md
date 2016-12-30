@@ -70,7 +70,7 @@ From my reading of the Lott and Moody report, they encountered similar inconsist
 
 I hope this answers your question. 
 
-UPDATE: On 29 December the post was updated. It removed the "teenager" comment, added much more of my original quote from this email, and then added, baffingly, a USAToday story about how black people are more likely to be killed in <em>car chases</em> than white people. Why this was added I have no idea. It then repeated the "black people are three times more likely to die than white people" thatistic, again, for what reason I cannot imagine. We had one job: to answer the question, "are Black police officers more likely to kill black people?"
+UPDATE: On 29 December the post <a href="http://www.snopes.com/black-police-officers-likely-kill-black-people/" target="_blank">was updated.</a> It removed the "teenager" comment, added much more of my original quote from this email, and then added, baffingly, a USAToday story about how black people are more likely to be killed in <em>car chases</em> than white people. Why this was added I have no idea. It then repeated the "black people are three times more likely to die than white people" thatistic, again, for what reason I cannot imagine. We had one job: to answer the question, "are Black police officers more likely to kill black people?"
 
 Anything that answers anything else from a fact-checking site seems...Well, it just seems strange and out of place. 
 
