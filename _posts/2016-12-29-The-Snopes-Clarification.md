@@ -70,7 +70,9 @@ From my reading of the Lott and Moody report, they encountered similar inconsist
 
 I hope this answers your question. 
 
-UPDATE: On 29 December the post <a href="http://www.snopes.com/black-police-officers-likely-kill-black-people/" target="_blank">was updated.</a> It removed the "teenager" comment, added much more of my original quote from this email, and then added, baffingly, a USAToday story about how black people are more likely to be killed in <em>car chases</em> than white people. Why this was added I have no idea. It then repeated the "black people are three times more likely to die than white people" thatistic, again, for what reason I cannot imagine. We had one job: to answer the question, "are Black police officers more likely to kill black people?"
+UPDATE: On 29 December the post <a href="http://www.snopes.com/black-police-officers-likely-kill-black-people/" target="_blank">was updated.</a> It removed the "teenager" comment, added much more of my original quote from this email, and then added, baffingly, a USAToday story about how black people are more likely to be killed in <em>car chases</em> than white people. Why this was added I have no idea. It then repeated the "black people are three times more likely to die than white people" staistic, again, for what reason I cannot imagine. 
+
+Snopes had one job: to answer the question, "are Black police officers more likely to kill black people?" In doing so, it is considering questions of whether black officers are more likely to kill black people, and then whether black people are more likely to be killed in car chases and crashes regardless of the race of the police officer (no one asked about this?) and then implying that black people are likely to be shot just, say, walking down the street by police. This is the site people are turning to to <em>halt</em> the spread ot fake news? 
 
 Anything that answers anything else from a fact-checking site seems...Well, it just seems strange and out of place. 
 
