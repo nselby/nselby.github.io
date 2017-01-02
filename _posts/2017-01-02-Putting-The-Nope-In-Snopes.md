@@ -2,8 +2,8 @@
 published: true
 layout: default
 ---
-<h1>Fact-Check? Or <br />Keeping Facts In Check? <br />My Snopes Experience</h1>
-<p><img class="left" width="360px" src="http://message.snopes.com/images/logo.gif" /></p>
+<h1>Fact-Check? <br />Or Keeping Facts In Check? <br />My Snopes Experience</h1>
+<p><img class="right" width="360px" src="http://message.snopes.com/images/logo.gif" /></p>
 
 The 2016 election was horrible. In its aftermath, the cries about policing “fake news” continue. The name that continues to be raised, in terms of a potential solution, is Snopes. I've run into it over time, but never had personal interaction with the site or its personnel. Now I have. Recently, a Snopes researcher contacted me to fact check, because I am an authority on police killling. In my experience, the process was remarkably unprofessional, and if this is the standard, then Snopes as arbiter is a concept that fills me with dread. 
 
