@@ -67,7 +67,7 @@ In the vast majority of the 110 non-traffic incidents in which people died (of 1
 
 We therefore know the following:
 
-The police did not select most of the people they confronted
+The police did not select most of the people they confronted;
 
 Just about 70% of unarmed people who died at the hands of police were reported to the police by citizens as being a danger to the community, rather than selected by police for attention;
 
