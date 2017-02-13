@@ -54,7 +54,7 @@ The PKIC data reveal that it is citizens who initiate most of the 72% of deadly 
 
 In our book, we depicted this graphically: 
 
-<img width="900px" src="https://nselby.github.io/assets/img/911-calls.png" />
+<p><img width="900px" src="https://nselby.github.io/assets/img/911-calls.png" /></p>
 
 Put another way, when considering the 72% of cases in the database that did not start with traffic stops, the number of minorities contacted by police, and proportion of black people to white people to Hispanics, is not relevant to the question of officer targeting of minorities. This is because in nine out of ten cases, it was a member of the community and not a police officer who selected the person to be contacted.
 
@@ -74,10 +74,10 @@ Just about 70% of unarmed people who died at the hands of police were reported t
 <h3>Even When The Police Select, The Racial Composition Is The Same</h3>
 The racial composition of the group reported to the police by the community does not differ significantly from the racial composition of the group the police self-dispatched.
 
-<h3>Most of Those Killed Were Engaged In Deadly Activities</h3>
+<h3>Most of Those Killed Were Engaged In Deadly Activities...</h3>
 As I said above, the overwhelming majority of those ultimately killed by police (even by the reckoning of the Post) were themselves engaging in behavior that was criminal (which brought the police to the scene), and posing direct threats to law enforcement or other civilians (which most often precipitated the use of force);
 
-<h3>…But We Still Don’t Know If Police Treat Races Differently Once Contact Is Made</h3>
+<h3>...But We Still Don’t Know If Police Treat Races Differently Once Contact Is Made</h3>
 Note that neither our work, nor (sadly) the work of Nix et al – given the further analysis by Moskos of the 2016 data – answer the question of whether the police treat white people differently once an event begins – this is a separate question that must be answered using a much wider array of contextual data. We have, all of us, called for more and better data.
 
 <h3>Stop Using Population</h3>
