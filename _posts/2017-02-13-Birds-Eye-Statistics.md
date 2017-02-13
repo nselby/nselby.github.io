@@ -3,7 +3,7 @@ published: true
 layout: default
 ---
 <h1>A Bird's Eye View</h1>
-<p><img class="left" width="400px" src="https://nselby.github.io/assets/img/[image_name]" /></p>
+<p><img class="right" width="400px" src="https://nselby.github.io/assets/img/criminology.png" /></p>
 
 There is <a href="http://onlinelibrary.wiley.com/doi/10.1111/1745-9133.12269/full" target="_blank">an article</a> looking at police killings in 2015 published in <em>Criminology & Public Policy</em> by Nix, Campbell, Byers, and Alpert, and it points out a couple of things that are noteworthy. 
 
