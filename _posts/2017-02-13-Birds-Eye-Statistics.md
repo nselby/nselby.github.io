@@ -17,9 +17,9 @@ There are, in fact, thousands of those situations for every <a href="https://vim
 
 Every year, in fact, according to the data at (and conversations with those who run) Fatal Encounters, something like 1,500 Americans die after a confrontation with police. Every year, about 1,400 of these decedents were obviously, uncontroversially in the midst of a deadly attack (against the police or a third party) in the manner of Brown or Abdulazeez, or Gormley; or who were in the process of a drug overdose or physical health emergency when they died. 
 
-After investigation, another 75 to 85 cases shake out, and evidence ultimately emerges that show the officers may not have acted clearly in the best possible manner, but neither was their behavior illegal or even wrong: perhaps they panicked, or perhaps they overestimated the threat. 
+After investigation, another 80 to 85 cases shake out, and evidence ultimately emerges that show the officers may not have acted clearly in the best possible manner, but neither was their behavior illegal or even wrong: perhaps they panicked, or perhaps they overestimated the threat. 
 
-This leaves us, each and every year, with somewhere between 15 to 25 cases of what appears to be actual malfeasance by officers, actual bad intent. 
+This leaves us, each and every year, with somewhere between 15 to 20 cases of what appears to be actual malfeasance by officers, actual bad intent. 
 
 That’s not a “good” or a “bad” number, it’s just what it is. My analysis is that, in a nation of 320 million, in which there are 40 million face-to-face interactions between citizens and the 800,000 police, from 18,000 agencies, who protect the populace, even 100 questionable uses of deadly force is, while of course tragic for the 100 and their loved-ones, not an epidemic, or an indication of systemic abuse of police power. 
 
