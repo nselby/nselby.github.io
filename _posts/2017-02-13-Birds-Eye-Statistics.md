@@ -49,7 +49,7 @@ Again, while this is, of course tragic for the 15 to 20 and their loved-ones, it
 
 Finally, it is worth widening the aperture from the simple analysis of “the moment of use-of-deadly-force,” which is the orthodox method of consideration of use-of-deadly-force, and looking at the context of how the cops got to each incident to begin with. 
 
-<h3>How The Cops Got There<h3> 
+<h3>How The Cops Got There</h3> 
 The PKIC data reveal that it is citizens who initiate most of the 72% of deadly encounters that don’t begin with traffic stops. In 88% of those 72% of cases, citizens — and not the police — initiated the encounter by asking an officer for help.
 
 In our book, we depicted this graphically: 
