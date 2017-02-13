@@ -81,7 +81,7 @@ As I said above, the overwhelming majority of those ultimately killed by police 
 Note that neither our work, nor (sadly) the work of Nix et al – given the further analysis by Moskos of the 2016 data – answer the question of whether the police treat white people differently once an event begins – this is a separate question that must be answered using a much wider array of contextual data. We have, all of us, called for more and better data.
 
 <h3>Stop Using Population</h3>
-Finally, I was very happy to see researchers in a peer-reviewed journal finally put the kibosh on the repeated habit of reporters to say the “police are n times more likely to kill black males,” than they are to kill other people. There’s so much wrong with that, as I’ve pointed out on television, radio and in print, at varying levels of level calmness, furious anger, overt and thundering hysteria and meek surrender over the past year and a half that I was beginning to question whether anyone would ever come back to it.
+Finally, I was very happy to see researchers in a peer-reviewed journal finally put the kibosh on the repeated habit of reporters to say the “police are <em>n</em> times more likely to kill black males,” than they are to kill other people. There’s so much wrong with that, as I’ve pointed out on television, radio and in print, at varying levels of level calmness, furious anger, overt and thundering hysteria and meek surrender over the past year and a half that I was beginning to question whether anyone would ever come back to it.
 
 Here, Nix et al comment: “We caution against using population as a benchmark because it does not account for each groups’ representation in a variety of more relevant measures, including police–civilian interactions and crime.” 
 
