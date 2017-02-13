@@ -89,6 +89,4 @@ For those unfamiliar with the language of academia, the researchers just called 
 
 “The use of self-report data in criminological research,” the researchers continue, “has resulted in the finding that Black citizens offend at higher rates (Blumstein, Cohen, Roth, and Visher, 1986; Loeber et al., 2015) and are overrepresented in citizen complaints/calls for service (Engel, Smith, and Cullen, 2012), police stops (Novak, 2004), and arrests (Brame, Bushway, Paternoster, and Turner, 2014; Kochel, Wilson, and Mastrofski, 2011).” 
 
-That jibes not just with our work on In Context, and other work to understand these phenomena: it leads me to conclude that reporters who continue to go with the population-derived numbers in the face of smart people telling them that those numbers are flatly wrong, are either monumentally sophomoric, or unforgivably hypocritical and misleading. 
-
-
+That jibes not just with our work on In Context, and other work to understand these phenomena: it leads me to conclude that reporters who continue to go with the population-derived numbers in the face of smart people telling them that those numbers are flatly wrong, are either monumentally sophomoric, or unforgivably hypocritical and misleading.
