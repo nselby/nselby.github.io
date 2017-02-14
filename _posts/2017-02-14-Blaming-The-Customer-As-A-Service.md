@@ -78,7 +78,7 @@ Just some observations from this intensely passive-aggressive, yet churlish, ema
 
 <ol>
  <li>He blames the tax season (again - what, has <em>tax season</em> not happened before?);</li>
- <li>He blames the time difference (it is East Coast +5, meaning that when it is 2 pm in Edinburgh, it is 9 am in NY; however Dave didn’t call me until 5:31 pm his time – he expects that Americans don’t know how to tell time, and expects me to feel bad that he “worked late” - Oh, say, Dave: you may have <em>stayed<em> late, mate, but you accomplished no <em>work</em> that I can attest to);</li>
+ <li>He blames the time difference (it is East Coast +5, meaning that when it is 2 pm in Edinburgh, it is 9 am in NY; however Dave didn’t call me until 5:31 pm his time – he expects that Americans don’t know how to tell time, and expects me to feel bad that he “worked late” - Oh, say, Dave: you may have <em>stayed</em> late, mate, but you accomplished no <em>work</em> that I can attest to);</li>
  <li>He tries to confuse me by saying I have asked him to turn off 2-factor without any further checks. Nothing can be further from the truth, it’s just that he hasn’t bothered to make contact with me;</li>
  <li>He blames me again for not holding static codes to open a dynamic system, reducing two factor to single-factor, multiple-credential;</li>
  <li>He implies that I should know better, since this had happened to another of my employees (he’s right, we should have canceled months ago);</li>
