@@ -83,6 +83,7 @@ Just some observations from this intensely passive-aggressive, yet churlish, ema
  <li>He blames me again for not holding static codes to open a dynamic system, reducing two factor to single-factor, multiple-credential;</li>
  <li>He implies that I should know better, since this had happened to another of my employees (he’s right, we should have canceled months ago);</li>
  <li>He says all of the above and then tells me that he is not using security as an excuse, but rather, he is simply a bureaucratic oaf working-to-rule, what can you do?;</li>
+ <li>He writes all this in a 500-word email, after receiving an email from me (thus understanding that I am now available) rather than calling me back.</li>
 </ol> 
 
 My response was rapid fire:
