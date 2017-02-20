@@ -8,7 +8,7 @@ layout: default
  
 I've only been to Sweden a couple, maybe six times, but something was striking me as just wrong with the <a href="http://www.breitbart.com/london/2017/01/11/official-data-sexual-assault-70-per-cent-sweden/" target="_blank">Breitbart story on Swedish rapes rising 70 percent in a year</a>.
 
-ERMAHGERD! That's like, totally GHERSTLY! What could be behind this? Some digging shows it: The Swedish National Council for Crime Prevention (Brottsförebyggande rådet, or Brå) put out its <a href="http://www.bra.se/download/18.4a33c027159a89523b17c401/1487173975453/Summary_NTU_2016.pdf" target="_blank">http://www.bra.se/download/18.4a33c027159a89523b17c401/1487173975453/Summary_NTU_2016.pdf" target="_blank">English-language estimate of crimes in Sweden</a>. 
+ERMAHGERD! That's like, totally GHERSTLY! What could be behind this? Some digging shows it: The Swedish National Council for Crime Prevention (Brottsförebyggande rådet, or Brå) put out its <a href="http://www.bra.se/download/18.4a33c027159a89523b17c401/1487173975453/Summary_NTU_2016.pdf" target="_blank">English-language estimate of crimes in Sweden</a>. 
 
 In the English-language summary, based on reported crimes, Brå estimated that the populace "exposed" to sexual assault rose from 1% to 1.7% in 2016. 
 
