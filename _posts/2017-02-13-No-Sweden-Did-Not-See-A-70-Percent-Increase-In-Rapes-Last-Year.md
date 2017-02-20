@@ -34,6 +34,10 @@ Or, "...reported rapes increased by 11 percent, to 6,700. Reported "gross violat
 
 Thus, comparing 2016 figures of 6,560 reported rapes to 2014 figures of 6,700 reported rapes, we see a decrease of 2.08% AFTER Sweden began taking in such large numbers of refugees. 
 
+Say! Let's look at that as a graphical representation, hmm?
+
+<p><img width="700px" src="https://nselby.github.io/assets/img/graph.png" /></p>
+
 Oh, snap. 
 
 It also seems as if Brå, like the FBI, may have done some changing prior to 2014 as to exactly how it calculates and reports on sexual assault numbers, which would result in some fluctuations - note the differences in language ("gross violations of women" in 2014, versus "sexual coersion" in 2016, etc.) 
