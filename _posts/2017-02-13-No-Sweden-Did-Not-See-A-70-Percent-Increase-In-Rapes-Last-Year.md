@@ -26,7 +26,7 @@ OK, so that's totes more specific and <em>a lot</em> more palatable than 70%.
 
 But wait! Again! 
 
-It turns out that, <a href="http://www.bra.se/download/18.366ea42214d6cb5d9d422fb0/1432649452367/Sammanfattning_anmalda_2014.pdf" target="_blank">http://www.bra.se/download/18.366ea42214d6cb5d9d422fb0/1432649452367/Sammanfattning_anmalda_2014.pdf">in 2014, reported rapes had increased by 11%</a>: "...anmälda våldtäkterna ökade med 11 procent till 6 700 brott. Anmälda brott om grov kvinnofridskränkning minskade till 2 000 anmälda brott (–7 %), medan grov fridskränkning ökade till 1 770 anmälda brott (+2 %)," or, "...reported rapes increased by 11 percent, to 6,700. Reported "gross violations of women" decreased to 2,000 offenses, while "gross violation of integrity" increased 2%, to 1,770 reported offenses."
+It turns out that, <a href="http://www.bra.se/download/18.366ea42214d6cb5d9d422fb0/1432649452367/Sammanfattning_anmalda_2014.pdf" target="_blank">in 2014, reported rapes had increased by 11%</a>: "...anmälda våldtäkterna ökade med 11 procent till 6 700 brott. Anmälda brott om grov kvinnofridskränkning minskade till 2 000 anmälda brott (–7 %), medan grov fridskränkning ökade till 1 770 anmälda brott (+2 %)," or, "...reported rapes increased by 11 percent, to 6,700. Reported "gross violations of women" decreased to 2,000 offenses, while "gross violation of integrity" increased 2%, to 1,770 reported offenses."
 
 Thus, comparing 2016 figures of 6,560 reported rapes to 2014 figures of 6,700 reported rapes, we see a decrease of 2.08% AFTER Sweden began taking in such large numbers of refugees. 
 
