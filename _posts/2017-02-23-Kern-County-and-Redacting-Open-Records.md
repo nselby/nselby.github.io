@@ -3,7 +3,7 @@ published: true
 layout: default
 ---
 <h1>Kern County Coroner Files: The <img width="420px" height="25px" src="https://nselby.github.io/assets/img/redacted.png" /> of <br />Michael Earl Le Mon</h1>
-<p><img class="left" width="600px" src="https://nselby.github.io/assets/img/cause_of_death_lemon.png" /></p>
+<p><img class="right" width="400px" src="https://nselby.github.io/assets/img/cause_of_death_lemon.png" /></p>
 
 Back in December, 2015, I wrote an answer to the preposterous charge leveled by The Guardian newspaper that, “with little oversight, officers” in Kern County, CA “became the country’s most lethal.” 
 
