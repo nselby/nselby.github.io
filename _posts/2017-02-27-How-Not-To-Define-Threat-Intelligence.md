@@ -19,7 +19,7 @@ Yet here is something special: propaganda that is notable for being both (a) utt
 
 Well done. 
 
-On its face, “What is threat intelligence?” is a great question to handle in the world of Propaganda, because lots of people actually are interested in the answer. So let’s just take the first question, which is not that (how one can begin a propaganda set-piece without defining what it is one is speaking about is beyond me, but there it is), “How do you differentiate all the threat intelligence programs out there?” 
+On its face, “What is threat intelligence?” is a great question to handle in the world of propaganda, because lots of people actually are interested in the answer. So let’s just take the first question, which is not that (how one can begin a propaganda set-piece without defining what it is one is speaking about is beyond me, but there it is), but rather, “How do you differentiate all the threat intelligence programs out there?” 
 
 Actually, here is the question verbatim, as <a href="https://www.helpnetsecurity.com/2017/02/27/focus-threat-intelligence/" target="_blank">transcribed by HelpNet’s Mirko Zorz</a>:
 
@@ -49,7 +49,7 @@ Second, lest you think I am cherry-picking what Couch said, and taking his lead-
 
 Anyone who knows what Couch is describing, and how it differentiates “threat intel” from a “threat intelligence platform” raise your hand – and Couch…put your hand down.
 
-To hear someone who makes sense in this area - that is, propaganda that's actually useful to those trying to understand the topic - consider Eric Olson’s 2014 Cyveillance (now Looking Glass Cyber) presentation, <a href="https://www.brighttalk.com/webcast/9865/118505/concrete-steps-to-deploy-an-effective-threat-intelligence-capability" target="_blank">Concrete Steps to Deploy an Effective Threat Intelligence Capability</a>, which goes beyond jargon and into definitions of what threat intelligence is nd how one might conceivably use it to defend one's business. 
+To hear someone who makes sense in this area - that is, propaganda that's actually useful to those trying to understand the topic - consider Eric Olson’s 2014 Cyveillance (now Looking Glass Cyber) presentation, <a href="https://www.brighttalk.com/webcast/9865/118505/concrete-steps-to-deploy-an-effective-threat-intelligence-capability" target="_blank">Concrete Steps to Deploy an Effective Threat Intelligence Capability</a>, which goes beyond jargon and into definitions of what threat intelligence is, and how one might conceivably use it to defend one's business. 
 
 Sheesh.   
 
