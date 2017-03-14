@@ -7,7 +7,7 @@ layout: default
 
 According to the <a href="http://www.vpc.org" target="_blank">Violence Policy Center</a>, there have been 2,504,105 suppressors registered from 2010 to 2015. 
 
-The VPC's report, <a href="http://www.vpc.org/studies/silencers.pdf" target-"_blank"><em>Silencers: A Threat To Public Safety</em></a>, is nine pages long. It contains not statistics, but narratives, of “violent crimes” committed between 2010 and 2015 by people with suppressed weapons, however three of the nine listed scenarios are the crime of possession of suppressors. 
+The VPC's report, <em><a href="http://www.vpc.org/studies/silencers.pdf" target-"_blank">Silencers: A Threat To Public Safety</a></em>, is nine pages long. It contains not statistics, but narratives, of “violent crimes” committed between 2010 and 2015 by people with suppressed weapons, however three of the nine listed scenarios are the crime of possession of suppressors. 
 
 The remaining six crimes described in five scenarios are truly violent crimes committed with suppressed weapons: 
 
