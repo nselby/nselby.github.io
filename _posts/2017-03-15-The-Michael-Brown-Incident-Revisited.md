@@ -19,9 +19,7 @@ The fatal encounter between Officer Darren Wilson and Michael Brown in August, 2
 
 The profile of the incident was so high that The White House sent to attend Michael Brown’s funeral <a href="http://www.npr.org/sections/thetwo-way/2014/08/24/342868844/3-white-house-aides-to-attend-michael-browns-funeral-service" target="_blank">three officials</a>: Marlon Marshall, deputy director of the White House Office of Public Engagement, and Heather Foster, an adviser for the office. It also sent Broderick Johnson, chairman of the My Brother's Keeper Task Force, an Obama initiative to empower boys and men of color. 
 
-This prompted <a href="http://www.foxnews.com/politics/2014/08/25/more-white-house-officials-at-michael-browns-funeral-than-thatchers.html" target="_blank">Fox News to remark</a> that the White House sent more officials to Mr. Brown's funeral than it had to that of former British Prime Minister Margaret Thatcher. For that occasion, the White House sent no representatives, but did send former secretaries of State George Schultz and James Baker III; the charge d’affaires to the United Kingdom, and the former U.S. ambassador. 
-
-Back in Ferguson, the Department of Justice sent a team to investigate policing within the City of Ferguson. The Criminal Section of the Department of Justice Civil Rights Division, the United States Attorney’s Office for the Eastern District of Missouri, and the FBI subsequently opened a criminal investigation into whether the shooting violated federal law, and its Civil Rights Division led an investigation into the shooting. 
+The Department of Justice sent a team to investigate policing within the City of Ferguson. The Criminal Section of the Department of Justice Civil Rights Division, the United States Attorney’s Office for the Eastern District of Missouri, and the FBI subsequently opened a criminal investigation into whether the shooting violated federal law, and its Civil Rights Division led an investigation into the shooting. 
 
 Additionally, Department of Justice conducted a <a href="http://www.nbcnews.com/storyline/michael-brown-shooting/justice-departments-autopsy-michael-brown-released-n264361" target="_blank">post-mortem</a> of Mr. Brown, along with autopsies by <a href="http://www.stltoday.com/online/pdf-autopsy-report-for-michael-brown/pdf_ce018d0c-5998-11e4-b700-001a4bcf6878.html" target="_blank">the county coroner</a> and a <a href="http://www.cbsnews.com/news/preliminary-autopsy-shows-michael-brown-shot-six-times/" target="_blank">privately hired forensic consultant</a> to examine the autopsy results.
 
@@ -29,7 +27,7 @@ A grand jury convened and its findings were made public.
 
 The result of these investigations – which it must be stated were conducted by a DOJ intent on prosecution if at all possible – was best summed up by the Department of Justice’s <a href="https://www.justice.gov/sites/default/files/opa/press-releases/attachments/2015/03/04/doj_report_on_shooting_of_michael_brown.pdf" target="_blank">final report</a> on the matter:
 
-<blockquote>The evidence, when viewed as a whole, does not support the conclusion that Wilson’s uses of deadly force were “objectively unreasonable” under the Supreme Court’s definition. Accordingly, under the governing federal law and relevant standards set forth in the USAM, it is not appropriate to present this matter to a federal grand jury for indictment, and it should therefore be closed without prosecution.</blockquote>
+<blockquote>The evidence, when viewed as a whole, does not support the conclusion that Wilson’s uses of deadly force were not objectively unreasonable under the Supreme Court’s definition. Accordingly, under the governing federal law and relevant standards set forth in the USAM, it is not appropriate to present this matter to a federal grand jury for indictment, and it should therefore be closed without prosecution.</blockquote>
 
 Quite simply, in the <a href="http://www.copinthehood.com/2015/03/doj-on-michael-brown-shooting-justified.html" target="_blank">words of Peter Moskos</a>, the DOJ report “really is a complete [vindication] of Police Officer Wilson. 100 percent. And you can't really say that this is some racist white-wash from Eric Holder’s rah-rah pro-police Department of Justice.” 
 
@@ -45,7 +43,7 @@ I disagree. It's not “<em>just</em> stupid.” The filmmaker who used this foo
 
 Also, it’s not as if the footage was being hidden. It was ignored because of its content. The <a href="https://www.nytimes.com/2017/03/11/us/michael-brown-ferguson-police-shooting-video.html" target="_blank">New York Times points out</a> that the video was mentioned in the official report on the case by The St. Louis County Police Department – in fact, that was how the filmmaker first learned of the footage. The SLCPD had determined that the footage was not relevant to the case.  That’s because it was not relevant to the case. The DOJ didn’t say, “In lieu of 10-hour-old footage showing Mr. Brown in the store, we find no evidence that the use of force was unreasonable.”
 
-They said unequivocally that Wilson’s uses of deadly force were “objectively unreasonable” under the Supreme Court’s definition. 
+They said unequivocally that Wilson’s uses of deadly force were not objectively unreasonable under the Supreme Court’s definition. 
 
 This video changes nothing. For those interested, the legal standard applied is called Graham v Connor and it is the law of the land. 
 
