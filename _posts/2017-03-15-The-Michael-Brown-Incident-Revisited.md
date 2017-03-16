@@ -5,7 +5,7 @@ layout: default
 <h1>The Michael Brown Incident Revisited</h1>
 <p><img class="right" width="450px" border="0" src="https://nselby.github.io/assets/img/michael_brown.png" /></p>
 
-In the past few days, the names of Michael Brown and Darren Wilson have suddenly become the topic of news stories and protesters’ complaints. This is quite extraordinary, given that nothing has happened that changes any of the information in the public domain. 
+In the past few days, the names of Michael Brown and Darren Wilson have suddenly become once again the topic of news stories and protesters’ complaints. This is quite extraordinary, given that nothing has happened that changes any of the information in the public domain. 
 
 There were two, “news-worthy” items that have thrust the case back into the public eye. The first was the release of a documentary that shows video of Michael Brown in the convenience store he would later be accused of robbing. The video was from a visit to the store by Mr. Brown hours before the fatal encounter. 
 
