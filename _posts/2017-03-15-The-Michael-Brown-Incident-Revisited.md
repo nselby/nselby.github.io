@@ -189,7 +189,7 @@ And again:
 
 <blockquote>It found that Brown — who was shot in Ferguson, Missouri, on Aug. 9 — suffered “severe injuries of the skull, brain and right chest” and appeared to have been shot in the hand at close range. “The manner of death is homicide,” the Justice Department's medical examiner ruled.</blockquote>
 
-Clearly, someone at NBC felt that this was important. But in highlighting this in the lede paragraph, they merely exhibited ignorance of the term “homicide” - it means ‘death at the hands of another.’ If anyone in America did not know by the time this was written on December 9 – five months after the incident  - that Officer Wilson had not killed Mr. Brown, they had been under sedation. 
+Clearly, someone at NBC felt that this was important. But in highlighting this in the lede paragraph, they merely exhibited ignorance of the term “homicide” - it means ‘death at the hands of another.’ If anyone in America did not know by the time this was written on December 9 – five months after the incident  - that Officer Wilson had killed Mr. Brown, they had been under sedation. 
 
 What this report did not say was that the cause of death was murder. But people unfamiliar with these phrases (and people steeped in knowledge gleaned from television programs) became highly upset that the autopsy had somehow proved Officer Wilson murdered Mr. Brown. Nothing could have been farther from the case. 
 
