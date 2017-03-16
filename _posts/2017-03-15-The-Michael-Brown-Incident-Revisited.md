@@ -197,7 +197,7 @@ Similarly, when reviewing this testimony, uninformed people have leapt to conclu
 
 <img width="600px" border="0" src="https://nselby.github.io/assets/img/wilson_tweet.png" />
 
-For some reason, Ms. Yates seems to think that anyone had suggested that Officer Wilson had claimed Mr. Brown had initially drawn Officer Wilson’s pistol from its holster. This is not the case, and the drawing of the pistol is irrelevant to the subsequent for its control. 
+For some reason, Ms. Yates seems to think that anyone had suggested that Officer Wilson had claimed Mr. Brown had initially drawn Officer Wilson’s pistol from its holster. This is not the case, and the drawing of the pistol is irrelevant to the subsequent struggle for its control. 
 
 Yet anger has risen. 
 
