@@ -9,7 +9,7 @@ A friend asked me on Facebook, “Can I possibly have understood this correctly?
 
 I imagine a lot of people are asking those questions these days. Here’s a <em>very rough</em> overview. You’ll need to do some research. 
 
-One possible source is our forthcoming book, <a href="https://www.amazon.com/Cyber-Survival-Manual-Apocalypse-Everything/dp/1681881756/ref=sr_1_2" target="_blank">Cyber Survival Manual: From Identity Theft to The Digital Apocalypse and Everything in Between</a>, coming out in paperback on October 10, 2017. It's by Heather Vescent, Eric Olson, Moeed Siddiqui, and me, published by Weldon Owen. 
+One possible source is our forthcoming book, <a href="https://www.amazon.com/Cyber-Survival-Manual-Apocalypse-Everything/dp/1681881756/ref=sr_1_2" target="_blank">Cyber Survival Manual: From Identity Theft to The Digital Apocalypse and Everything in Between</a>, coming out in paperback on October 10, 2017. It's by Heather Vescent, Eric Olson, Moeed Siddiqui, John Bear, and me, and published by <a href="http://www.weldonowen.com/" target="_blank">Weldon Owen</a>. 
 
 Facebook’s business model is to sell information about you to advertisers, and that is how they make their money. The rule on the Internet and in publishing is and has always been that, if you can’t understand how they make money, then <em>you</em> are the product. Consider that in March, 2017, Forbes estimated that Mark Zuckerberg has an <a href="https://www.forbes.com/profile/mark-zuckerberg/" target="_blank">estimated net worth of $59.4 billion</a> for providing a product given to you at no cost. Someone has to pay.
 
