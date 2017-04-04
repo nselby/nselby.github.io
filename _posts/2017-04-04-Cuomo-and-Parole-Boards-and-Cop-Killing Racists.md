@@ -2,9 +2,9 @@
 published: true
 layout: default
 ---
-<h1>Cheap Shots on Parole<br />
-Through Commutation of The Sentence of a<br />
-Multiple Cop-Killer</h1>
+<h1>Cheap Shots on Parole, Through<br />
+Commutation of The Sentence <br />
+of a Multiple Cop-Killing Mass Murderer</h1>
 <p><img class="right" width="500px" src="https://nselby.github.io/assets/img/brown_and_ogrady.png" /></p>
 
 Abuses, and strict adherence to original sentencing, by the New York Parole Board are a matter of record. On the other side of the coin are victims of the original crimes that led to harsh sentencing. Fixing these kinds of things is tricky, and takes thoughtfulness: it’s one thing to lean over too far backwards to accommodate parole requests and set free violent criminals. It’s quite another to fall flat on one’s face by refusing to grant parole under any conditions. 
