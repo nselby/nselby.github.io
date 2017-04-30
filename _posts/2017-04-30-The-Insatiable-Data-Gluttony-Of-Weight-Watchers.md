@@ -2,8 +2,7 @@
 published: true
 layout: default
 ---
-<h1>The Insatiable Data Gluttony <br />
-That Is <br />
+<h1>The Insatiable Data Gluttony That Is <br />
 The Weight Watchers Mobile App</h1>
 <p><img class="right" width="500px" src="https://nselby.github.io/assets/img/ww.png" /></p>
 
