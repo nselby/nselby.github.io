@@ -2,7 +2,9 @@
 published: true
 layout: default
 ---
-<h1>The Insatiable Data Gluttony That Is The Weight Watchers Mobile App</h1>
+<h1>The Insatiable Data Gluttony <br />
+That Is <br />
+The Weight Watchers Mobile App</h1>
 <p><img class="right" width="500px" src="https://nselby.github.io/assets/img/ww.png" /></p>
 
 In our forthcoming book, <a href="https://www.amazon.com/Cyber-Survival-Manual-Apocalypse-Everything/dp/1681881756/ref=sr_1_2" target="_blank"> Cyber Survival Manual: From Identity Theft to The Digital Apocalypse and Everything in Between</a>, Heather Vescent and I discuss mobile application settings and how they can be unfair to users by consuming more data than they actually need to provide the service the app provides.
