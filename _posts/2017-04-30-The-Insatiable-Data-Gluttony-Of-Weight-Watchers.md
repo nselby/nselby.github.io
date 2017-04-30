@@ -16,7 +16,9 @@ Their mobile app has some fascinating features, like the ability to scan a UPC b
 
 Here’s what’s not cool: ironically, the Weight Watchers Mobile app may be the most voracious data gobbling application on the planet. For an app designed to tell you how not to eat too much, the Weight Watchers Mobile app is itself a data sensualist; a personal information gorger; a mobile porker of epic proportions. 
 
-In addition to demanding your identity, locating and consuming every account on your device, and every contact you have, and exactly where you are at all times, and every single person you call, and every single person who has called you, this app gets greedy. 
+It commandeers your identity, locating and consuming all details of every account on your device, and every contact you have, and exactly where you are at all times, and every single person you call, and every single person who has called you. 
+
+Then this calorie-counter gets greedy. 
 
 Let’s try and consider why Weight Watchers would want to know who calls you. 
 
