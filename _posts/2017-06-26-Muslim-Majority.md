@@ -39,5 +39,5 @@ I’m not advocating the travel ban. I don’t know enough about it to opine one
 
 But I am advocating honesty and transparency in language and description of the proposed ban in our media. 
 
-
+--
 
