@@ -35,7 +35,8 @@ A Buzzfeed report’s headline blared last month, “Their Crime: Being Poor. Th
 
 <p>Today’s New York Times article, The Disproportionate Risks of Driving While Black, is either a highly important, 5700-word indictment of a corrupt and racist police department, or it is an irresponsible and scurrilous accusation against an entire department, plastered on the front page of the nation’s most widely circulated newspaper. The problem is, since the authors don’t share or summarize in any meaningful way the core data on which their report is based, or provide their methodology, we can’t know for sure until an independent analysis is performed. That, at a minimum, is poor journalism.</p>
 
-<a name="nyt"></a><h2>New York Times</h2>
+<a name="nyt"></a>
+<h2>New York Times</h2>
 
 <h3><a href="https://www.nytimes.com/2016/07/09/opinion/bad-guys-win-if-the-police-reject-protests.html">Bad Guys Win If Police Reject Protests</a></h3>
 
