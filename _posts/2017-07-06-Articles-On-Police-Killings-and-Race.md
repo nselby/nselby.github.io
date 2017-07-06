@@ -6,7 +6,7 @@ layout: default
 <h1>14 Articles On Police Killings and Race</h1>
 
 
-<p>A selection of articles I have written since 2016 about police killings and race in the <a href="#atu">Albany Times-Union</a>, <a href="#"fwst>Fort Worth Star-Telegram</a>, <a href="#med">Medium</a>, <a href="#nyt">The New York Times</a>, <a href="#rcp">Real Clear Policy</a>, <a href="#wp">The Washington Post</a>, and <a href="#usat">USA Today</a>.</p>
+<p>A selection of articles I have written since 2016 about police killings and race in the <a href="#atu">Albany Times-Union</a>, <a href="#fwst">Fort Worth Star-Telegram</a>, <a href="#med">Medium</a>, <a href="#nyt">The New York Times</a>, <a href="#rcp">Real Clear Policy</a>, <a href="#wp">The Washington Post</a>, and <a href="#usat">USA Today</a>.</p>
 
 <a name="atu"></a><h2>Albany Times Union</h2>
 
