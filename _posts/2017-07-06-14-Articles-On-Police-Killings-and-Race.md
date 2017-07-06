@@ -8,13 +8,15 @@ layout: default
 
 <p>A selection of articles I have written since 2016 about police killings and race in the <a href="#atu">Albany Times-Union</a>, <a href="#fwst">Fort Worth Star-Telegram</a>, <a href="#med">Medium</a>, <a href="#nyt">The New York Times</a>, <a href="#rcp">Real Clear Policy</a>, <a href="#wp">The Washington Post</a>, and <a href="#usat">USA Today</a>.</p>
 
-<a name="atu"></a><h2>Albany Times Union</h2>
+<a name="atu"></a>
+<h2>Albany Times Union</h2>
 
 <h3><a href="http://www.timesunion.com/tuplus-opinion/article/Cops-and-community-bond-is-key-6655097.php">Cops &amp; Community Bond Is Key</a></h3>
 
 <p>This past month saw several deadly encounters between police and unarmed civilians, including the highly controversial death in Minneapolis of Jamar Clark and the shooting by police in Opa-Locka, Fla., of Cornelius Brown. While there are, throughout the country, many points of serious disagreement between citizen protesters and police supporters, the death of Brown, as with the death of Donald &#8220;Dontay&#8221; Ivy in April in Albany, highlights one area on which agreement should be easy.</p>
 
-<a name="fwst"></a><h2>Fort Worth Star Telegram</h2>
+<a name="fwst"></a>
+<h2>Fort Worth Star Telegram</h2>
 
 <h3><a href="http://www.star-telegram.com/opinion/opn-columns-blogs/other-voices/article44190153.html">Debtor&#8217;s Jails In Texas</a></h3>
 
@@ -22,7 +24,8 @@ layout: default
 
 A Buzzfeed report’s headline blared last month, “Their Crime: Being Poor. Their Sentence: Jail.” As a Texas police officer, I’ve seen these sorts of stories play out firsthand. The real tragedy is that things don’t have to go that way if judges, prosecutors and, yes, police become more attuned to the financial circumstances of the people who get caught up in the legal system.</p>
 
-<a name="med"></a><h2>Medium</h2>
+<a name="med"></a>
+<h2>Medium</h2>
 
 <h3><a href="https://nselby.github.io/Take-a-4-am-Ride-out-With-Me/">Take A 4 a.m. Rideout With Me</a></h3>
 
@@ -38,7 +41,8 @@ A Buzzfeed report’s headline blared last month, “Their Crime: Being Poor. Th
 
 <p>Thursday night in Dallas, a calm and peaceful protest was shattered by a brutal precision attack against officers at the scene. Just moments before, some of those same officers had been amiably chatting with young families and others in the diverse group of demonstrators.</p>
 
-<a name="rcp"></a><h2>Real Clear Policy</h2>
+<a name="rcp"></a>
+<h2>Real Clear Policy</h2>
 
 <h3><a href="http://www.realclearpolicy.com/articles/2016/05/31/a_proactive_approach_to_policing_and_mental_health_1631.html">A Proactive Approach To Policing &amp; Mental Health</a></h3>
 
@@ -49,7 +53,8 @@ A Buzzfeed report’s headline blared last month, “Their Crime: Being Poor. Th
 <p>Calls for a national police use-of-force database have reached the executive branch, with Attorney General Loretta Lynch endorsing the idea publicly last week. As practitioners in the world of law-enforcement technology and data, we at StreetCred Software applaud the idea. The wrongful death of a citizen at the hands of a police officer is among the gravest of crimes.</p>
 
 
-<a name="wp"></a><h2>Washington Post</h2>
+<a name="wp"></a>
+<h2>Washington Post</h2>
 
 <h3><a href="https://www.washingtonpost.com/news/the-watch/wp/2016/06/20/guest-post-the-low-hanging-fruit-of-police-reform/">The Low Hanging Fruit Of Police Reform</a></h3>
 
@@ -73,7 +78,8 @@ In the past two years, deaths at the hands of police officers sparked protests, 
 
 <p>A year ago, I woke in the night with pain so severe I was crying before I was fully aware what was going on. A 50-year-old cop sobbed like a child in the dark. It was a ruptured disc and related nerve damage. Within a couple of months, it became so severe that I could no longer walk or stand. An MRI later, my surgeon soothingly told me it would all be okay. He would take care of me; the pain would end. After surgery, I never saw that surgeon again. A nurse practitioner handed me a prescription for painkillers — 180 tablets, 90 each of oxycodone and hydrocodone.</p>
 
-<a name="usat"></a><h2>USA Today</h2>
+<a name="usat"></a>
+<h2>USA Today</h2>
 
 <h3 class="asset-headline"><a href="https://www.usatoday.com/story/opinion/policing/2017/06/15/texas-newly-signed-sandra-bland-act-sets-example-rest-nation/102890214/">Texas&#8217; newly signed Sandra Bland Act sets example for rest of the nation</a></h3>
 
