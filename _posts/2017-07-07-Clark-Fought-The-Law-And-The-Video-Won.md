@@ -29,7 +29,7 @@ In fact, his column is a testament to why Americans are <a href="http://www.gall
 
 His column is that of a man angry that he got nailed for a stupid violation, and in trying to justify his behavior, he impugns the integrity of the officers who stopped him and their department; he implies that they abused him; he states that he was physically threatened. 
 
-<p><img width="600px" src="https://nselby.github.io/assets/img/clark_deputies_stop" /></p>
+<p><img width="600px" src="https://nselby.github.io/assets/img/clark_deputies_stop.jpg" /></p>
 
 I draw your attention to the photograph above which shows the most confrontational moment of the stop. Neither officer’s hand is on or near a weapon. Neither officer is taking a cover position. Neither officer is squared-off or aggressive. Instead, their positions are textbook: while the contact officer on the driver’s side of the vehicle speaks – politely – with the driver, the cover officer is looking inside the car for any sign of danger.
 
