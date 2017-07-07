@@ -49,3 +49,11 @@ Oh, one more thing, since he opened the door to it in his column: hey, “Ol’ 
 
 Well, brother, your writing sucks. 
 
+In an opinion piece yesterday, Managing Editor Charles L. Westmoreland responded to the Sheriff's rebuttal. It was a <a href="http://www.columbiatribune.com/news/20170706/tribune-editor-responds-to-bill-clark-column" target="_blank">well-balanced response</a> that I recommend everyone read. He took responsibility for having run the piece, defended his writer as someone who has served his community for decades, but rebuked the column itself. 
+
+“I can’t unpublish Clark’s column, but I will rebuke it,” Westmoreland wrote. “I personally don’t believe Clark was threatened by the deputies in any way, but I wasn’t inside his head and can’t say he didn’t feel threatened. I saw a deputy standing behind the car with his hands on his hips. Clark saw a deputy in his rearview mirror with his right hand next to his firearm. Perspectives differ from one person to the next. The dash cam video (and those of us who watched it) clearly had the better view.
+
+“Clark deserves consideration for his past contributions to the Tribune and our community,” Westmoreland continues. “He will, however, be suspended indefinitely and his historical segments and thrice-weekly commentary will not appear again until we’ve had the opportunity for further review.”
+
+Well done, Mr. Westmoreland. What a balanced response to this incident, and you have done well by the Boone County Sheriff, your newspaper, and even by Mr. Clark. 
+
