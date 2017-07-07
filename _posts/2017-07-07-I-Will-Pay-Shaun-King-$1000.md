@@ -74,6 +74,9 @@ So it probably isn’t Mr. Bonds whom Mr. King feels was “avoidable”.
 <h3>Tiffany Lynn Potter, July 5, Des Moines</h3>
 Police in <a href="http://www.kcrg.com/content/news/Woman-hospitalized-after-being-shot-by-police-in-Iowa-432636863.html" target="_blank">Des Moines Police say that Tiffany Lynn Potter</a> was trying to evade police in her car, then parked in a driveway that was not hers, and ran away from officers. Police said she had a handgun and fired it at police at least once, <a href="http://www.desmoinesregister.com/story/news/crime-and-courts/2017/07/05/woman-injured-officer-involved-shooting-des-moines-east-side/450846001/" target="_blank">while running away</a>. 
 
+
+
+<h3>And Now... The Bet</h3>
 So all in all, Mr. King, what do you think now, in your “professional estimation?” 
 
 Did 10 of those scenarios sound, in your mind, like the police really reacted badly and killed someone when it was “Avoidable?” I won’t ask you whether you understand that “Avoidable” isn’t a legal standard different from “Justifiable” (which isn’t a legal standard, either). 
