@@ -11,7 +11,7 @@ On July 7, 2017, Shaun King tweeted, “27 people have been killed by American p
 
 Well, Mr. King’s professional estimation is an important one. After all, he is a Daily News columnist, and he is influential. That first tweet was retweeted by more than 2,500 people. Still, I wonder about the number. 
 
-So I went to the Washington Post’s <a href="https://www.washingtonpost.com/graphics/national/police-shootings-2017/" target="_blank">Fatal Force</a> database. Mind you, that database only covers fatal police <em>shootings</em>. Now, my professional experience is that about 15% more people are intentionally killed each year by police than are shot - so if there are 1,000 people fatally shot by police in a given year, there will be about 150 more people who were died after a police encounter but who were not shot. The majority of those are drug overdoses and heart attacks.
+So I went to the Washington Post’s <a href="https://www.washingtonpost.com/graphics/national/police-shootings-2017/" target="_blank">Fatal Force</a> database. Mind you, that database only covers fatal police <em>shootings</em>. Now, my professional experience is that about 15% more people are intentionally killed each year by police than are shot - so if there are 1,000 people fatally shot by police in a given year, there will be about 150 more people who died after a police encounter but who were not shot. The majority of those are drug overdoses and heart attacks.
 
 Mr. King’s number of 27 comes from killedbypolice.net. Brian Burghart and I figured this out during a long phone call. 
 
