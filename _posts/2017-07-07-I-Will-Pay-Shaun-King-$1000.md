@@ -13,11 +13,13 @@ Well, Mr. King’s professional estimation is an important one. After all, he is
 
 So I went to the Washington Post’s <a href="https://www.washingtonpost.com/graphics/national/police-shootings-2017/" target="_blank">Fatal Force</a> database. Mind you, that database only covers fatal police <em>shootings</em>. Now, my professional experience is that about 15% more people are intentionally killed each year by police than are shot - so if there are 1,000 people fatally shot by police in a given year, there will be about 150 more people who were died after a police encounter but who were not shot. The majority of those are drug overdoses and heart attacks.
 
-But it’s strange that Mr. King’s number of 27 isn’t out there at all, except in Mr. King’s tweet. The Washington Post counted 15 people. I would expect, therefore, another three people to have died after not being shot - but hell: let’s call it another ten. That still doesn’t make 27. 
+Mr. King’s number of 27 comes from killedbypolice.net. Brian Burghart and I figured this out during a long phone call. 
 
-But let’s not quibble. Let’s go to the 15 people the Washington Post lists as being shot to death by police. 
+OK. In my experience, KBP includes a whole lot of noise - deaths in prison, accidental deaths, deaths in jail - none of which are police deaths. But whatever. The Washington Post counted 15 people. I would expect, therefore, another three people to have died after not being shot - but hell, let's not quibble: let’s spot Shaun another 12. It's not about the 27 (other than I think Mr. King pulls data out of his ass). It's about his "professional estimation" as to justification. 
 
-See, Mr. King avers that 10 of those 15 will be “avoidable”, or not “justifiable,” given his professional estimation.
+Let’s go to the 15 people the Washington Post lists as being shot to death by police. 
+
+See, Mr. King avers that 65% - 10 of those 15  - will be “avoidable”, or not “justifiable,” given his professional estimation.
 
 So which of these are the 10 “avoidable” police killings? 
 
@@ -81,7 +83,7 @@ So all in all, Mr. King, what do you think now, in your “professional estimati
 
 Did 10 of those scenarios sound, in your mind, like the police really reacted badly and killed someone when it was “Avoidable?” I won’t ask you whether you understand that “Avoidable” isn’t a legal standard different from “Justifiable” (which isn’t a legal standard, either). 
 
-But I will tell you that, after looking at all 15 of the 27 incidents that actually occured, I think that your “professional estimation” is just totally and completely wrong. I’d welcome your comments, but you’ll never give them to me. Because frankly, when it comes to facts, you really couldn’t possibly care less. 
+But I will tell you that, after looking at all 15 of the WaPo incidents that actually occured, I think that your “professional estimation” is just totally and completely wrong. I’d welcome your comments, but you’ll never give them to me. Because frankly, when it comes to facts, you really couldn’t possibly care less. 
 
 Tell you what - I’ll make it interesting: I will give you $1,000 in hard cold green cash if you can show me, based on police tactics and training, under the law, and the policies of each department, with source material, how ten of those incidents were “Avoidable.”
 
