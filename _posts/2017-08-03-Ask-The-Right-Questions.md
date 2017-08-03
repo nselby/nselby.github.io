@@ -3,7 +3,7 @@ published: true
 layout: default
 ---
 <h1>Ask The Right Questions</h1>
-<p><img class="right" width="500px" src="http://blog.udacity.com/wp-content/uploads/2014/11/data_analysis1.jpg" /></p>
+<p><img class="right" width="350px" src="http://blog.udacity.com/wp-content/uploads/2014/11/data_analysis1.jpg" /></p>
 
 
 People are asking a lot of questions about what do police do, and whether they do things right.  
