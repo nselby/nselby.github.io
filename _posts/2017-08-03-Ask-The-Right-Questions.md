@@ -8,11 +8,17 @@ layout: default
 
 People are asking a lot of questions about what do police do, and whether they do things right.  
 
-One of the biggest challenges is that public expectations are high. Television police procedurals have groomed people to expect that police can easily get any data they need. That’s wildly unrealistic. Television programs misrepresent woefully the technological capabilities of police services.
+Answering important questions about law enforcement being asked today requires a collaborative approach that starts before data is even gathered.
+
+Part of the problem is police culture. We’re just not that good at data. We lack the tools and training to make sense of the mountains of data we collect.  We also hate speaking when we’re uncertain. Until recently, no cop got in trouble for not saying something. That’s changed in the past 10 years with the rise of data journalism, but the instinct remains.
+
+Cops usually are uncomfortable with change. Most police procedures are established to prevent repeating a tragic mistake. Things that alter those procedures cause a real fear of unknowable, unintended consequences. We hate that. To the rest of world, this looks like defensiveness, but really it’s a fear that doing something other than what proved to work in the past brings risk – risk of life and of limb.
+
+Another challenge is that public expectations are high. Television police procedurals have groomed people to expect that police can easily get any data they need. That’s wildly unrealistic. Television programs misrepresent woefully the technological capabilities of police services.
 
 Cases of deadly force are among the most important and the most rare. In the United States, about 0.02 percent of <a href="https://www.bjs.gov/content/pub/pdf/pbtss11.pdf" target="_blank">face-to-face encounters</a> result in a use of deadly force. The other 99.98 percent of the time, police are just policing. 
 
-Despite how infrequently deadly police encounters occur, they command tremendous public interest. Any time a life is lost the incident and relevant practices deserve special scrutiny.
+Yet, despite how infrequently deadly police encounters occur, they command tremendous public interest. Any time a life is lost the incident and relevant practices deserve special scrutiny.
 
 The question people ask most often is, “How often do you shoot people, and what are their races and genders?” That’s a ham-fisted proxy for the real concern, “Are you treating our communities fairly?” 
 
