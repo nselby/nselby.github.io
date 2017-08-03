@@ -10,7 +10,7 @@ People are asking a lot of questions about what do police do, and whether they d
 
 One of the biggest challenges is that public expectations are high. Television police procedurals have groomed people to expect that police can easily get any data they need. That’s wildly unrealistic. Television programs misrepresent woefully the technological capabilities of police services.
 
-Cases of deadly force are among the most important and the most rare. In the United States, about 0.02 percent of face-to-face encounters result in a use of deadly force. The other 99.98 percent of the time, police are just policing. 
+Cases of deadly force are among the most important and the most rare. In the United States, about 0.02 percent of <a href="https://www.bjs.gov/content/pub/pdf/pbtss11.pdf" target="_blank">face-to-face encounters</a> result in a use of deadly force. The other 99.98 percent of the time, police are just policing. 
 
 Despite how infrequently deadly police encounters occur, they command tremendous public interest. Any time a life is lost the incident and relevant practices deserve special scrutiny.
 
