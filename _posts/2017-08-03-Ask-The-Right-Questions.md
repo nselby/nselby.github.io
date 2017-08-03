@@ -6,7 +6,7 @@ layout: default
 <p><img class="right" width="350px" src="http://blog.udacity.com/wp-content/uploads/2014/11/data_analysis1.jpg" /></p>
 
 
-People are asking a lot of questions about what do police do, and whether they do things right.  
+People are asking a lot of questions about what police do, and whether they do things right.  
 
 Answering important questions about law enforcement being asked today requires a collaborative approach that starts before data is even gathered.
 
