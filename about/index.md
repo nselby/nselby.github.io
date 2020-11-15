@@ -4,9 +4,9 @@ title: About
 published: true
 ---
 
-<p>Nick Selby writes on law enforcement, data, technology and information security. He is currently focusing his research in the areas of finding better solutions to the challenges posed by law enforcement and those suffering from mental illness, physical disabilities, and drug addiction. Nick is also conducting research of the dilemmas faced by the millions of people who suffer from chronic pain.</p>
+<p>Nick Selby writes on law enforcement, data, technology and information security. </p>
 
-<p>Nick is a police detective at a Texas law enforcement agency.  His <a href="https://medium.com/@nselby/" target="_blank">old blog</a> on Medium.com was popular. Nick has a <a href="https://en.wikipedia.org/wiki/Nick_Selby" target="_blank">Wikipedia</a> page, and a personal <a href="http://nickselby.com" target="_blank">website</a>.</p> 
+<p>Nick is CSO at a financial services company, and was an executive at the NYPD, and a police detective at a Texas law enforcement agency.  His <a href="https://medium.com/@nselby/" target="_blank">old blog</a> on Medium.com was popular. Nick has a personal <a href="http://nickselby.com" target="_blank">website</a>.</p> 
 
 
 <h3>Books</h3>
