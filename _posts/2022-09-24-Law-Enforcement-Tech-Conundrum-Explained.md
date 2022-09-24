@@ -36,7 +36,7 @@ In 10 years of driving around in a police car I never once pulled over a Baldwin
 
 Had the cops in the company consulted on this; had user-acceptance testing been conducted in the car, with company product managers watching users actually use the product; then they would have made TWO lists. The first autocomplete list would have ONLY the top brands of cars by ownership - Chevy, Ford, Toyota, Honda, etc. If the car being searched doesn't appear in that list, then the autocomplete list of all cars starting with the letter combinations entered, alphabetically, should be proffered. 
 
-...Over the years this failure to is aggravated by new features that never optimize extant ones, and five years in you have an expert system no one can understand, totally unintuitive, hated by all users, but tolerated because "fucking computers." Ahem. 
+Over the years this failure to optimize for the tasks at hand, anticipating the next obvious step in law enforcement processes, is aggravated by new features that never optimize extant ones, and five years in you have an expert system no one can understand, totally unintuitive, hated by all users, but tolerated because "fucking computers." Ahem. 
 
 ### Regional Vendor Hegemony
 
