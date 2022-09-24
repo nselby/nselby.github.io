@@ -1,9 +1,10 @@
 ---
 published: true
 layout: default
-title: Law Enforcement Tech Conundrum Explained
 ---
   
+  
+<h1>Law Enforcement's Tech Conundrum Explained</h1>  
 
 Recently I had to check whether a particular Colt .38 revolver had been stolen. I was checking on the world's stupidest law enforcement Records Management System. So, I entered the serial number, the make (Colt), model (Detective Special), caliber (.38 Special). I immediately was presented with a festival of errors (38 SPEC not .38 Special, etc). OK, so I solved the errors through more trial and error - entering it again, getting more errors, entering it again, getting more errors, and then finally, the query was accepted!
 
