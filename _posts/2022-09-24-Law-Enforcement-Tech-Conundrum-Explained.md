@@ -1,11 +1,8 @@
 ---
 published: true
 layout: default
-title: Law Enforcement Technology: The Primer
+title: Law Enforcement Tech Conundrum Explained
 ---
-
-## Law Enforcement Technology: The Primer
-
   
 <p>Latest</p>
 
