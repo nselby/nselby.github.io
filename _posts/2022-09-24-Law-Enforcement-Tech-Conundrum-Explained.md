@@ -10,33 +10,7 @@ layout: default
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-Recently I had to check whether a particular Colt .38 revolver had been stolen. I was checking on the world's stupidest law enforcement Records Management System. So, I entered the serial number, the make (Colt), model (Detective Special), caliber (.38 Special). I immediately was presented with a festival of errors (38 SPEC not .38 Special, etc). OK, so I solved the errors through more trial and error - entering it again, getting more errors, entering it again, getting more errors, and then finally, the query was accepted!
 
-Uh oh. The gun was stolen! 
-
-Wait wait. I read more closely the result. Yeah, the serial number is right. But the gun listed as stolen was a Charter Arms .44 Bulldog, not a Colt .38 Special Detective Special. 
-
-OK, try again... 
-
-Error. Literally five tries later I am awarded, magnanimously, with a screen of the actual gun I was running. No hits. 
-
-As a technology user who has once visited the Travelocity website, I have some questions: 
-
-* How could entering the S/N and manufacturer name of a gun not be sufficient for 99.9% of queries? 
-* How could entering be so difficult and manual? 
-* How could I enter "38" and get a result for a .44? 
-* Come to think of it, how could I enter COLT as a manufacturer and get a result for a Charter Arms gun?
-* Etc.
-
-The answers are that the product was made by non-cop, sub-standard, subcontracted, non-native-English speaker developers who are working in deprecated languages, writing crappy code that is not user-tested, to solve problems none of the developers understand. 
-
-To them, my problems were data entry issues. 
-
-To cops, it's a "stupid" issue. 
-
-But the chief is happy. The system "works" in the sense that he can find what he needs when he needs to. The price is right. The cops using it for a long time have developed hundreds of workarounds for the stupidity of the system, so they can function more or less "efficiently". They hate their user experience, but the work gets done. 
-
-All that you just read is a perfect encapsulation of the state of law enforcement technology. 
 
 Recently on Twitter someone asked why paperwork could not be made easier for cops. 
 
