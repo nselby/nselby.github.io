@@ -1,5 +1,6 @@
 ---
 published: true
+layout: default
 ---
 
 ## Law Enforcement Technology: The Primer
