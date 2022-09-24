@@ -1,7 +1,7 @@
 ---
 published: true
 layout: default
-title: Law Enforcement Technology: The Prime
+title: Law Enforcement Technology: The Primer
 ---
 
 ## Law Enforcement Technology: The Primer
