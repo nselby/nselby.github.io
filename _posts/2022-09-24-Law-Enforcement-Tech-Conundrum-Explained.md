@@ -48,9 +48,9 @@ Another reason for regional hegemony: certain agencies: NYPD, LAPD, Fort Worth a
   
 Then we have the issue of Criminal Justice Information Services or CJIS, which is nominally overseen by [FBI](https://www.fbi.gov/services/cjis). All evidence and generally all case information must be stored in CJIS compliant systems, but getting approval for that is literally a 50-state problem. Vendors must demonstrate compliance with one main ruleset and 50 state interpretations... 
 
-Not only does CJIS approval in Texas not help you in, say, Indiana or NY, but the path forward is different in each state, too. And you'll get absolutely nowhere until the state CJIS folks are cool with your whatsit. And there is no CJIS checklist. BASICALLY, CJIS is a modestly stronger standard than PCI, but it's not a prescriptive tickbox like PCI. 
+Not only does CJIS approval in Texas not help you in, say, Indiana or NY, but the path forward is different in each state, too. And you'll get absolutely nowhere until the state CJIS folks are cool with your whatsit. And there is no CJIS checklist. *Basically*, CJIS is a modestly stronger standard than PCI, but it's not a prescriptive tickbox like PCI. 
 
-CJIS rulesets on a state by state basis are better compared to regional CULTURAL differences than to state technical standards. AWS learned this the hard, long, expensive way... 
+CJIS rulesets on a state by state basis are better compared to regional *cultural* differences than to state technical standards. AWS learned this the hard, long, expensive, dumb way... 
 
 Once you've got all that, now you only have to convince someone that it is better to spend the money that would buy a new Tahoe, or inherent bias training for 50, that the money is best spent with you solving a problem they have handled for decades by telling cops to do it. 
 
@@ -74,7 +74,7 @@ There are other examples. It could be argued that [Cellebrite](https://cellebrit
 
 That doesn't mean people can't make lots of money in LE tech. Just that it is a regional slog. It's also a market that is both highly fragmented into about 18,000 pieces, with confusing lines of demarcation of regional hegemony. 
 
-And remember, your competition is usually a manual process and a spreadsheet. There is a book called Better Policing With Microsoft Office. To a chief, this is a FREE solution to the problem you seek them to pay you to solve - cops are a sunk cost, and to add to that: 
+And remember, your competition is usually a manual process and a spreadsheet. There is a book - a successful one - called [Better Policing With Microsoft Office](https://www.amazon.com/Better-Policing-Microsoft-Office-2007/dp/1439253285/ref=sr_1_1). To a chief, cops are a FREE solution to the problem *you* seek them to pay you to solve - their cops are a sunk cost, and to add to that: 
 
 Cops is the only place economics generally don't matter. A cop spending 600 hours doing something is fine - there's no profit motive. it doesn't matter if it takes two years to investigate a murder because the result desired is closing the case - money is literally NOT an issue. 
 
