@@ -57,7 +57,7 @@ This aggregation of data from heterogeneous systems required many things that ma
 <ul>
  <li><strong>Locate the data within the correct system</strong>. Police records are *always* in a different place from where you'd expect. Sometimes they are not even in police systems, they're in the court system. As cops ourselves, we knew which questions to ask, and we didn't have commercial bias telling us not to deal, for example, with anything from Vendor X.</li>
 
- <li><strong>Ingest, aggregate, de-duplicate, index, correlate</strong>. Just having the data is not the answer, it needs to be usable.</li>
+ <li><strong>Export, ingest, aggregate, normalize, de-duplicate, index, correlate</strong>. Just having the data is not the answer, it needs to be usable.</li>
 
  <li><strong>Let the data tell the story</strong>. Law enforcement is inundated and overwhelmed with data. We converted the data to information, the information to intelligence. What about the data do I need to know, and when? Most of our algorithm was *dis*qualifying inclusion - throwing data away. For example, if you have a corpus of 160,000 active warrants, the first question should be "How many of the people in this corpus have died?" and then removing all those warrants from the system. Turned out it was routinely 1%-2% of the total.</li>
 </ul>
