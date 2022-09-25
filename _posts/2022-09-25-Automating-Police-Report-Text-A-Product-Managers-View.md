@@ -13,7 +13,7 @@ Recently on Twitter, [Peter Moskos](https://twitter.com/petermoskos") asked why 
 
 ### One Way We Automated Report Content at StreetCred
 
-My former company, StreetCred - which as CEO I crashed into the side of a mountain - had some pretty fantastic law enforcement technology - not "for its time" but just, full stop great tech. WHen I say I "crashed it into the side of a mountain," our failure was funding; the 15 agencies running the tool all loved it, and reported low- to mid-double-digit improvements in the closure rates of cases they worked with it. 
+My former company, StreetCred - which as CEO I crashed into the side of a mountain - had some pretty fantastic law enforcement technology - not "for its time" but just, full stop great tech. When I say I "crashed it into the side of a mountain," our failure was funding; the 15 agencies running the tool all loved it, and reported low- to mid-double-digit improvements in the closure rates of cases they worked with it. 
 
 So I think I am well-suited to talk about tech. No one should listen to me about money.
 
