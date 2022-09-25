@@ -15,7 +15,9 @@ Recently on Twitter, [Peter Moskos](https://twitter.com/petermoskos) asked why p
 
 ## One Way We Automated Report Content at StreetCred
 
-My former company, StreetCred - which as CEO I crashed into the side of a mountain - had some pretty fantastic law enforcement technology - not "for its time" but just, full stop great tech. When I say I "crashed it into the side of a mountain," our failure was funding; the 15 agencies running the tool all loved it, and reported low- to mid-double-digit improvements in the closure rates of cases they worked with it. 
+My former company, StreetCred - which as CEO I crashed into the side of a mountain - had some pretty fantastic law enforcement technology - not "for its time" but just, full stop great tech. Sure, it sucked, too. It is tech. But it was great because it removed toil, provided all the information needed to do the job without preaching about *how* the job should be done; it anticipated beautifully what the users would need to do next, and provided it - plus a way to easily break out of *our* expected workflow when the *user* wanted to make it different. 
+
+My failure was funding; the nearly 20 agencies running the tool all loved it, and reported low- to mid-double-digit improvements in the closure rates of cases they worked with it. 
 
 So I think I am well-suited to talk about tech. No one should listen to me about money. If you're thinking about making law enforcement technology, you should read this and learn from our toil, mistakes, and false-starts; by which I mean, our wisdom.
 
@@ -48,11 +50,11 @@ It aggregated records from multiple local, county, state, and federal systems, a
 
 This aggregation of data from heterogeneous systems required many things that many LE tech vendors are unwilling or unable to do:
 
-- **Locate the data within the correct system**. Police records are *always* in a different place from where you'd expect. Sometimes they are not even in police systems, they're in the court system. As cops ourselves, we knew which questions to ask, and we didn't have commercial bias telling us not to deal, for example, with anything from Vendor X.
+- *Locate the data within the correct system*. Police records are *always* in a different place from where you'd expect. Sometimes they are not even in police systems, they're in the court system. As cops ourselves, we knew which questions to ask, and we didn't have commercial bias telling us not to deal, for example, with anything from Vendor X.
 
-- **Ingest, aggregate, de-duplicate, index, correlate**. Just having the data is not the answer, it needs to be usable. 
+- *Ingest, aggregate, de-duplicate, index, correlate*. Just having the data is not the answer, it needs to be usable. 
 
-- **Let the data tell the story**. Law enforcement is inundated and overwhelmed with data. We converted the data to information, the information to intelligence. What about the data do I need to know, and when? Most of our algorithm was *dis*qualifying inclusion - throwing data away. For example, if you have a corpus of 160,000 active warrants, the first question should be "How many of the people in this corpus have died?" and then removing all those warrants from the system. Turned out it was routinely 1%-2% of the total. 
+- *Let the data tell the story*. Law enforcement is inundated and overwhelmed with data. We converted the data to information, the information to intelligence. What about the data do I need to know, and when? Most of our algorithm was *dis*qualifying inclusion - throwing data away. For example, if you have a corpus of 160,000 active warrants, the first question should be "How many of the people in this corpus have died?" and then removing all those warrants from the system. Turned out it was routinely 1%-2% of the total. 
 
 ### Finding The Data
 
@@ -148,6 +150,6 @@ In each case, we would find the easiest way to export raw data from the systems,
 
 Think of the Level of intricate subject matter expertise described here. First, we needed to understand that the data existed. Second, we needed to figure out where it was. Third, we needed to get the permission of that agency overseeing the desired data-set to allow it to be used for the purpose. Then we needed to get the permission of the vendor making the system that stored the data. Then we needed to reverse engineer the process of getting the data out of whatever weird, proprietary, non-relational flat-file or relational database it's in, normalize it, then ingest it and de-moronize it to place it in an open standard format. Finally, we got to process the data. 
 
-That's a lot of expertise, a lot of horse-trading, and a lot of hard work, and most vendors won't do it and most chiefs, judges, and city administrators and attorneys won[t allow it.  
+That's a lot of expertise, a lot of horse-trading, and a lot of hard work, and most vendors won't do it and most chiefs, judges, and city administrators and attorneys won't allow it.  
 
 When you ask yourself why we can't "just" automate report writing, this should give you some insights into *some* of the answers.
