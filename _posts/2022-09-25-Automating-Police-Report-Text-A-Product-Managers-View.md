@@ -9,7 +9,6 @@ layout: default
 
 <a href="https://nselby.github.io/assets/img/Peter-Tweet.png" target="_blank"><img src="/assets/img/Peter-Tweet.png" width="500" border="0" /></a>
 
-<p>&nbsp;</p>
 
 Recently on Twitter, [Peter Moskos](https://twitter.com/petermoskos) asked why paperwork could not be made easier for cops.
 
