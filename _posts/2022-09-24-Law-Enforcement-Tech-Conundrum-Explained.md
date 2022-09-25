@@ -56,7 +56,7 @@ Once you've got all that, now you only have to convince someone that it is bette
 
 That last part is tough. Anyone selling tech into LE knows that no matter what the chief wants, the angriest sergeant can destroy you simply by not pushing it, or saying it creates an officer safety issue to use - that slowed automated citation writing tools for years. 
 
-### Innovating In Law Enorcement Technology
+### Innovating In Law Enforcement Technology
 
 Truly innovative LE companies must compete with terrible extant technologies and all those cultural and systemic issues. The problem is 10% technology, and the rest is cultural, political, and financial. This means starting up is very hard... 
 
