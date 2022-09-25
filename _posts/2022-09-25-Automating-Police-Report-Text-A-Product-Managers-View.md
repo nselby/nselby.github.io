@@ -40,7 +40,7 @@ The rest of this article is how we did it, and why it is not easy at all.
 
 ### What StreetCred Did
 
-<p><a href="https://nselby.github.io/assets/img/SC-tough.png" target="_blank"><img src="/assets/img/SC-tough.png" width="500" border="0" class="right" /></a>
+<p><a href="https://nselby.github.io/assets/img/SC-tough.png" target="_blank"><img src="/assets/img/SC-tough.png" width="300" border="0" class="right" /></a>
 
 It aggregated records from multiple local, county, state, and federal systems, and then algorithmically analyzed the data to help, for example, determine the current location of wanted fugitives and, more important, analyze police interaction with civilians over time to determine which officers were behaving poorly. By "algorithmically analyzed" I mean that this was not Machine Learning, but it was orderly: a series of nested if/then/else statements. 
 
