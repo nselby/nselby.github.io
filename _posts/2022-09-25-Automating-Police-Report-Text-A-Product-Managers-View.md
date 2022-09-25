@@ -16,7 +16,7 @@ Recently on Twitter, [Peter Moskos](https://twitter.com/petermoskos) asked why p
 
 My former company, StreetCred - which as CEO I crashed into the side of a mountain - had some pretty fantastic law enforcement technology - not "for its time" but just, full stop great tech. Sure, it sucked, too. It is tech. But it was great because it removed toil, provided all the information needed to do the job without preaching about *how* the job should be done; it anticipated beautifully what the users would need to do next, and provided it - plus a way to easily break out of *our* expected workflow when the *user* wanted to make it different. 
 
-My failure was funding; the nearly 20 agencies running the tool all loved it, and reported low- to mid-double-digit improvements in the closure rates of cases they worked with it. 
+My failure was funding; the nearly 20 agencies running the tool all loved it, and reported low- to mid-double-digit percentage improvements in the closure rates of cases they worked with it. 
 
 So I think I am well-suited to talk about tech. No one should listen to me about money. If you're thinking about making law enforcement technology, you should read this and learn from our toil, mistakes, and false-starts; by which I mean, our wisdom.
 
