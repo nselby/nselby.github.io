@@ -154,7 +154,7 @@ In each case, we would find the easiest way to export raw data from the systems,
 
 ## Why Don't More People Do This?
 
-Think of the Level of intricate subject matter expertise described here. First, we needed to understand that the data existed. Second, we needed to figure out where it was. Third, we needed to get the permission of that agency overseeing the desired data-set to allow it to be used for the purpose. Then we needed to get the permission of the vendor making the system that stored the data. Then we needed to reverse engineer the process of getting the data out of whatever weird, proprietary, non-relational flat-file or relational database it's in, normalize it, then ingest it and de-moronize it to place it in an open standard format. Finally, we got to process the data. 
+Think of the level of intricate subject matter expertise described here. First, we needed to understand that the data existed. Second, we needed to figure out where it was. Third, we needed to get the permission of that agency overseeing the desired data-set to allow it to be used for the purpose. Then we needed to get the permission of the vendor making the system that stored the data. Then we needed to reverse engineer the process of getting the data out of whatever weird, proprietary, non-relational flat-file or relational database it's in, normalize it, then ingest it and de-moronize it to place it in an open standard format. Finally, we got to process the data. 
 
 That's a lot of expertise, a lot of horse-trading, and a lot of hard work, and most vendors won't do it and most chiefs, judges, and city administrators and attorneys won't allow it.  
 
