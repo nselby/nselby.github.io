@@ -15,7 +15,7 @@ Recently on Twitter, [Peter Moskos](https://twitter.com/petermoskos") asked why 
 
 My former company, StreetCred - which as CEO I crashed into the side of a mountain - had some pretty fantastic law enforcement technology - not "for its time" but just, full stop great tech. When I say I "crashed it into the side of a mountain," our failure was funding; the 15 agencies running the tool all loved it, and reported low- to mid-double-digit improvements in the closure rates of cases they worked with it. 
 
-So I think I am well-suited to talk about tech. No one should listen to me about money.
+So I think I am well-suited to talk about tech. No one should listen to me about money. If you're thinking about making law enforcement technology, you should read this and learn from our toil, mistakes, and false-starts; by which I mean, our wisdom.
 
 ### TL;DR
 As experts in the processes of serving arrest warrants, we noticed that writing the narrative for police reports was a real slog. Cops would need to copy stuff from the warrant to the report - stuff that wasn't easy for humans to copy, like driver license numbers, penal code entries, street addresses, descriptions... All the basic identifiers and references that computers can do faster than we can think of how to do it.
@@ -54,23 +54,23 @@ This aggregation of data from heterogeneous systems required many things that ma
 
 #### Finding The Data
 
-I said our police expertise ave us insight into police data sprawl. As an example, consider the police record of a vehicle stop that led to a probable-cause search of the vehicle, that led to an arrest, and after the person was released, an arrest warrant was issued on more complex charges. An every day thing. 
+I said our police expertise gave us insight into police data sprawl. As an example, consider the police record of a vehicle stop that led to a probable-cause search of the vehicle, that led to an arrest, and after the person was released, an arrest warrant was issued on more complex charges. An every day thing. 
 
 But, as examples: 
 
 * The data for the car stop is probably in the Computer Aided Dispatch system.
-* The data that there was a search is probably in the CAD, plus perhaps in the Records Management System. 
-* The data of the fruits of the search will be referred to in the RMS and stored in the Evidence Management System. 
-* The data about the arrest itself will be in the CAD and the arrest report in the RMS, the booking and jail data in the Jail Records Management System
-* The data about what was taken from the arrestee would be in the Evidence Management System
-* The data about the arrest warrant will be in the Court Records Management System
-* The arrest warrant itself will be maintained in a paper copy in the court filing system
+* The data that there *was* a search is probably in the CAD, plus perhaps in the Records Management System. 
+* The data of the *fruits of the search* will be referred to in the RMS, and stored in the Evidence Management System. 
+* The data about the arrest itself will be in the CAD and the arrest report in the RMS, the booking and jail data in the Jail Records Management System.
+* The data about what was taken from the arrestee on Booking and subsequent to search would be in the Evidence Management System.
+* The data about the arrest warrant will be in the Court Records Management System.
+* The arrest warrant itself will be maintained in a paper copy in the court filing system.
 
-Knowing where to find these systems - often (in smaller agencies) stored in different non-integrated systems made by different manufacturers is just half the battle. Then one must access the data within. We chose inter-operability over the much more complicated, expensive, and time consuming "integration"; the former meant we ask these systems regularly for updates, and update our records separately, continuing to treat the original system as the One Source of Truth. That meant we could not write our findings back. 
+Knowing where to find these systems - often (in smaller agencies) stored in different non-integrated systems made by different manufacturers is just half the battle. Then one must access the data within - legally, politically, organizationally, technically. We chose inter-operability over the much more complicated, expensive, and time consuming "integration"; the former meant we ask these systems regularly for updates, and update our records separately, continuing to treat the original system as the One Source of Truth. That meant we could not write our findings back. Their loss.
 
 #### Opening Our Data
 
-We made a decision at the very beginning to open our data:
+So as not to be part of the larger problem ourselves, we made a decision at the very beginning to open our data:
 
 * All our data was in standard formats (e.g., JSON);
 * All our data was freely available to the client agency without our involvement;
