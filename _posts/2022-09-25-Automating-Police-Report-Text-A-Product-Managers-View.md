@@ -7,7 +7,7 @@ layout: default
 
 <h1>Automating Police Report Text: A Product Manager's View</h1>  
 
-<p><a href="https://nselby.github.io/assets/img/Peter-Tweet.png" target="_blank"><img src="/assets/img/Peter-Tweet.png" width="500" border="0" class="right" /></a>
+<p><a href="https://nselby.github.io/assets/img/Peter-Tweet.png" target="_blank"><img src="/assets/img/Peter-Tweet.png" width="500" border="0" class="right" /></a></p>
 
 <p>&nbsp;</p>
 
