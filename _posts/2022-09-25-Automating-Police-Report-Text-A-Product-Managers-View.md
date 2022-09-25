@@ -50,11 +50,13 @@ It aggregated records from multiple local, county, state, and federal systems, a
 
 This aggregation of data from heterogeneous systems required many things that many LE tech vendors are unwilling or unable to do:
 
-- *Locate the data within the correct system*. Police records are *always* in a different place from where you'd expect. Sometimes they are not even in police systems, they're in the court system. As cops ourselves, we knew which questions to ask, and we didn't have commercial bias telling us not to deal, for example, with anything from Vendor X.
+<ul>
+ <li><strong>Locate the data within the correct system</strong>. Police records are *always* in a different place from where you'd expect. Sometimes they are not even in police systems, they're in the court system. As cops ourselves, we knew which questions to ask, and we didn't have commercial bias telling us not to deal, for example, with anything from Vendor X.</li>
 
-- *Ingest, aggregate, de-duplicate, index, correlate*. Just having the data is not the answer, it needs to be usable. 
+ <li><strong>Ingest, aggregate, de-duplicate, index, correlate</strong>. Just having the data is not the answer, it needs to be usable.</li>
 
-- *Let the data tell the story*. Law enforcement is inundated and overwhelmed with data. We converted the data to information, the information to intelligence. What about the data do I need to know, and when? Most of our algorithm was *dis*qualifying inclusion - throwing data away. For example, if you have a corpus of 160,000 active warrants, the first question should be "How many of the people in this corpus have died?" and then removing all those warrants from the system. Turned out it was routinely 1%-2% of the total. 
+ <li><strong>Let the data tell the story</strong>. Law enforcement is inundated and overwhelmed with data. We converted the data to information, the information to intelligence. What about the data do I need to know, and when? Most of our algorithm was *dis*qualifying inclusion - throwing data away. For example, if you have a corpus of 160,000 active warrants, the first question should be "How many of the people in this corpus have died?" and then removing all those warrants from the system. Turned out it was routinely 1%-2% of the total.</li>
+</ul>
 
 ### Finding The Data
 
@@ -153,3 +155,4 @@ Think of the Level of intricate subject matter expertise described here. First, 
 That's a lot of expertise, a lot of horse-trading, and a lot of hard work, and most vendors won't do it and most chiefs, judges, and city administrators and attorneys won't allow it.  
 
 When you ask yourself why we can't "just" automate report writing, this should give you some insights into *some* of the answers.
+
