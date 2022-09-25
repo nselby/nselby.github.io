@@ -10,7 +10,7 @@ layout: default
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-
+{{< tweet user="PeterMoskos" id="1573354750141161472" >}} 
 
 Recently on Twitter someone asked why paperwork could not be made easier for cops. 
 
