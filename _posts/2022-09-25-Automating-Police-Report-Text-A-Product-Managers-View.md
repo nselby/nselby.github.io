@@ -58,7 +58,7 @@ This aggregation of data from heterogeneous systems required many things that ma
 
  <li><strong>Export, ingest, aggregate, normalize, de-duplicate, index, correlate</strong>. Just having the data is not the answer, it needs to be usable.</li>
 
- <li><strong>Let the data tell the story</strong>. Law enforcement is inundated and overwhelmed with data. We converted the data to information, the information to intelligence. What about the data do I need to know, and when? Most of our algorithm was *disqualifying* inclusion - throwing data away. For example, if you have a corpus of 160,000 active warrants, the first question should be "How many of the people in this corpus have died?" and then removing all those warrants from the system. Turned out it was routinely 1%-2% of the total.</li>
+ <li><strong>Let the data tell the story</strong>. Law enforcement is inundated and overwhelmed with data. We converted the data to information, the information to intelligence. What about the data do I need to know, and when? Most of our algorithm was *disqualifying* inclusion - throwing data away. For example, if you have a corpus of 160,000 active warrants, the first question should be "How many of the people in this corpus have died?" and then removing all those warrants from the system. Turned out it was routinely 1%-2% of the total. The software correlated by asking of the data about 75 of these kinds of questions, then presenting the results in an ordered list ranging from "Easiest": to "Hardest" (or whatever you'd like it to sort by).</li>
 </ul>
 
 ### Finding The Data
